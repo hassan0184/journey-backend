@@ -1,0 +1,2986 @@
+[{
+  "_id": {
+    "$oid": "650e4a8c376d0f27cd1a47e7"
+  },
+  "name": "Play a TTRPG Game",
+  "description": "Running or being a player in a TTRPG game can be a unique and collaborative experience with others, as well as allowing for the ability to expand one's imagination and social interactions.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 3,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-09-23T02:16:44.765Z"
+  },
+  "created": {
+    "$date": "2023-09-23T02:16:44.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65122cca376d0f27cd1a4986"
+  },
+  "name": "Going on a Trip",
+  "description": "This experience may encourage you to go out and try to plan an excursion to another country, or even somewhere local to have a casual adventure of sorts.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-09-26T00:58:50.752Z"
+  },
+  "created": {
+    "$date": "2023-09-26T00:58:50.752Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651230ea376d0f27cd1a4a09"
+  },
+  "name": "Studying Mythology",
+  "description": "Perhaps engaging with this media might inspire you to look more into ancient mythologies and their stories from around the world.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-09-26T01:16:26.189Z"
+  },
+  "created": {
+    "$date": "2023-09-26T01:16:26.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516f80c5a597c994ffe9a1b"
+  },
+  "name": "Learning to Skateboard",
+  "description": "Learning how to skate can be a great way to learn improved body coordination and dexterity, as well as a way to have some fun in a day.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-09-29T16:15:08.129Z"
+  },
+  "created": {
+    "$date": "2023-09-29T16:15:08.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fc0f5a597c994ffe9ac3"
+  },
+  "name": "Creative Writing",
+  "description": "Creative Writing can be a great way to expand your imagination, writing skill, and even be a fun hobby in its own right. It can be anything from poetry and short stories all the way to full novels and epics.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-09-29T16:32:15.433Z"
+  },
+  "created": {
+    "$date": "2023-09-29T16:32:15.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6517020d5a597c994ffe9c32"
+  },
+  "name": "Mapmaking",
+  "description": "Sketching out a map can be a fun way to become more aware of the place that you live or the world around you. Perhaps it could even be a way to create a visualization of a fictional world or one of your own creation.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-09-29T16:57:49.317Z"
+  },
+  "created": {
+    "$date": "2023-09-29T16:57:49.317Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651713885a597c994ffe9fa6"
+  },
+  "name": "Trying Other Sidescroller Games",
+  "description": "There are a number of games similar to this one in the 2D side scrolling style. Some are adventure-platformers like this one, and others can be beat-'em-up action games.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-09-29T18:12:24.424Z"
+  },
+  "created": {
+    "$date": "2023-09-29T18:12:24.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651719e45a597c994ffea0bc"
+  },
+  "name": "Stargazing",
+  "description": "Taking the time to look up at the stars at night can be a good way to relax. Alternatively, looking up star maps online can be used if there is too much light pollution in the area.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-09-29T18:39:32.308Z"
+  },
+  "created": {
+    "$date": "2023-09-29T18:39:32.308Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651719e45a597c994ffea0bf"
+  },
+  "name": "Designing a Game",
+  "description": "This can be either a digital game using the correct software, designing a framework for a tabletop RPG, or even a simple board or card game to share with others.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-09-29T18:39:32.318Z"
+  },
+  "created": {
+    "$date": "2023-09-29T18:39:32.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65247e32118e0600865b99e0"
+  },
+  "name": "TEST ACTIVITY",
+  "description": "TEST",
+  "image": "fc2710e3-7c98-4576-ae48-446b9c3cfc12-IMG_012",
+  "placeList": [],
+  "active": false,
+  "updated": {
+    "$date": "2023-10-09T22:33:51.724Z"
+  },
+  "created": {
+    "$date": "2023-10-09T22:26:58.177Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652484bc118e0600865b9bfb"
+  },
+  "name": "TEST - REMOVE",
+  "description": "TEST",
+  "image": "f6bee9b9-5075-4d84-aea7-f94c3e894921-4-space",
+  "numParticipants": 103,
+  "placeList": [
+    {
+      "$oid": "65122834376d0f27cd1a48cb"
+    },
+    {
+      "$oid": "650e4a8c376d0f27cd1a47db"
+    }
+  ],
+  "active": false,
+  "updated": {
+    "$date": "2023-10-09T22:55:14.772Z"
+  },
+  "created": {
+    "$date": "2023-10-09T22:54:52.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aa6e"
+  },
+  "name": "Saying sorry to someone",
+  "description": "Take the time to apologize to someone who you have hurt or offended.",
+  "image": "4d5816a3-aeb7-4b7a-b9a6-3ae25d086488-Sorry.j",
+  "numParticipants": 2,
+  "placeList": [],
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:15:19.754Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aa71"
+  },
+  "name": "Volunteering",
+  "description": "Find the opportunity to spend a few hours helping a cause you care about near your home.",
+  "image": "79b7e60a-f14e-4755-9e02-37c5795ca77f-Volunte",
+  "numParticipants": 2,
+  "placeList": [],
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:15:14.788Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784ab0c"
+  },
+  "name": "Saying sorry to someone",
+  "description": "Take the time to apologize to someone who you have hurt or offended.",
+  "image": "4d5816a3-aeb7-4b7a-b9a6-3ae25d086488-Sorry.j",
+  "numParticipants": 2,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-11T20:14:55.826Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.826Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aa7a"
+  },
+  "name": "Planting",
+  "description": "Find a location near your where you might be able to plant a tree",
+  "image": "51e8bef3-7a59-4453-b901-40ef394b7911-Plantin",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:16:13.676Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784ab0f"
+  },
+  "name": "Volunteering",
+  "description": "Find the opportunity to spend a few hours helping a cause you care about near your home.",
+  "image": "79b7e60a-f14e-4755-9e02-37c5795ca77f-Volunte",
+  "numParticipants": 2,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-11T20:14:55.829Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.829Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aa68"
+  },
+  "name": "Beach Cleanup",
+  "description": "Make a plan to spend some time with family and friends to cleanup a beach near you.",
+  "image": "9ec73a09-cad4-476e-a43f-ec1bfdf5b5ba-Beach C",
+  "numParticipants": 2,
+  "placeList": [],
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:15:29.265Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aa74"
+  },
+  "name": "Reading",
+  "description": "Find a book about a topic that interests you.",
+  "image": "4486593d-d699-4547-9138-2d10e5e2a951-Reading",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:15:09.979Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784ab09"
+  },
+  "name": "Listening to music",
+  "description": "Find some music style that is new to you and explore the sounds and rhythms of the musical style. ",
+  "image": "885d53e5-88df-4502-811a-87bf9f65367b-Listen ",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-11T20:14:55.822Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aa77"
+  },
+  "name": "Donating",
+  "description": "Find items in your home that you do not use any more and consider donating them so others can use these items.",
+  "image": "033159b5-a840-41d4-9437-635c3c2f200a-Donatio",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:15:02.129Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aa6b"
+  },
+  "name": "Listening to music",
+  "description": "Find some music style that is new to you and explore the sounds and rhythms of the musical style. ",
+  "image": "885d53e5-88df-4502-811a-87bf9f65367b-Listen ",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:15:24.476Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.627Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784ab06"
+  },
+  "name": "Beach Cleanup",
+  "description": "Make a plan to spend some time with family and friends to cleanup a beach near you.",
+  "image": "9ec73a09-cad4-476e-a43f-ec1bfdf5b5ba-Beach C",
+  "numParticipants": 2,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-11T20:14:55.818Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784ab18"
+  },
+  "name": "Planting",
+  "description": "Find a location near your where you might be able to plant a tree",
+  "image": "51e8bef3-7a59-4453-b901-40ef394b7911-Plantin",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-11T20:14:55.839Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.839Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784ab12"
+  },
+  "name": "Reading",
+  "description": "Find a book about a topic that interests you.",
+  "image": "4486593d-d699-4547-9138-2d10e5e2a951-Reading",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-11T20:14:55.832Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.832Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784ab15"
+  },
+  "name": "Donating",
+  "description": "Find items in your home that you do not use any more and consider donating them so others can use these items.",
+  "image": "033159b5-a840-41d4-9437-635c3c2f200a-Donatio",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-11T20:14:55.836Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e0f9"
+  },
+  "name": "Seize the day!",
+  "description": "Find something special to do that you always wanted to try to do. Take the first step today to make it happen.",
+  "image": "0c5b37fd-0335-461c-bce6-265d901d2e75-Seize t",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:16:17.559Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e179"
+  },
+  "name": "Seize the day!",
+  "description": "Find something special to do that you always wanted to try to do. Take the first step today to make it happen.",
+  "image": "0c5b37fd-0335-461c-bce6-265d901d2e75-Seize t",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T20:42:14.502Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.502Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65514f5ba2461fb08784e99f"
+  },
+  "name": "Walking outdoors",
+  "description": "Take a walk outside and enjoy your surroundings. Be curious about the world around you.",
+  "image": "00306cd5-5b2c-43c6-b660-e1beda65a1f7-Walking",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:16:22.619Z"
+  },
+  "created": {
+    "$date": "2023-11-12T22:19:07.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65514f5ba2461fb08784ea41"
+  },
+  "name": "Journaling",
+  "description": "You will want to capture the memories from special moments you experience on your journey through life. Keep a journal and snap pictures to help you look back at these moments.",
+  "image": "ec4c08bc-d357-4b46-a6ce-57085ddb6f6c-Journal",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T22:19:07.626Z"
+  },
+  "created": {
+    "$date": "2023-11-12T22:19:07.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65514f5ba2461fb08784e9ab"
+  },
+  "name": "Cheer leader",
+  "description": "Get others excited about whatever it is that you are passionate about and lead the way through team spirit.",
+  "image": "f5aa437a-cf68-4c21-abe1-9936684bc147-Cheer l",
+  "numParticipants": 2,
+  "placeList": [],
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:16:45.320Z"
+  },
+  "created": {
+    "$date": "2023-11-12T22:19:07.429Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65514f5ba2461fb08784ea44"
+  },
+  "name": "Cheer leader",
+  "description": "Get others excited about whatever it is that you are passionate about and lead the way through team spirit.",
+  "image": "f5aa437a-cf68-4c21-abe1-9936684bc147-Cheer l",
+  "numParticipants": 2,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T22:19:07.631Z"
+  },
+  "created": {
+    "$date": "2023-11-12T22:19:07.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65514f5ba2461fb08784e9a2"
+  },
+  "name": "Inventing",
+  "description": "Jot down your ideas on a paper or computer and continue to develop your ideas over time.",
+  "image": "01910852-3b86-41ec-af39-af5dbc70f092-Inventi",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:16:27.427Z"
+  },
+  "created": {
+    "$date": "2023-11-12T22:19:07.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65514f5ba2461fb08784e9a5"
+  },
+  "name": "Traveling near and far",
+  "description": "Pack you bag for an exploration that is near you home or beyond your neighborhood. Seek out all there is to discover.",
+  "image": "ee1f3321-994b-4b38-81e6-992d42c13593-Travel.",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:16:34.333Z"
+  },
+  "created": {
+    "$date": "2023-11-12T22:19:07.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65514f5ba2461fb08784ea3b"
+  },
+  "name": "Inventing",
+  "description": "Jot down your ideas on a paper or computer and continue to develop your ideas over time.",
+  "image": "01910852-3b86-41ec-af39-af5dbc70f092-Inventi",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T22:19:07.618Z"
+  },
+  "created": {
+    "$date": "2023-11-12T22:19:07.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65514f5ba2461fb08784ea38"
+  },
+  "name": "Walking outdoors",
+  "description": "Take a walk outside and enjoy your surroundings. Be curious about the world around you.",
+  "image": "00306cd5-5b2c-43c6-b660-e1beda65a1f7-Walking",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T22:19:07.615Z"
+  },
+  "created": {
+    "$date": "2023-11-12T22:19:07.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65514f5ba2461fb08784e9a8"
+  },
+  "name": "Journaling",
+  "description": "You will want to capture the memories from special moments you experience on your journey through life. Keep a journal and snap pictures to help you look back at these moments.",
+  "image": "ec4c08bc-d357-4b46-a6ce-57085ddb6f6c-Journal",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:16:40.679Z"
+  },
+  "created": {
+    "$date": "2023-11-12T22:19:07.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65514f5ba2461fb08784ea3e"
+  },
+  "name": "Traveling near and far",
+  "description": "Pack you bag for an exploration that is near you home or beyond your neighborhood. Seek out all there is to discover.",
+  "image": "ee1f3321-994b-4b38-81e6-992d42c13593-Travel.",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T22:19:07.622Z"
+  },
+  "created": {
+    "$date": "2023-11-12T22:19:07.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556cd95572ed8a4effc835b"
+  },
+  "name": "Overcoming Obstacles",
+  "description": "Take an opportunity to try and tackle any activities, chores, or extra work you have been putting off.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-17T02:19:01.587Z"
+  },
+  "created": {
+    "$date": "2023-11-17T02:19:01.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d762572ed8a4effc960c"
+  },
+  "name": "Comic Collecting",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-17T03:00:50.509Z"
+  },
+  "created": {
+    "$date": "2023-11-17T03:00:50.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556de1c572ed8a4effcb21b"
+  },
+  "name": "Study History",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-17T03:29:32.613Z"
+  },
+  "created": {
+    "$date": "2023-11-17T03:29:32.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6557b437572ed8a4effcbdf6"
+  },
+  "name": "Painting",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-17T18:43:03.938Z"
+  },
+  "created": {
+    "$date": "2023-11-17T18:43:03.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6557b559572ed8a4effcc2d8"
+  },
+  "name": "Sports",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 2,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-17T18:47:53.090Z"
+  },
+  "created": {
+    "$date": "2023-11-17T18:47:53.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d785d572ed8a4effd8527"
+  },
+  "name": "Go to an arcade",
+  "image": "activityplaceholder.jpg",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-22T03:41:17.548Z"
+  },
+  "created": {
+    "$date": "2023-11-22T03:41:17.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e1124572ed8a4effd9136"
+  },
+  "name": "Play a game",
+  "image": "activityplaceholder.jpg",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-22T14:33:08.129Z"
+  },
+  "created": {
+    "$date": "2023-11-22T14:33:08.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e1f7b572ed8a4effda689"
+  },
+  "name": "Running",
+  "image": "activityplaceholder.jpg",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-22T15:34:19.206Z"
+  },
+  "created": {
+    "$date": "2023-11-22T15:34:19.206Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e1ffb572ed8a4effda82c"
+  },
+  "name": "Create your own opportunities",
+  "image": "activityplaceholder.jpg",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-22T15:36:27.015Z"
+  },
+  "created": {
+    "$date": "2023-11-22T15:36:27.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f8e6e572ed8a4effdf86b"
+  },
+  "name": "test",
+  "description": "test",
+  "image": "4c28cf95-aab2-4d46-aece-b61f06a909c5-IMG_284",
+  "numParticipants": 3,
+  "placeList": [
+    {
+      "$oid": "65122834376d0f27cd1a48cb"
+    },
+    {
+      "$oid": "65122834376d0f27cd1a48c8"
+    }
+  ],
+  "active": false,
+  "updated": {
+    "$date": "2023-11-23T17:40:10.427Z"
+  },
+  "created": {
+    "$date": "2023-11-23T17:39:58.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6561ff93572ed8a4effe0b14"
+  },
+  "name": "Go for a walk",
+  "image": "activityplaceholder.jpg",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-25T14:07:15.681Z"
+  },
+  "created": {
+    "$date": "2023-11-25T14:07:15.681Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6561ff93572ed8a4effe0b17"
+  },
+  "name": "Spend time with family and friends",
+  "image": "activityplaceholder.jpg",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T03:04:07.796Z"
+  },
+  "created": {
+    "$date": "2023-11-25T14:07:15.697Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6561ff93572ed8a4effe0b1a"
+  },
+  "name": "Take a yoga class",
+  "image": "activityplaceholder.jpg",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-25T14:07:15.704Z"
+  },
+  "created": {
+    "$date": "2023-11-25T14:07:15.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656206bd572ed8a4effe1b43"
+  },
+  "name": "Go for a run",
+  "image": "activityplaceholder.jpg",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-25T14:37:49.181Z"
+  },
+  "created": {
+    "$date": "2023-11-25T14:37:49.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65620e54572ed8a4effe3169"
+  },
+  "name": "Learn how/go ice skating",
+  "image": "c38e0988-4003-4bdc-b68b-9bfb4a0d69ae-2021_ic",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-03T16:41:29.390Z"
+  },
+  "created": {
+    "$date": "2023-11-25T15:10:12.103Z"
+  },
+  "__v": 0,
+  "description": "\t\nLearning how to ice skate or going ice skating can be a great way to learn improved body coordination and dexterity, as well as a way to have some fun in a day.",
+  "numParticipants": 1
+},
+{
+  "_id": {
+    "$oid": "65620e54572ed8a4effe316c"
+  },
+  "name": "Go swimming",
+  "image": "activityplaceholder.jpg",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-25T15:10:12.112Z"
+  },
+  "created": {
+    "$date": "2023-11-25T15:10:12.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65620e54572ed8a4effe316f"
+  },
+  "name": "Go for a ru",
+  "image": "activityplaceholder.jpg",
+  "placeList": [],
+  "active": false,
+  "updated": {
+    "$date": "2023-11-29T05:48:39.723Z"
+  },
+  "created": {
+    "$date": "2023-11-25T15:10:12.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6562b340572ed8a4effe425a"
+  },
+  "name": "Go to a baseball game",
+  "image": "b00f5dfc-26cd-4c40-8942-cfc4d5049e0b-Bleache",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-03T04:17:09.483Z"
+  },
+  "created": {
+    "$date": "2023-11-26T02:53:52.903Z"
+  },
+  "__v": 0,
+  "numParticipants": 1
+},
+{
+  "_id": {
+    "$oid": "65641e1d572ed8a4effe8c32"
+  },
+  "name": "Dance",
+  "image": "b42d5bab-2468-4838-8cb1-3a609d5316e1-dance.j",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-03T04:15:25.941Z"
+  },
+  "created": {
+    "$date": "2023-11-27T04:42:05.318Z"
+  },
+  "__v": 0,
+  "numParticipants": 1
+},
+{
+  "_id": {
+    "$oid": "6566c38f572ed8a4ef025310"
+  },
+  "name": "Volunteer at a Crisis Line center",
+  "image": "activityplaceholder.jpg",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-29T04:52:31.415Z"
+  },
+  "created": {
+    "$date": "2023-11-29T04:52:31.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566c38f572ed8a4ef025313"
+  },
+  "name": "Go out dancing",
+  "image": "eb815977-d606-4219-b488-5dc6ecb968c6-dance-s",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-03T04:10:50.071Z"
+  },
+  "created": {
+    "$date": "2023-11-29T04:52:31.431Z"
+  },
+  "__v": 0,
+  "numParticipants": 1
+},
+{
+  "_id": {
+    "$oid": "6566d01a572ed8a4ef0261c3"
+  },
+  "name": "Spend time with a loved one",
+  "image": "activityplaceholder.jpg",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-11-29T05:46:02.221Z"
+  },
+  "created": {
+    "$date": "2023-11-29T05:46:02.221Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566d357572ed8a4ef026be2"
+  },
+  "name": "Spend the day at the beach ",
+  "image": "9353b0e4-39ac-45f5-aff9-73a4a58cc824-beachch",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-03T04:08:36.958Z"
+  },
+  "created": {
+    "$date": "2023-11-29T05:59:51.476Z"
+  },
+  "__v": 0,
+  "numParticipants": 1
+},
+{
+  "_id": {
+    "$oid": "656e05083ab67d9e5f161c2f"
+  },
+  "name": "Studying Science",
+  "description": "Take the time to look into academic materials for a scientific field of your choosing that inspires you.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-12-04T16:57:44.303Z"
+  },
+  "created": {
+    "$date": "2023-12-04T16:57:44.303Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fe8ec3ab67d9e5f164d92"
+  },
+  "name": "Team Building activity",
+  "image": "activityplaceholder.jpg",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T03:22:20.257Z"
+  },
+  "created": {
+    "$date": "2023-12-06T03:22:20.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fe8ec3ab67d9e5f164d95"
+  },
+  "name": "Trust fall with with group or individual",
+  "image": "5ed9505c-164a-4a45-aab1-5fefdb8796d0-Trust-F",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-03T15:34:25.853Z"
+  },
+  "created": {
+    "$date": "2023-12-06T03:22:20.272Z"
+  },
+  "__v": 0,
+  "description": "A trust fall is an activity in which a person deliberately falls, trusting the members of a group (spotters) to catch them. It has also at times been considered a popular team-building exercise in corporate training events. Find another person or a group of people and build confidence and trust in yourself and others. ",
+  "numParticipants": 2
+},
+{
+  "_id": {
+    "$oid": "657402bd3ab67d9e5f17c4d6"
+  },
+  "name": "Watch a movie",
+  "image": "abc186f3-9ec7-45de-a020-95272c71496f-watchin",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-03T04:03:54.712Z"
+  },
+  "created": {
+    "$date": "2023-12-09T06:01:33.595Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d4a0b6447ae6cc65611d0"
+  },
+  "name": "Gardening",
+  "description": "Tending to a garden can be an engaging activity to relax and create a new hobby.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-12-16T06:56:11.754Z"
+  },
+  "created": {
+    "$date": "2023-12-16T06:56:11.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d4a0b6447ae6cc65611cd"
+  },
+  "name": "Growing a Plant",
+  "description": "Take the opportunity to learn how to take care of a plant, from seeding to cultivating.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-12-16T06:56:11.747Z"
+  },
+  "created": {
+    "$date": "2023-12-16T06:56:11.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658077d26447ae6cc6561d66"
+  },
+  "name": "Building Hot Wheels tracks",
+  "description": "Creating a track layout can be as simple as one hill, or as complex as using multiple specialized pieces to make twisting tracks.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-12-18T16:48:18.158Z"
+  },
+  "created": {
+    "$date": "2023-12-18T16:48:18.158Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a7606447ae6cc656f2bd"
+  },
+  "name": "Go boating",
+  "description": "Have fun on a boat either with friends or by yourself. Boating is the leisurely activity of travelling by boat, or the recreational use of a boat whether powerboats, sailboats, or man-powered vessels, focused on the travel itself, as well as sports activities, such as fishing or waterskiing. It is a popular activity, and there are millions of boaters worldwide.",
+  "image": "0d2c85e1-0ab4-4df9-aa9b-d2c45b752332-Boating",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-12-27T04:42:33.006Z"
+  },
+  "created": {
+    "$date": "2023-12-24T03:37:04.301Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a7606447ae6cc656f2c0"
+  },
+  "name": "Go shopping",
+  "description": "The action or activity of purchasing goods from stores can be a fun and relaxing time. ",
+  "image": "967cc51b-9b2a-40fa-a9d1-460b60e0e4c5-Shoppin",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-12-27T04:40:29.709Z"
+  },
+  "created": {
+    "$date": "2023-12-24T03:37:04.317Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6590cacf6447ae6cc6585f2d"
+  },
+  "name": "Comic Book Collecting",
+  "image": "a837a649-de8b-463a-92cf-a4c53b0b6c93-image_2",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T01:58:39.097Z"
+  },
+  "created": {
+    "$date": "2023-12-31T01:58:39.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6590cacf6447ae6cc6585f30"
+  },
+  "name": "Scientific Study",
+  "description": "Take the time to look into academic materials for a scientific field of your choosing that inspires you.",
+  "image": "f33803d7-22fe-49a2-925c-dd5c696997cd-image_2",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T01:58:39.101Z"
+  },
+  "created": {
+    "$date": "2023-12-31T01:58:39.101Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6590e7156447ae6cc6587b2f"
+  },
+  "name": "Athletic Training",
+  "image": "084c9bc3-3c3a-46b3-b49a-4352030f717e-image_2",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T03:59:17.396Z"
+  },
+  "created": {
+    "$date": "2023-12-31T03:59:17.396Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65923c8c6447ae6cc659d6d2"
+  },
+  "name": "Write lyrics to a song",
+  "description": "Express your feelings through music by writing lyrics. ",
+  "image": "03d8cb7b-e9b3-47f5-91b6-940ca4085197-writing",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-01T04:16:12.726Z"
+  },
+  "created": {
+    "$date": "2024-01-01T04:16:12.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6598d2aa6447ae6cc65ad907"
+  },
+  "name": "Plan a party",
+  "description": "Plan a party to have with friends where you enjoy music and dancing.",
+  "image": "95a729f9-46cd-4b49-974c-810753b81bae-party.j",
+  "numParticipants": 2,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-06T04:10:18.907Z"
+  },
+  "created": {
+    "$date": "2024-01-06T04:10:18.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659992946447ae6cc65b7b0a"
+  },
+  "name": "Watch a romantic movie",
+  "description": "Get closer and tap into your romantic feelings you someone you love by watching a romantic movie together. ",
+  "image": "6763bca3-704c-4371-9cf4-2e86449ab1c8-Watch a",
+  "numParticipants": 2,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-06T17:49:08.155Z"
+  },
+  "created": {
+    "$date": "2024-01-06T17:49:08.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659abd8e6447ae6cc65b8966"
+  },
+  "name": "Felt craft",
+  "description": "Cut 2 identical heart shapes out of felt, fill with cotton, sew together. Children and parents can keep matching pairs in the pockets when away from one another",
+  "image": "cef02663-15ea-434a-8b69-a3510d650454-Screens",
+  "numParticipants": 1,
+  "placeList": [
+    {
+      "$oid": "6566cd8c572ed8a4ef025f5f"
+    }
+  ],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-07T15:04:46.543Z"
+  },
+  "created": {
+    "$date": "2024-01-07T15:04:46.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659ac57a6447ae6cc65ba0de"
+  },
+  "name": "Visit a Farm",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-07T15:38:34.866Z"
+  },
+  "created": {
+    "$date": "2024-01-07T15:38:34.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659b726f6447ae6cc65bef61"
+  },
+  "name": "Mirror meditation",
+  "description": "Grab a mirror and practice mirror meditation. This has lots of benefits for mental health and emotional well-being. When we engage in this form of meditation, you can unlock numerous positive transformations within yourself, leading to a more fulfilling and balanced life. ",
+  "image": "3690cc68-00c2-4bce-ae43-cdc43de2565b-mirror ",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-08T03:56:31.476Z"
+  },
+  "created": {
+    "$date": "2024-01-08T03:56:31.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a1f389557aed6fa8cbdf8a"
+  },
+  "name": "Draw",
+  "description": "Grab a pencil, pen, marker or crayon and draw whatever your heart desires. Get artistic and be creative. Have fun with it. ",
+  "image": "3d6fc2c0-41d4-4d7d-b501-0e64a4f1e386-drawing",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T02:20:57.487Z"
+  },
+  "created": {
+    "$date": "2024-01-13T02:20:57.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2cb6e557aed6fa8cc1cb0"
+  },
+  "name": "Tea Party",
+  "description": "Invite guests for a tea party and enjoy food and great conversations.",
+  "image": "0391634a-d009-459e-a4ca-7d0d18284387-Tea Par",
+  "numParticipants": 2,
+  "placeList": [
+    {
+      "$oid": "6566cd8c572ed8a4ef025f5f"
+    }
+  ],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T17:42:06.387Z"
+  },
+  "created": {
+    "$date": "2024-01-13T17:42:06.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2ffd1557aed6fa8cc99e0"
+  },
+  "name": "Farm Diorama",
+  "description": "Create a farm diorama with the characters from the book. Use paper, cardboard, and craft materials to make miniature versions of the barn, animals, and the typewriter.",
+  "image": "fcb7c3cc-bf1e-47a1-8c43-efaf749e2ead-Screen ",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T21:25:37.775Z"
+  },
+  "created": {
+    "$date": "2024-01-13T21:25:37.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2ffd1557aed6fa8cc99e3"
+  },
+  "name": "Role Play",
+  "description": "Encourage children to engage in role play, taking on the roles of the different farm animals and Farmer Brown. They can act out scenes from the book or create their own dialogues.",
+  "image": "b444e937-0421-43f5-9717-a494ccf5738c-Screen ",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T21:25:37.780Z"
+  },
+  "created": {
+    "$date": "2024-01-13T21:25:37.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2ffd1557aed6fa8cc99e6"
+  },
+  "name": "Typewriter Creative Writing",
+  "description": "Have children write their own letters or messages using a typewriter or by drawing pictures. This activity promotes creativity and reinforces the theme of communication.",
+  "image": "bbc3ae5c-b8f1-4494-92df-15de5a0aa492-Screen ",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T21:25:37.784Z"
+  },
+  "created": {
+    "$date": "2024-01-13T21:25:37.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a44c6c557aed6fa8cccd2d"
+  },
+  "name": "Goodnight Moon Sorting Activity",
+  "description": "Children use the early math skill of sorting to distinguish between items that are seen in the story and items that are not. ",
+  "image": "07a0cc50-e28c-4bf0-b157-7848da5e41f5-Screen ",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-14T21:04:44.002Z"
+  },
+  "created": {
+    "$date": "2024-01-14T21:04:44.002Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a44c6c557aed6fa8cccd30"
+  },
+  "name": "Goodnight Moon Story Basket",
+  "description": "Parents/teachers/caregivers can model using the items in the story basket to enhance the reading of the story. Children can then use the objects to act out and tangibly engage with objects found in the story",
+  "image": "22b5e627-40e1-4662-a6da-4d4db94135b9-Screen ",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-14T21:04:44.016Z"
+  },
+  "created": {
+    "$date": "2024-01-14T21:04:44.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a44c6c557aed6fa8cccd33"
+  },
+  "name": "Goodnight Moon Sensory Bin",
+  "description": "Objects found in the story are placed in a bin along with a filler material such as dried beans, pasta, stones etc. Children can then explore the different objects and textures, as they expand on their story experiences.",
+  "image": "491b2045-9a79-4d66-873d-c9430b7a1ee6-Screen ",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-14T21:04:44.020Z"
+  },
+  "created": {
+    "$date": "2024-01-14T21:04:44.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a4c2ff557aed6fa8cd59d5"
+  },
+  "name": "Study art history ",
+  "description": "Start by identifying artists, eras, styles etc. you like and find out who inspired the artists, what characteristics are found in different eras/periods and what styles around found in each. Learning is fun.",
+  "image": "db8f3bde-af43-4667-add6-c0bbce813a86-how-to-",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T05:45:24.766Z"
+  },
+  "created": {
+    "$date": "2024-01-15T05:30:39.363Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a4cf8d557aed6fa8cd8047"
+  },
+  "name": "Listen to classical music",
+  "description": "Listening to classical music can have a number of benefits. It can help with your memory recall and reduce stress levels by slowing down heart rate and lowering blood pressure. It can also improve overall mental well-being and even improve performance in school. Enjoy some classical music while reaping all the benefits. ",
+  "image": "437810ce-8e28-44e6-b661-3376f15c4857-class i",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T06:24:13.890Z"
+  },
+  "created": {
+    "$date": "2024-01-15T06:24:13.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a55c09557aed6fa8ce0f28"
+  },
+  "name": "Attend a meaningful social change rally ",
+  "description": "Find a local social change rally that is meaningful to you. Show your support and meet people that have a common interest. ",
+  "image": "d566de6b-dbb0-4e93-be03-77b64eecaadd-social ",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T16:23:37.365Z"
+  },
+  "created": {
+    "$date": "2024-01-15T16:23:37.365Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a55c09557aed6fa8ce0f2b"
+  },
+  "name": "Learn how to play the guitar",
+  "description": "Find a video, a book or a music teacher to help you learn how to play the guitar. Start with the basics of holding the guitar, the pick, and the fretting hand, how to tune the guitar, how to play some notes and chords, and how to practice a warm-up exercise. ",
+  "image": "b65eddc8-4d92-4bf2-b722-9cbc61423d6f-playing",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T16:23:37.385Z"
+  },
+  "created": {
+    "$date": "2024-01-15T16:23:37.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a564a9557aed6fa8ce439c"
+  },
+  "name": "Try new food",
+  "description": "Try your friend's favorite food",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 2,
+  "placeList": [
+    {
+      "$oid": "651242b3376d0f27cd1a4c0d"
+    }
+  ],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T17:00:25.547Z"
+  },
+  "created": {
+    "$date": "2024-01-15T17:00:25.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a568b7557aed6fa8ce75c8"
+  },
+  "name": "make pancakes",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T17:17:43.443Z"
+  },
+  "created": {
+    "$date": "2024-01-15T17:17:43.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a59ac7557aed6fa8d0e195"
+  },
+  "name": "Go for a hike",
+  "description": "Find a local trail you can explore with a friend. Remember to pack provisions for your journey to make it fun and enjoyable.",
+  "image": "89f8ae6c-68b8-420d-8b6d-882043c64e41-Hiking.",
+  "numParticipants": 2,
+  "placeList": [
+    {
+      "$oid": "6522f30c118e0600865b6086"
+    },
+    {
+      "$oid": "6522f30c118e0600865b607d"
+    }
+  ],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T20:51:19.127Z"
+  },
+  "created": {
+    "$date": "2024-01-15T20:51:19.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5fb21557aed6fa8d1d7b1"
+  },
+  "name": "Horseback riding",
+  "description": "Go horebackriding",
+  "image": "a4634d4b-79f5-4287-9dd9-338fba3a8d07-horseba",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-16T03:42:25.815Z"
+  },
+  "created": {
+    "$date": "2024-01-16T03:42:25.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac6c73557aed6fa8d41df2"
+  },
+  "name": "Watch a cartoon",
+  "image": "activityplaceholder.jpg",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-21T00:59:31.541Z"
+  },
+  "created": {
+    "$date": "2024-01-21T00:59:31.541Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac6fb0557aed6fa8d44da0"
+  },
+  "name": "Study Architecture",
+  "image": "activityplaceholder.jpg",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-21T01:13:20.367Z"
+  },
+  "created": {
+    "$date": "2024-01-21T01:13:20.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac7c31557aed6fa8d49367"
+  },
+  "name": "Play Outside",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-21T02:06:41.399Z"
+  },
+  "created": {
+    "$date": "2024-01-21T02:06:41.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b01847557aed6fa8d6299e"
+  },
+  "name": "Color Theory Chameleon ",
+  "description": "Using color theory, create your own unique chameleon",
+  "image": "73b64ad4-2b9a-43cd-a175-2ca8978a4e3f-Chamele",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-23T19:49:27.448Z"
+  },
+  "created": {
+    "$date": "2024-01-23T19:49:27.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b51a7c557aed6fa8d90608"
+  },
+  "name": "Write out goals for yourself",
+  "description": "Take some time to think about goals you would like to achieve. Write them in a way that the goals are specific, measurable, achievable, relevant and time-limited. This helps you have more direction in your life and will aid in boosting your motivation and self-confidence. ",
+  "image": "fd16d050-d846-479a-950e-9f1d205a0f50-goals.j",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-27T15:00:12.165Z"
+  },
+  "created": {
+    "$date": "2024-01-27T15:00:12.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b5dc31557aed6fa8d989b0"
+  },
+  "name": "Eat out at a restaurant",
+  "description": "Eat away from home, especially in a restaurant. Eating out provides a convenient solution allowing you to save time and energy and you can spend more time with family and friends. ",
+  "image": "9fe2b2f9-42a2-456e-bd91-32db508d378e-restaun",
+  "numParticipants": 2,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T04:46:41.569Z"
+  },
+  "created": {
+    "$date": "2024-01-28T04:46:41.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b5dc31557aed6fa8d989b3"
+  },
+  "name": "Learn to make sushi",
+  "description": "Take lesson, watch a video or read a book on how to make sushi. This will give you a chance to learn something new, be creative and have more cooking options. ",
+  "image": "b79e87bc-886d-4218-97fd-7d4052419836-sushi.j",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T04:46:41.588Z"
+  },
+  "created": {
+    "$date": "2024-01-28T04:46:41.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b5ea77557aed6fa8d9bed3"
+  },
+  "name": "Archery Practice",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 2,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T05:47:35.465Z"
+  },
+  "created": {
+    "$date": "2024-01-28T05:47:35.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b5f605557aed6fa8da93b8"
+  },
+  "name": "Building Model Cars",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T06:36:53.204Z"
+  },
+  "created": {
+    "$date": "2024-01-28T06:36:53.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b6ab69557aed6fa8db3d9f"
+  },
+  "name": "Cloud Spotting",
+  "description": "Spend some time laying and watching the clouds. What do you see? ",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T19:30:49.259Z"
+  },
+  "created": {
+    "$date": "2024-01-28T19:30:49.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b6ab69557aed6fa8db3da2"
+  },
+  "name": "Cloud Blots",
+  "description": "Use equal amounts of white glue and shaving cream to create a puffy white paint. Apply to paper in any manner you choose, fold paper in half and see what you have created. What does your cloud look like?",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T19:30:49.267Z"
+  },
+  "created": {
+    "$date": "2024-01-28T19:30:49.267Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b6bca6557aed6fa8dbddd2"
+  },
+  "name": "Design a sustainable city",
+  "description": "Design a sustainable city or community. Consider factors such as green space, public transportation, renewable energy, and waste management. ",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T20:44:22.965Z"
+  },
+  "created": {
+    "$date": "2024-01-28T20:44:22.965Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b6bca6557aed6fa8dbddd5"
+  },
+  "name": "Research Urbanization",
+  "description": "Explore the concept of urbanization by researching its causes, effects, and challenges. Discuss the pros and cons of urbanization and its impact on communities and the environment. Consider  solutions to mitigate the negative effects of over-urbanization.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T20:44:22.974Z"
+  },
+  "created": {
+    "$date": "2024-01-28T20:44:22.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b715fa557aed6fa8dc10fc"
+  },
+  "name": "Get a manicure at a salon",
+  "description": "Manicures can offer many benefits, both physical and mental. People get manicures for many different reasons either physical or mental. No matter what the reason is treat yourself and boost your mood with a visit to the salon. ",
+  "image": "88999f0d-9ea9-416e-930c-2a1f74a87fa0-manicur",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-29T03:05:30.275Z"
+  },
+  "created": {
+    "$date": "2024-01-29T03:05:30.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b9d507f87f59c84cc66874"
+  },
+  "name": "Write a letter",
+  "description": "Grab your favorite pen and paper and write a letter to a friend or loved one. ",
+  "image": "0fde7efb-afd0-4e0b-b8f9-4488e79f0044-writing",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-01-31T05:05:11.498Z"
+  },
+  "created": {
+    "$date": "2024-01-31T05:05:11.498Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bdb714f87f59c84cc77f4e"
+  },
+  "name": "Make a wish at a well",
+  "description": "Bring a coin or two to a well and make some wishes. Think long and hard of what you wish to accomplish or dream of. Good Luck!",
+  "image": "1487ac18-74a2-4eb1-b94c-e52244ea3c17-coin fo",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-03T03:46:28.738Z"
+  },
+  "created": {
+    "$date": "2024-02-03T03:46:28.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bdb714f87f59c84cc77f51"
+  },
+  "name": "Run a road race",
+  "description": "Find someone to try to keep up with while running a race. This will give you a goal and some motivation while running. ",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-03T03:46:28.757Z"
+  },
+  "created": {
+    "$date": "2024-02-03T03:46:28.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bdb714f87f59c84cc77f54"
+  },
+  "name": "Call a loved one, friend or family member",
+  "description": "Call someone that you would want to have a meaningful conversation with and pick a topic that you would like to discuss. ",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 2,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-03T03:46:28.766Z"
+  },
+  "created": {
+    "$date": "2024-02-03T03:46:28.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bf0d87f87f59c84cc87819"
+  },
+  "name": "Read a book",
+  "description": "Take time to read a book to yourself or read to a loved one. ",
+  "image": "520c9568-c267-41d9-8165-d3e42d8dadd3-read.jp",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-04T04:07:35.291Z"
+  },
+  "created": {
+    "$date": "2024-02-04T04:07:35.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bffc1cf87f59c84cc9b2e0"
+  },
+  "name": "Tree Top Adventures",
+  "description": "Our award-winning high ropes + obstacle course is the perfect way to challenge and excite beginners—experts. With 10 Trails and 27 Zip-lines, TreeTop Adventures is the ultimate Family Adventure!\n\nhttps://treetopcanton.com/",
+  "image": "activityplaceholder.jpg",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-04T21:05:32.930Z"
+  },
+  "created": {
+    "$date": "2024-02-04T21:05:32.930Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c1bae5f87f59c84ccbd3e4"
+  },
+  "name": "Clean your closet",
+  "description": "Get some boxes and some trash bags and clean your closet from items you no longer need, use or want. You'll eliminate clutter and find things you need easier. Removing clutter is a stress reducer. ",
+  "image": "d61cdd4c-742b-47fd-b5e3-ef719ff3258f-clean c",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-06T04:51:49.084Z"
+  },
+  "created": {
+    "$date": "2024-02-06T04:51:49.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c5ac0df87f59c84ccf30da"
+  },
+  "name": "Go to the zoo",
+  "description": "Spend the day at the zoo and learn something new about the animals you see. ",
+  "image": "656ec6ee-bb72-4e78-94f6-0975885a055f-zoo.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-09T04:37:33.497Z"
+  },
+  "created": {
+    "$date": "2024-02-09T04:37:33.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c5c06ef87f59c84ccfe0f0"
+  },
+  "name": "Bake a pie",
+  "description": "Be creative and bake a pie. This is a great way to get in touch with all your senses, relieve stress and reduce negative thoughts. Then you can enjoy a slice of pie alone or with friends. ",
+  "image": "49ae72d5-e7ee-4165-84f3-52b117d0142e-bake pi",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-09T06:04:30.245Z"
+  },
+  "created": {
+    "$date": "2024-02-09T06:04:30.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8ce24f87f59c84cd08f46"
+  },
+  "name": "Watch a Bette Davis movie",
+  "description": "Watch one of Bette Davis' movies. Bette Davis movies are an integral part of cinematic history. Many of her films are considered classics and have contributed to shaping the evolution of cinema. Watching her movies allows viewers to appreciate the artistry and craftsmanship of filmmaking from different eras. Enjoy!",
+  "image": "c7da067d-bfad-43e7-9e21-75e6fc915a73-bette d",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-11T13:39:48.854Z"
+  },
+  "created": {
+    "$date": "2024-02-11T13:39:48.854Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c9a839f87f59c84cd196d1"
+  },
+  "name": "Learn to surf",
+  "description": "Spend some time in the sun learning to surf. You'll feel relaxed by the fresh air, get some cardiovascular exercise which will reduce stress and strength your muscles. ",
+  "image": "8ad1fc19-af85-4126-8b57-8e73dcc1188c-surf.jp",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-12T05:10:17.725Z"
+  },
+  "created": {
+    "$date": "2024-02-12T05:10:17.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ca9253f87f59c84cd2ea40"
+  },
+  "name": "Go to a magic show",
+  "description": "Go to a magic show and enjoy enhancing those creative skills. You can get the chance to sit in the audience and surmise how something is going to play out. All ages get the chance to try and use logical reasoning to figure out how these magic tricks are performed.",
+  "image": "b0d961ed-73ff-4606-b590-90f2eb08dbaa-magic s",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-12T21:49:07.404Z"
+  },
+  "created": {
+    "$date": "2024-02-12T21:49:07.404Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ca9253f87f59c84cd2ea43"
+  },
+  "name": "Learn a magic trick ",
+  "description": "Get a book on magic tricks or watch a video to learn a magic trick. Magic tricks are a great way to socialize and make new friends, but you can also use these tricks to impress friends, family, and passersby. Performing magic tricks can improve your public speaking skills, and can even lead to a rewarding hobby or job.",
+  "image": "9ebe6436-fcfc-4085-9a9b-4b075484a496-magic t",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-12T21:49:07.423Z"
+  },
+  "created": {
+    "$date": "2024-02-12T21:49:07.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cea5c9f87f59c84cd57d67"
+  },
+  "name": "Pick flowers in a field or a farm",
+  "description": "Find a local field or farm that allows you can pick flowers. ",
+  "image": "3cf79277-430f-4e5b-bbd4-8a06ac00a0db-picking",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-16T00:01:13.107Z"
+  },
+  "created": {
+    "$date": "2024-02-16T00:01:13.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ceabc3f87f59c84cd5b466"
+  },
+  "name": "Take a picture with someone",
+  "description": "Strike some poses while taking pictures with someone. ",
+  "image": "3d1131f1-d61c-449c-b74c-00ef27ae398b-taking ",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-16T00:26:43.115Z"
+  },
+  "created": {
+    "$date": "2024-02-16T00:26:43.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ceabc3f87f59c84cd5b469"
+  },
+  "name": "Get sweaty",
+  "description": "Engage in your favorite activity that get you sweaty. Have fun and give your health a boost, too. ",
+  "image": "abde7f20-b69e-47bd-b113-8de541f64b07-sweaty.",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-16T00:26:43.131Z"
+  },
+  "created": {
+    "$date": "2024-02-16T00:26:43.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d3d193f87f59c84cdc2814"
+  },
+  "name": "Meditation ",
+  "description": "Meditation is a practice that involves training the mind to focus and redirect thoughts. It is often used to promote relaxation, build internal energy, and develop compassion, patience, and concentration.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T22:09:23.186Z"
+  },
+  "created": {
+    "$date": "2024-02-19T22:09:23.186Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d3e012f87f59c84cdce200"
+  },
+  "name": "Nature Walk",
+  "description": "An outdoor activity in which individuals explore and observe the natural environment, typically on foot. It involves walking along trails, paths, or through natural landscapes such as forests, parks, beaches, or meadows, with the purpose of enjoying and appreciating nature's beauty and biodiversity. ",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T23:11:14.465Z"
+  },
+  "created": {
+    "$date": "2024-02-19T23:11:14.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d3e012f87f59c84cdce203"
+  },
+  "name": "Puzzle",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T23:11:14.488Z"
+  },
+  "created": {
+    "$date": "2024-02-19T23:11:14.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d51658f87f59c84cdfc334"
+  },
+  "name": "Animal Shelter Volunteer",
+  "description": "Volunteer with local animal shelters or rescue organizations that work with stray animals. Tasks may include feeding, socializing, cleaning, and helping with adoption events.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T21:15:04.199Z"
+  },
+  "created": {
+    "$date": "2024-02-20T21:15:04.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d51658f87f59c84cdfc337"
+  },
+  "name": "Feeding Stations",
+  "description": "Set up and maintain feeding stations for stray cats in your community. Providing regular meals can help improve the health and well-being of stray cats.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T21:15:04.279Z"
+  },
+  "created": {
+    "$date": "2024-02-20T21:15:04.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d815a9f87f59c84ce98f8f"
+  },
+  "name": "Go to a circus",
+  "description": "Going to the circus can inspire you to learn, grow, have more discipline, build strength, coordination, create an entire routine by yourself and open your life in ways you never thought possible. It is also fun and entertaining and will put a smile on your face. ",
+  "image": "5f3fb94f-470f-45d5-b3d2-5bd0e89fcd3a-Circus ",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": false,
+  "updated": {
+    "$date": "2024-02-23T03:58:49.346Z"
+  },
+  "created": {
+    "$date": "2024-02-23T03:48:57.810Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d8172af87f59c84ce9a1ce"
+  },
+  "name": "Attend a circus performance",
+  "description": "Going to the circus can inspire you to learn, grow, have more discipline, build strength, coordination, create an entire routine by yourself and open your life in ways you never thought possible. It is also fun and entertaining and will put a smile on your face. ",
+  "image": "0c026f60-055f-4f4f-b96f-dfc2ba6ab900-Circus ",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": false,
+  "updated": {
+    "$date": "2024-02-23T03:58:43.259Z"
+  },
+  "created": {
+    "$date": "2024-02-23T03:55:22.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d817c2f87f59c84ce9ab06"
+  },
+  "name": "Attend a circus ",
+  "description": "Going to the circus can inspire you to learn, grow, have more discipline, build strength, coordination, create an entire routine by yourself and open your life in ways you never thought possible. It is also fun and entertaining and will put a smile on your face. ",
+  "image": "bc1f5611-a546-4fd3-affd-bb7d9fe3b86b-Circus ",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": false,
+  "updated": {
+    "$date": "2024-02-23T03:58:36.091Z"
+  },
+  "created": {
+    "$date": "2024-02-23T03:57:54.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d81893f87f59c84ce9b8e1"
+  },
+  "name": "Attend a circus performace",
+  "description": "Going to the circus can inspire you to learn, grow, have more discipline, build strength, coordination, create an entire routine by yourself and open your life in ways you never thought possible. It is also fun and entertaining and will put a smile on your face. ",
+  "image": "9c5e1b51-348d-4ff7-a6d8-1588433a5cac-circus ",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T04:01:23.162Z"
+  },
+  "created": {
+    "$date": "2024-02-23T04:01:23.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d81a33f87f59c84ce9c44c"
+  },
+  "name": "Play follow the leader",
+  "description": "Play the game follow the leader with friends. One person is chosen to be the leader. The rest of the people line up behind the leader. They must copy all the actions and movements of the leader (run when the leader runs, do jumping jacks, turn around and take 3 steps forward, etc.) Anyone who does not successfully copy a movement is out. The last person still following at the end is the leader in the next round.",
+  "image": "956d1c67-cf69-4594-8f86-17f807985c63-follow ",
+  "numParticipants": 2,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T04:08:19.210Z"
+  },
+  "created": {
+    "$date": "2024-02-23T04:08:19.210Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d9f776f87f59c84cf1792a"
+  },
+  "name": "Volunteer at Military Event",
+  "description": "Find the opportunity to spend a few hours helping at a military event near your home.",
+  "image": "7e4ddfe0-82b3-43c0-9be1-31b852d71749-militar",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-24T14:04:38.606Z"
+  },
+  "created": {
+    "$date": "2024-02-24T14:04:38.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d9f776f87f59c84cf1792d"
+  },
+  "name": "Attend a peace rally",
+  "description": "Find a peace rally to attend and show you support to as you show unity and help bring attention and awareness to critical issues. ",
+  "image": "1de173f5-f05f-476e-99e2-6974eb14130b-peace t",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-24T14:04:38.624Z"
+  },
+  "created": {
+    "$date": "2024-02-24T14:04:38.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dacdd4f87f59c84cf2a0d5"
+  },
+  "name": "Learn to drive car with driving lessons",
+  "description": "Being able to drive and getting your license provides the freedom to move around conveniently. Instead of waiting for public transport, you can hop into your car after a long day at work and head home.",
+  "image": "84513d16-b834-42e2-ab45-958954d1b354-driving",
+  "numParticipants": 2,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-25T05:19:16.874Z"
+  },
+  "created": {
+    "$date": "2024-02-25T05:19:16.874Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65db6d04f87f59c84cf44c9e"
+  },
+  "name": "Climb or hike a mountain",
+  "description": "See something new while pushing yourself to new heights while getting some physical fitness. ",
+  "image": "8ef787e9-9375-4c32-a495-6137ae50724b-moutain",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-25T16:38:28.290Z"
+  },
+  "created": {
+    "$date": "2024-02-25T16:38:28.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65db6d04f87f59c84cf44ca1"
+  },
+  "name": "Become a volunteer for the blind or vision loss",
+  "description": "Volunteering provides those who are blind or have vision loss one-to one assistance with a variety of tasks. You'll feel good for helping and make new friends. ",
+  "image": "92d1a5f6-2779-4a6d-b4a5-398ab68c9a9d-Volunte",
+  "numParticipants": 2,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-02-25T16:38:28.308Z"
+  },
+  "created": {
+    "$date": "2024-02-25T16:38:28.308Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e16346f87f59c84cf811ac"
+  },
+  "name": "Play in the rain",
+  "description": "Grab a raincoat, galoshes and your umbrella when it's raining. Your senses will be stimulated and help you become more relaxed. ",
+  "image": "d5174084-cd81-449c-ac64-b8bb11acd9ca-playing",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-01T05:10:30.636Z"
+  },
+  "created": {
+    "$date": "2024-03-01T05:10:30.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e55416f87f59c84cf9a4f6"
+  },
+  "name": "Journal your dreams",
+  "description": "Keeping track of dreams on a regular basis may increase a person’s ability to remember their dreams. Remembering dreams and recording them in a dream journal or diary can also help people find links between dreams and their waking lives. ",
+  "image": "b9a1574b-4ddd-47a7-a160-28856d4540b0-drea, j",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-04T04:54:46.401Z"
+  },
+  "created": {
+    "$date": "2024-03-04T04:54:46.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f10271a7947d5f1cb6306e"
+  },
+  "name": "Galaxy's Edge at Walt Disney World",
+  "description": "Visit Walt Disney World in Orlando, Florida and completely immerse yourself in the Star Wars galaxy. Hop on a ride, dine or drink some thematic refreshments, or shop for your favorite merchandise.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T01:33:37.581Z"
+  },
+  "created": {
+    "$date": "2024-03-13T01:33:37.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f10271a7947d5f1cb63071"
+  },
+  "name": "Tatooine Sets",
+  "description": "Visit the famous Tatooine sets that have remained in the deserts of Tunisia, Africa since 1976!",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [
+    {
+      "$oid": "65d8cd13f87f59c84cedd5d1"
+    }
+  ],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T01:33:37.603Z"
+  },
+  "created": {
+    "$date": "2024-03-13T01:33:37.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f10271a7947d5f1cb63074"
+  },
+  "name": "Elstree Studios",
+  "description": "Visit some of the interior and exterior film sets used in 1976.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [
+    {
+      "$oid": "658b12196447ae6cc6574c33"
+    }
+  ],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T01:33:37.610Z"
+  },
+  "created": {
+    "$date": "2024-03-13T01:33:37.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f10271a7947d5f1cb63077"
+  },
+  "name": "Tikal National Park",
+  "description": "Visit this beautiful national park in Guatemala to see where the Yavin IV scenes were shot.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T01:33:37.619Z"
+  },
+  "created": {
+    "$date": "2024-03-13T01:33:37.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f10271a7947d5f1cb6307a"
+  },
+  "name": "Lightsaber Academy (Wichita, Kansas)",
+  "description": "Learn martial arts and swordplay techniques to prepare yourself for a future lightsaber duel.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T01:33:37.626Z"
+  },
+  "created": {
+    "$date": "2024-03-13T01:33:37.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f10271a7947d5f1cb6307d"
+  },
+  "name": "Pilot Training",
+  "description": "Take a private flying lesson to feel like Luke Skywalker in his X-Wing fighter.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T01:33:37.632Z"
+  },
+  "created": {
+    "$date": "2024-03-13T01:33:37.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f10271a7947d5f1cb63080"
+  },
+  "name": "Blacksmith Classes",
+  "description": "Learn how to forge your own weaponry like the Jedi did their lightsabers.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T01:33:37.638Z"
+  },
+  "created": {
+    "$date": "2024-03-13T01:33:37.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1041ca7947d5f1cb65803"
+  },
+  "name": "Droid Depot at the Walt Disney World Resort",
+  "description": "Build your own customized droid at Star Wars: Galaxy's Edge in Orlando, Florida",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T01:40:44.340Z"
+  },
+  "created": {
+    "$date": "2024-03-13T01:40:44.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1041ca7947d5f1cb65806"
+  },
+  "name": "Savi's Workshop Handbuilt Lightsabers",
+  "description": "Build your own customized lightsaber at Star Wars: Galaxy's Edge in Orlando, Florida",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T01:40:44.356Z"
+  },
+  "created": {
+    "$date": "2024-03-13T01:40:44.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1251ca7947d5f1cb7b2ee"
+  },
+  "name": "Write something postive to yourself",
+  "description": "Take some time to write out a few positive things about yourself. Do this daily. This can help you feel encouraged, motivated and optimistic. ",
+  "image": "e4003557-3b93-41be-8843-cc57cf20cad5-affirma",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T04:01:32.807Z"
+  },
+  "created": {
+    "$date": "2024-03-13T04:01:32.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f126d3a7947d5f1cb7be6b"
+  },
+  "name": "Go for a drive",
+  "description": "Take a drive and clear your head. Enjoy the escape, opportunity to think, get some fresh air and be free. ",
+  "image": "0896bba0-695e-4561-ac7d-7ec922462aa2-drive.j",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T04:08:51.178Z"
+  },
+  "created": {
+    "$date": "2024-03-13T04:08:51.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f23093a7947d5f1cba4417"
+  },
+  "name": "Cooking Class ",
+  "description": "Learn the art of food and how ingredients compliment each other. ",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T23:02:43.758Z"
+  },
+  "created": {
+    "$date": "2024-03-13T23:02:43.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f23093a7947d5f1cba441a"
+  },
+  "name": "Music Lessons",
+  "description": "Learn to play a new instrument",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T23:02:43.766Z"
+  },
+  "created": {
+    "$date": "2024-03-13T23:02:43.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f23093a7947d5f1cba441d"
+  },
+  "name": "Pumpkin Picking",
+  "image": "activityplaceholder.jpg",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T23:02:43.772Z"
+  },
+  "created": {
+    "$date": "2024-03-13T23:02:43.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f663fba7947d5f1cc238af"
+  },
+  "name": "Apply to jobs",
+  "description": "Research different job that interests you.  Applying for a job means officially asking for a job, usually by completing a special form or writing a letter. So once you find a job that you believe is a good fit, apply to that position by completing the application, providing your resume and if necessary, a cover letter. Good Luck!",
+  "image": "f772cfa3-cfc8-4151-8971-7e724cbd3860-job app",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-17T03:31:07.033Z"
+  },
+  "created": {
+    "$date": "2024-03-17T03:31:07.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ff3a02a7947d5f1ccaed43"
+  },
+  "name": "Cross Country Train Trip",
+  "description": "A cross-country train trip typically involves traveling long distances across a country by train, covering various landscapes, cities, and regions along the way. Passengers board a train at one location and disembark at another, traversing vast distances over several days or weeks, depending on the route and itinerary. These journeys offer a scenic and leisurely way to explore the country, allowing travelers to enjoy panoramic views, visit different destinations, and experience the unique charm of train travel. ",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-23T20:22:26.759Z"
+  },
+  "created": {
+    "$date": "2024-03-23T20:22:26.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ff3a02a7947d5f1ccaed46"
+  },
+  "name": "Empire State Building Tour",
+  "description": "The Empire State Building tour offers a memorable and immersive journey through one of the most iconic landmarks in the world, allowing visitors to marvel at stunning views, learn about its rich history, and create lasting memories of their time atop New York City's skyline.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [
+    {
+      "$oid": "6590cacf6447ae6cc6585f3d"
+    }
+  ],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-23T20:22:26.782Z"
+  },
+  "created": {
+    "$date": "2024-03-23T20:22:26.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ff3a02a7947d5f1ccaed49"
+  },
+  "name": "Metropolitan Museum of Art tour",
+  "description": "The Metropolitan Museum of Art, often referred to simply as the Met, is one of the largest and most prestigious art museums in the world. Located in New York City, the Met boasts a vast collection spanning over 5,000 years of art from various cultures and civilizations. Its expansive galleries feature artworks ranging from ancient Egyptian artifacts and classical Greek and Roman sculptures to European paintings, Asian art, and contemporary masterpieces. Visitors to the Met can explore diverse art forms, including paintings, sculptures, decorative arts, textiles, and photography, offering a comprehensive overview of human creativity and cultural heritage. The museum also hosts special exhibitions, educational programs, and events, making it a vibrant cultural hub that attracts millions of visitors annually. With its world-class collections and rich cultural offerings, the Metropolitan Museum of Art is a must-visit destination for art enthusiasts and cultural explorers alike.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [
+    {
+      "$oid": "6590cacf6447ae6cc6585f3d"
+    }
+  ],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-23T20:22:26.791Z"
+  },
+  "created": {
+    "$date": "2024-03-23T20:22:26.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ff3b7da7947d5f1ccb0c8c"
+  },
+  "name": "The Parthenon tour (Nashville, Tenessee)",
+  "description": "The Parthenon in Nashville, Tennessee, is a full-scale replica of the original Parthenon in Athens, Greece. Visitors arrive at Centennial Park in Nashville, where the Parthenon is located. They enter the park and approach the majestic structure, which stands as a prominent symbol of classical architecture. Before entering the Parthenon, visitors may learn about its history and significance through informational displays or guided tours. They discover that the Parthenon in Nashville was built in 1897 as part of the Tennessee Centennial Exposition, celebrating the state's centennial anniversary. The exterior of the Parthenon mirrors the grandeur of its ancient counterpart, featuring imposing Doric columns, intricate pediments, and a monumental facade. Visitors admire the meticulous attention to detail in the reproduction, which faithfully replicates the original's architectural elements. Upon entering the Parthenon, visitors step into the expansive interior space, which houses a replica of the statue of Athena Parthenos, the goddess Athena adorned in full armor. The towering statue, standing over 40 feet tall, is a striking centerpiece that captures the essence of ancient Greek artistry and mythology.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-23T20:28:45.258Z"
+  },
+  "created": {
+    "$date": "2024-03-23T20:28:45.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ff4016a7947d5f1ccb259a"
+  },
+  "name": "Baking Lotus Flower Cookies",
+  "description": "Based on the lotus flower-shaped snacks from the book that have a mesmerizing effect, causing them to lose track of time and become trapped in a state of perpetual bliss. These lotus flower snacks symbolize temptation and distraction, luring individuals into a seductive illusion that prevents them from facing reality.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-23T20:48:22.422Z"
+  },
+  "created": {
+    "$date": "2024-03-23T20:48:22.422Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660855d2a7947d5f1ccc69b9"
+  },
+  "name": "Scuba Diving",
+  "description": "Explore the ocean and its creatures",
+  "image": "activityplaceholder.jpg",
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-30T18:11:30.741Z"
+  },
+  "created": {
+    "$date": "2024-03-30T18:11:30.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660855d2a7947d5f1ccc69bc"
+  },
+  "name": "Aquarium Visit",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-30T18:11:30.759Z"
+  },
+  "created": {
+    "$date": "2024-03-30T18:11:30.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660855d2a7947d5f1ccc69bf"
+  },
+  "name": "Hermit Crab Habitat",
+  "description": "Set up a mini saltwater or freshwater habitat to observe hermit crabs in action. Include a small tank with sand, rocks, shells, and water. ",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-30T18:11:30.766Z"
+  },
+  "created": {
+    "$date": "2024-03-30T18:11:30.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6608606da7947d5f1ccd53fd"
+  },
+  "name": "Forest Scavenger Hunt",
+  "description": "Set up a scavenger hunt outdoors or in a natural setting like a park, garden, or forest. ",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [],
+  "active": true,
+  "updated": {
+    "$date": "2024-03-30T18:56:45.629Z"
+  },
+  "created": {
+    "$date": "2024-03-30T18:56:45.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660d8990a7947d5f1cd17b9a"
+  },
+  "name": "Visit a Memorial",
+  "description": "You can go and visit a memorial and read up on soldier's anecdotes.",
+  "image": "activityplaceholder.jpg",
+  "numParticipants": 1,
+  "placeList": [
+    {
+      "$oid": "651242b3376d0f27cd1a4c0d"
+    }
+  ],
+  "active": true,
+  "updated": {
+    "$date": "2024-04-03T16:53:36.328Z"
+  },
+  "created": {
+    "$date": "2024-04-03T16:53:36.328Z"
+  },
+  "__v": 0
+}]

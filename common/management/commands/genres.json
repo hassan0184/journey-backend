@@ -1,0 +1,2364 @@
+[{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909b3"
+  },
+  "format": [],
+  "name": "western",
+  "description": "Description of the genre western",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909c7"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "middle eastern music",
+  "description": "Description of the genre middle eastern music",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909a3"
+  },
+  "format": [
+    "movie",
+    "book",
+    "theater",
+    "song"
+  ],
+  "name": "comedy",
+  "description": "Description of the genre comedy",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909ad"
+  },
+  "format": [
+    "game",
+    "movie",
+    "book",
+    "theater"
+  ],
+  "name": "speculative",
+  "description": "Description of the genre speculative",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909bc"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "easy listening",
+  "description": "Description of the genre easy listening",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909a7"
+  },
+  "format": [
+    "game",
+    "movie",
+    "book",
+    "theater"
+  ],
+  "name": "historical fiction",
+  "description": "Description of the genre historical fiction",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909ba"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "classical",
+  "description": "Description of the genre classical",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909ab"
+  },
+  "format": [
+    "game",
+    "movie",
+    "book",
+    "theater"
+  ],
+  "name": "science fiction",
+  "description": "Description of the genre science fiction",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909aa"
+  },
+  "format": [
+    "game",
+    "movie",
+    "book",
+    "theater",
+    "song"
+  ],
+  "name": "satire",
+  "description": "Description of the genre satire",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909a6"
+  },
+  "format": [
+    "game",
+    "movie",
+    "book",
+    "theater"
+  ],
+  "name": "historical",
+  "description": "Description of the genre historical",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909a2"
+  },
+  "format": [
+    "game",
+    "movie",
+    "book",
+    "theater"
+  ],
+  "name": "adventure",
+  "description": "Description of the genre adventure",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909a1"
+  },
+  "format": [
+    "game",
+    "movie",
+    "book",
+    "theater"
+  ],
+  "name": "action",
+  "description": "Description of the genre action",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909ae"
+  },
+  "format": [
+    "game",
+    "movie",
+    "book",
+    "theater"
+  ],
+  "name": "thriller",
+  "description": "Description of the genre thriller",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909a5"
+  },
+  "format": [
+    "game",
+    "movie",
+    "book",
+    "theater"
+  ],
+  "name": "fantasy",
+  "description": "Description of the genre fantasy",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909a8"
+  },
+  "format": [
+    "game",
+    "movie",
+    "book",
+    "theater"
+  ],
+  "name": "horror",
+  "description": "Description of the genre horror",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909a9"
+  },
+  "format": [
+    "game",
+    "movie",
+    "book",
+    "theater"
+  ],
+  "name": "romance",
+  "description": "Description of the genre romance",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909bd"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "electronic",
+  "description": "Description of the genre electronic",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909b4"
+  },
+  "format": [
+    "game"
+  ],
+  "name": "role-playing game",
+  "description": "Description of the genre role-playing game",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909b0"
+  },
+  "format": [],
+  "name": "animation",
+  "description": "Description of the genre animation",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909cb"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "funk",
+  "description": "Description of the genre funk",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909b8"
+  },
+  "format": [
+    "game"
+  ],
+  "name": "puzzle",
+  "description": "Description of the genre puzzle",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909bb"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "country",
+  "description": "Description of the genre country",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909b1"
+  },
+  "format": [],
+  "name": "documentary",
+  "description": "Description of the genre documentary",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909cc"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "disco",
+  "description": "Description of the genre disco",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909c0"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "jazz",
+  "description": "Description of the genre jazz",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909c2"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "r&b",
+  "description": "Description of the genre r&b",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909b6"
+  },
+  "format": [
+    "game"
+  ],
+  "name": "strategy",
+  "description": "Description of the genre strategy",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909ac"
+  },
+  "format": [
+    "game",
+    "movie",
+    "book",
+    "theater"
+  ],
+  "name": "cyberpunk and derivatives",
+  "description": "Description of the genre cyberpunk and derivatives",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909b2"
+  },
+  "format": [],
+  "name": "drama",
+  "description": "Description of the genre drama",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909ca"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "soul",
+  "description": "Description of the genre soul",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909b5"
+  },
+  "format": [
+    "game"
+  ],
+  "name": "simulation",
+  "description": "Description of the genre simulation",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909b9"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "blues",
+  "description": "Description of the genre blues",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909c6"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "caribbean music",
+  "description": "Description of the genre caribbean music",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909cd"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "bachata",
+  "description": "bachata music",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909be"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "folk",
+  "description": "Description of the genre folk",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909bf"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "hip hop",
+  "description": "Description of the genre hip hop",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909c1"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "pop",
+  "description": "Description of the genre pop",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909c5"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "latin music",
+  "description": "Description of the genre latin music",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909c9"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "metal",
+  "description": "Description of the genre metal",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909a4"
+  },
+  "format": [
+    "game",
+    "movie",
+    "book",
+    "theater"
+  ],
+  "name": "crime and mystery",
+  "description": "Description of the genre crime and mystery",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909af"
+  },
+  "format": [
+    "game",
+    "movie",
+    "book",
+    "theater"
+  ],
+  "name": "children's fiction",
+  "description": "Description of the genre children's fiction",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909b7"
+  },
+  "format": [
+    "game"
+  ],
+  "name": "rhythm",
+  "description": "Description of the genre rhythm",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909c3"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "rock",
+  "description": "Description of the genre rock",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909c4"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "avant-garde",
+  "description": "Description of the genre avant-garde",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26b7d376d0f27cd1909c8"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "k-pop",
+  "description": "Description of the genre k-pop",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aae8"
+  },
+  "format": [
+    "book"
+  ],
+  "name": " Picture books for children",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-11T20:14:55.779Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aa4a"
+  },
+  "format": [
+    "book"
+  ],
+  "name": " Picture books for children",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:17:03.502Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e0cc"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Fairytale",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:17:07.329Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e14c"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Fairytale",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T20:42:14.452Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e1839572ed8a4effda29f"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Rhythm and Blues",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-27T04:37:10.504Z"
+  },
+  "created": {
+    "$date": "2023-11-22T15:03:21.659Z"
+  },
+  "__v": 0,
+  "description": "Rhythm and Blues is popular music typically including elements of blues and African American folk music and marked by a strong beat and simple chord structure. "
+},
+{
+  "_id": {
+    "$oid": "655f8c60572ed8a4effde82d"
+  },
+  "format": [
+    "song",
+    "game",
+    "theater"
+  ],
+  "name": "test",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-23T17:31:31.419Z"
+  },
+  "created": {
+    "$date": "2023-11-23T17:31:12.091Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65620e54572ed8a4effe3157"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Pop Rock",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-27T04:32:28.147Z"
+  },
+  "created": {
+    "$date": "2023-11-25T15:10:12.048Z"
+  },
+  "__v": 0,
+  "description": "Pop rock is a genre of popular music that combines elements of pop and rock music. It features a blend of the melodic and catchy characteristics of pop with the instrumentation and energy associated with rock. Pop rock songs often have a radio-friendly sound and appeal to a broad audience."
+},
+{
+  "_id": {
+    "$oid": "65620e54572ed8a4effe315a"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Alternative Rock",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-27T04:30:40.071Z"
+  },
+  "created": {
+    "$date": "2023-11-25T15:10:12.060Z"
+  },
+  "__v": 0,
+  "description": "Alternative rock is a broad and diverse genre of rock music that emerged in the 1980s and gained significant popularity in the 1990s. It is characterized by its departure from the mainstream sound of conventional rock, incorporating a wide range of styles and influences. While alternative rock is known for its diversity, there are some key characteristics that define the genre: Diversity of Styles, Independence and DIY Ethos, Non-Conformity, Emphasis on Songwriting, Innovation and Experimentation, Anti-Commercialism, Crossover Appeal, Grunge Influence and Timeline and Evolution. "
+},
+{
+  "_id": {
+    "$oid": "6562b340572ed8a4effe4257"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Adult Contemporary",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-27T04:20:16.339Z"
+  },
+  "created": {
+    "$date": "2023-11-26T02:53:52.891Z"
+  },
+  "__v": 0,
+  "description": "\nAdult Contemporary (AC) is a genre of music that is specifically geared toward adult audiences, typically aged 25 and older. It is characterized by a diverse range of styles and artists, and its defining features can vary over time and across regions."
+},
+{
+  "_id": {
+    "$oid": "6562bcb9572ed8a4effe5368"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Electropop",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-27T04:18:49.433Z"
+  },
+  "created": {
+    "$date": "2023-11-26T03:34:17.983Z"
+  },
+  "__v": 0,
+  "description": "\nElectropop is a genre of electronic pop music that emerged in the late 1970s and became more prominent in the 1980s. It combines elements of electronic music, synthesizers, and pop sensibilities to create a catchy and often danceable sound."
+},
+{
+  "_id": {
+    "$oid": "6562bcb9572ed8a4effe536b"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Pop",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-27T04:17:46.765Z"
+  },
+  "created": {
+    "$date": "2023-11-26T03:34:17.994Z"
+  },
+  "__v": 0,
+  "description": "\"Pop music,\" short for \"popular music,\" is a genre of music characterized by its widespread appeal and accessibility. It is often designed to reach a large audience and is influenced by a range of musical styles. "
+},
+{
+  "_id": {
+    "$oid": "657d4a0b6447ae6cc65611c7"
+  },
+  "format": [
+    "game"
+  ],
+  "name": "slice of life",
+  "description": "A genre in which the focus is on a snapshot of daily life with all of the ups and downs it brings.",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-16T06:56:11.736Z"
+  },
+  "created": {
+    "$date": "2023-12-16T06:56:11.736Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658077d26447ae6cc6561d63"
+  },
+  "format": [
+    "game"
+  ],
+  "name": "racing",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-18T16:48:18.151Z"
+  },
+  "created": {
+    "$date": "2023-12-18T16:48:18.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a7606447ae6cc656f2ab"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Jazz",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-27T04:14:34.369Z"
+  },
+  "created": {
+    "$date": "2023-12-24T03:37:04.237Z"
+  },
+  "__v": 0,
+  "description": "Jazz is a music genre that originated in the African-American communities of New Orleans, Louisiana, in the late 19th and early 20th centuries, with its roots in blues and ragtime. Since the 1920s Jazz Age, it has been recognized as a major form of musical expression in traditional and popular music."
+},
+{
+  "_id": {
+    "$oid": "6587a7606447ae6cc656f2ae"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Swing",
+  "description": "Swing music is a style of jazz that developed in the United States during the late 1920s and early '30s. It became nationally popular from the mid-1930s.",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-24T03:37:04.252Z"
+  },
+  "created": {
+    "$date": "2023-12-24T03:37:04.252Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6590f9736447ae6cc658be1b"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Dancehall",
+  "description": " Dancehall is a genre of Jamaican popular music that grew from the reggae and roots styles of music in the 1970's. Developed in the dance halls of Jamaica, at parties and nightclubs, Dancehall is a highly energetic dance style, with a strong focus on moving the hips and “booty”",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T05:17:39.573Z"
+  },
+  "created": {
+    "$date": "2023-12-31T05:17:39.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659224726447ae6cc6596346"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Latin Rock",
+  "description": "Latin rock is a term to describe a subgenre blending traditional sounds and elements of Latin American and Hispanic Caribbean folk with rock music. However, it is widely used in the English-language media to refer any kind of rock music featuring Spanish or Portuguese vocals.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-01T02:33:22.963Z"
+  },
+  "created": {
+    "$date": "2024-01-01T02:33:22.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659224726447ae6cc6596349"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Classic Rock",
+  "description": "Classic rock is a radio format that developed from the album-oriented rock format in the early 1980s. In the United States, it comprises rock music ranging generally from the mid-1960s through the mid-1990s, primarily focusing on commercially successful blues rock and hard rock popularized in the 1970s AOR format.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-01T02:33:22.980Z"
+  },
+  "created": {
+    "$date": "2024-01-01T02:33:22.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6598d2aa6447ae6cc65ad904"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Eurodance",
+  "description": "Eurodance (sometimes referred to as Euro-NRG, Euro-electronica or Euro Techno) is a genre of electronic dance music that originated in the late 1980s in Europe. It combines many elements of rap, techno and Eurodisco. This genre of music is heavily influenced by the use of rich vocals, sometimes with rapped verses. This, combined with cutting-edge synthesizers, strong bass rhythm and melodic hooks, establishes the core foundation of Eurodance music.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-06T04:10:18.894Z"
+  },
+  "created": {
+    "$date": "2024-01-06T04:10:18.894Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659b6aa96447ae6cc65bdcf2"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Contemporary R&B",
+  "description": "Characterized by soulful, passionate and melismatic vocals originally derived from popular Soul and Disco, and by smooth, lush and often synthezised production variously influenced by Hip Hop, Funk, and related strands of Pop.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-08T03:23:21.249Z"
+  },
+  "created": {
+    "$date": "2024-01-08T03:23:21.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659b6aa96447ae6cc65bdcf5"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Pop Soul",
+  "description": "Fusion of Pop and Soul; originated in the 1960s as an attempt to give soul crossover success.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-08T03:23:21.260Z"
+  },
+  "created": {
+    "$date": "2024-01-08T03:23:21.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659b6aa96447ae6cc65bdcf8"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Art pop",
+  "description": "Artistic, inventive and singular presentation and performance, often featuring poetic or oblique lyricism, and frequently subverting and experimenting with various other genres and art forms while remaining fairly Pop-oriented and accessible.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-08T03:23:21.267Z"
+  },
+  "created": {
+    "$date": "2024-01-08T03:23:21.267Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659b6aa96447ae6cc65bdcfb"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Progressive Pop",
+  "description": "Milder counterpart to Progressive Rock, emerging in the late 1960s and introducing complex songwriting and arrangements into a Pop context.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-08T03:23:21.274Z"
+  },
+  "created": {
+    "$date": "2024-01-08T03:23:21.274Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659b6aa96447ae6cc65bdcfe"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Beat Box",
+  "description": "Form of vocal percussion developed during the 1980s, primarily involving the art of producing drum beats, rhythm, and musical sounds using one's mouth, lips, tongue, voice, and more.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-08T03:23:21.281Z"
+  },
+  "created": {
+    "$date": "2024-01-08T03:23:21.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659bf77e6447ae6cc65cc8e4"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Rap",
+  "description": "Rap, musical style in which rhythmic and/or rhyming speech is chanted (“rapped”) to musical accompaniment.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-08T13:24:14.534Z"
+  },
+  "created": {
+    "$date": "2024-01-08T13:24:14.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2cb6e557aed6fa8cc1c38"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Children's literature",
+  "description": "Stories, books, magazines and poems that are created for children.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T17:42:06.232Z"
+  },
+  "created": {
+    "$date": "2024-01-13T17:42:06.232Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2d77c557aed6fa8cc1eb8"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Gothic",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T18:33:32.153Z"
+  },
+  "created": {
+    "$date": "2024-01-13T18:33:32.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a550c2557aed6fa8cdd267"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Blues Rock",
+  "description": "Blues rock is a genre of music that originated in the early to mid-1960s in the United States and the United Kingdom. It is a fusion of blues and rock music that relies on the chords/scales and instrumental improvisation of blues. It is mostly an electric ensemble-style music with instrumentation similar to electric blues and rock, such as electric guitar, electric bass guitar, and drums, sometimes with keyboards and harmonica.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T15:35:30.711Z"
+  },
+  "created": {
+    "$date": "2024-01-15T15:35:30.711Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a550c2557aed6fa8cdd26a"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Psychedelic Rock",
+  "description": "Psychedelic rock is a rock music genre that is inspired, influenced, or representative of psychedelic culture, which is centered on perception-altering hallucinogenic drugs. The music incorporated new electronic sound effects and recording techniques, extended instrumental solos, and improvisation.[2] Many psychedelic groups differ in style, and the label is often applied spuriously",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T15:35:30.723Z"
+  },
+  "created": {
+    "$date": "2024-01-15T15:35:30.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5a851557aed6fa8d1381c"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Tragedy",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T21:49:05.099Z"
+  },
+  "created": {
+    "$date": "2024-01-15T21:49:05.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5bad4557aed6fa8d170d3"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Fiction",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T23:08:04.545Z"
+  },
+  "created": {
+    "$date": "2024-01-15T23:08:04.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac02e6557aed6fa8d33156"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Southern Gothic",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T17:29:10.342Z"
+  },
+  "created": {
+    "$date": "2024-01-20T17:29:10.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac02e6557aed6fa8d33159"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Legal",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T17:29:10.356Z"
+  },
+  "created": {
+    "$date": "2024-01-20T17:29:10.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac02e6557aed6fa8d3315c"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Bildungsroman ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T17:29:10.366Z"
+  },
+  "created": {
+    "$date": "2024-01-20T17:29:10.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac2d08557aed6fa8d3bbce"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Animal stories",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T20:28:56.301Z"
+  },
+  "created": {
+    "$date": "2024-01-20T20:28:56.301Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ad39a7557aed6fa8d4d7c9"
+  },
+  "format": [
+    "movie"
+  ],
+  "name": "Sports",
+  "description": "High School Basketball",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-21T15:35:03.511Z"
+  },
+  "created": {
+    "$date": "2024-01-21T15:35:03.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ad53b9557aed6fa8d4f0bf"
+  },
+  "format": [
+    "book"
+  ],
+  "name": " Picture books ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-21T17:26:17.463Z"
+  },
+  "created": {
+    "$date": "2024-01-21T17:26:17.463Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aee5ba557aed6fa8d52f50"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Sound it out book",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-22T22:01:30.737Z"
+  },
+  "created": {
+    "$date": "2024-01-22T22:01:30.737Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aee9fb557aed6fa8d537a2"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Read aloud",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-22T22:19:39.312Z"
+  },
+  "created": {
+    "$date": "2024-01-22T22:19:39.312Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aefd79557aed6fa8d5ca78"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Family saga",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-22T23:42:49.126Z"
+  },
+  "created": {
+    "$date": "2024-01-22T23:42:49.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aefd79557aed6fa8d5ca7b"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Magical Realism",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-22T23:42:49.135Z"
+  },
+  "created": {
+    "$date": "2024-01-22T23:42:49.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aefd79557aed6fa8d5ca7e"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "High Fantasy",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-22T23:42:49.142Z"
+  },
+  "created": {
+    "$date": "2024-01-22T23:42:49.142Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b1e2a7557aed6fa8d75449"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Hard Rock",
+  "description": "Hard rock is a form of loud, aggressive rock music. The electric guitar is often emphasized, used with distortion and other effects, both as a rhythm instrument using repetitive riffs with a varying degree of complexity, and as a solo lead instrument. Drumming characteristically focuses on driving rhythms, strong bass drum and a backbeat on snare, sometimes using cymbals for emphasis. The bass guitar works in conjunction with the drums, occasionally playing riffs, but usually providing a backing for the rhythm and lead guitars. Vocals are often growling, raspy, or involve screaming or wailing, sometimes in a high range, or even falsetto voice.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-25T04:25:11.539Z"
+  },
+  "created": {
+    "$date": "2024-01-25T04:25:11.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b5ca33557aed6fa8d940b7"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Synthpop",
+  "description": "Synthpop is a music genre that gained success and became known in the ‘80s. It’s a combination of new wave electronic music with some elements of punk. Around that time, a lot of artists coming out of the rubble of punk music started using synthesizers to create music.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T03:29:55.690Z"
+  },
+  "created": {
+    "$date": "2024-01-28T03:29:55.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b71c98557aed6fa8dc35dd"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Dance-pop",
+  "description": "Dance-pop is a subgenre of pop music that originated in the late 1970s to early 1980s. It is generally uptempo music intended for nightclubs with the intention of being danceable but also suitable for contemporary hit radio.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-29T03:33:44.931Z"
+  },
+  "created": {
+    "$date": "2024-01-29T03:33:44.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b9cc6df87f59c84cc6192e"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "New wave",
+  "description": "New wave is a music genre that encompasses pop-oriented styles from the late 1970s through the 1980s. It is considered a lighter and more melodic \"broadening of punk culture\". It was originally used as a catch-all for the various styles of music that emerged after punk rock, including punk itself.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-31T04:28:29.744Z"
+  },
+  "created": {
+    "$date": "2024-01-31T04:28:29.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bdae49f87f59c84cc752a1"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Bubblegum pop",
+  "description": "Bubblegum pop is a subgenre characterized by its simplicity, infectious melodies, and lyrics that often revolve around adolescent themes such as love, friendship, and innocence.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-03T03:08:57.402Z"
+  },
+  "created": {
+    "$date": "2024-02-03T03:08:57.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bff9c5f87f59c84cc996f4"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Postmodern literature",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-04T20:55:33.606Z"
+  },
+  "created": {
+    "$date": "2024-02-04T20:55:33.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c30317f87f59c84ccc9822"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Soft rock",
+  "description": "The term “soft rock” is often used to describe a subgenre of pop music that features soothing, mellow melodies and lyrics.",
+  "image": "faad72a0-c3e2-4ce7-a334-0201ec1144a7-soft ro",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T04:12:07.942Z"
+  },
+  "created": {
+    "$date": "2024-02-07T04:12:07.942Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c31026f87f59c84ccd1b0b"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Rock and Roll",
+  "description": "A type of popular dance music originating in the 1950s, characterized by a heavy beat and simple melodies. Rock and roll was an amalgam of rhythm and blues and country music, usually based on a twelve-bar structure and an instrumentation of guitar, bass, and drums.",
+  "image": "db497917-2d42-4467-9a21-84eff19ff062-rock an",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T05:07:50.777Z"
+  },
+  "created": {
+    "$date": "2024-02-07T05:07:50.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c31026f87f59c84ccd1b0e"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Glam Rock",
+  "description": "A style of rock music first popular in the early 1970s, characterized by male performers wearing exaggeratedly flamboyant clothes and makeup.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T05:07:50.792Z"
+  },
+  "created": {
+    "$date": "2024-02-07T05:07:50.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c3fe73f87f59c84cce10f2"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Diary",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T22:04:35.873Z"
+  },
+  "created": {
+    "$date": "2024-02-07T22:04:35.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c3fe73f87f59c84cce10f5"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Domestic fiction",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T22:04:35.882Z"
+  },
+  "created": {
+    "$date": "2024-02-07T22:04:35.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c4000af87f59c84cce2a11"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Dystopian Fiction",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T22:11:22.661Z"
+  },
+  "created": {
+    "$date": "2024-02-07T22:11:22.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c40e71f87f59c84cce98db"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Fictional Autobiography",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T23:12:49.615Z"
+  },
+  "created": {
+    "$date": "2024-02-07T23:12:49.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c40e71f87f59c84cce98de"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Social Criticism",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T23:12:49.624Z"
+  },
+  "created": {
+    "$date": "2024-02-07T23:12:49.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ce8b1ef87f59c84cd4b837"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Crime Fiction",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-15T22:07:26.390Z"
+  },
+  "created": {
+    "$date": "2024-02-15T22:07:26.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ce8b1ef87f59c84cd4b83a"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Philosophical Fiction",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-15T22:07:26.412Z"
+  },
+  "created": {
+    "$date": "2024-02-15T22:07:26.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ce8b1ef87f59c84cd4b83d"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Pyschological Fiction",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-15T22:07:26.419Z"
+  },
+  "created": {
+    "$date": "2024-02-15T22:07:26.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d36672f87f59c84cd736f5"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Folk rock",
+  "description": "Popular music resembling or derived from folk music but incorporating the stronger beat of rock music and using electric instruments.",
+  "image": "4dfa2017-725e-41b1-bd5e-868ff88e3169-folk ro",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T14:32:18.756Z"
+  },
+  "created": {
+    "$date": "2024-02-19T14:32:18.756Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d3b677f87f59c84cdb6118"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Nautical fiction",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T20:13:43.767Z"
+  },
+  "created": {
+    "$date": "2024-02-19T20:13:43.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d3b677f87f59c84cdb611b"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Epic",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T20:13:43.777Z"
+  },
+  "created": {
+    "$date": "2024-02-19T20:13:43.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d4cfa2f87f59c84cdda2be"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Christian Literature",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T16:13:22.250Z"
+  },
+  "created": {
+    "$date": "2024-02-20T16:13:22.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d4eecff87f59c84cde6589"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Social novel",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T18:26:23.152Z"
+  },
+  "created": {
+    "$date": "2024-02-20T18:26:23.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d503cef87f59c84cdef092"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Farce",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T19:55:58.618Z"
+  },
+  "created": {
+    "$date": "2024-02-20T19:55:58.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d503cef87f59c84cdef095"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Supernatural fiction",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T19:55:58.631Z"
+  },
+  "created": {
+    "$date": "2024-02-20T19:55:58.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d511d6f87f59c84cdf7df1"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Psychological fiction",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T20:55:50.022Z"
+  },
+  "created": {
+    "$date": "2024-02-20T20:55:50.022Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d52625f87f59c84ce0235e"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Medical fiction",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T22:22:29.394Z"
+  },
+  "created": {
+    "$date": "2024-02-20T22:22:29.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d52e54f87f59c84ce05727"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Political Fiction",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T22:57:24.604Z"
+  },
+  "created": {
+    "$date": "2024-02-20T22:57:24.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d52e54f87f59c84ce0572a"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Social Science Fiction",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T22:57:24.647Z"
+  },
+  "created": {
+    "$date": "2024-02-20T22:57:24.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d6637af87f59c84ce21fb9"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Board book",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T20:56:26.670Z"
+  },
+  "created": {
+    "$date": "2024-02-21T20:56:26.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d66770f87f59c84ce2348b"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Songs",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T21:13:20.170Z"
+  },
+  "created": {
+    "$date": "2024-02-21T21:13:20.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d66770f87f59c84ce2348e"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Poetry",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T21:13:20.179Z"
+  },
+  "created": {
+    "$date": "2024-02-21T21:13:20.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d66feff87f59c84ce25e33"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Juvenile literature",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T21:49:35.056Z"
+  },
+  "created": {
+    "$date": "2024-02-21T21:49:35.056Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d67582f87f59c84ce28a5e"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Juvenile fiction",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T22:13:22.873Z"
+  },
+  "created": {
+    "$date": "2024-02-21T22:13:22.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d75749f87f59c84ce3be7f"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Epistolary novel",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T14:16:41.412Z"
+  },
+  "created": {
+    "$date": "2024-02-22T14:16:41.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d75749f87f59c84ce3be82"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Fantastique",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T14:16:41.437Z"
+  },
+  "created": {
+    "$date": "2024-02-22T14:16:41.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d75749f87f59c84ce3be85"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Fantasy fiction",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T14:16:41.476Z"
+  },
+  "created": {
+    "$date": "2024-02-22T14:16:41.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d75749f87f59c84ce3be88"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Invasion literature",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T14:16:41.558Z"
+  },
+  "created": {
+    "$date": "2024-02-22T14:16:41.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d77290f87f59c84ce4e57e"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Humor",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T16:13:04.692Z"
+  },
+  "created": {
+    "$date": "2024-02-22T16:13:04.692Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d77290f87f59c84ce4e581"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Robinsonade",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T16:13:04.705Z"
+  },
+  "created": {
+    "$date": "2024-02-22T16:13:04.705Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d795b0f87f59c84ce64373"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Absurd fiction",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T18:42:56.490Z"
+  },
+  "created": {
+    "$date": "2024-02-22T18:42:56.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d795b0f87f59c84ce64376"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Dark comedy",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T18:42:56.498Z"
+  },
+  "created": {
+    "$date": "2024-02-22T18:42:56.498Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d795b0f87f59c84ce64379"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Humorous fiction",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T18:42:56.504Z"
+  },
+  "created": {
+    "$date": "2024-02-22T18:42:56.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d795b0f87f59c84ce6437c"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "War Story",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T18:42:56.511Z"
+  },
+  "created": {
+    "$date": "2024-02-22T18:42:56.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d8b15bf87f59c84ceca279"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Paranormal fiction",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T14:53:15.203Z"
+  },
+  "created": {
+    "$date": "2024-02-23T14:53:15.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d8b6ecf87f59c84cece010"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Epic Poetry",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T15:17:00.909Z"
+  },
+  "created": {
+    "$date": "2024-02-23T15:17:00.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d8d758f87f59c84cee94b0"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Coming of age story",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T17:35:20.430Z"
+  },
+  "created": {
+    "$date": "2024-02-23T17:35:20.430Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d8d758f87f59c84cee94b3"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "First person narrative",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T17:35:20.439Z"
+  },
+  "created": {
+    "$date": "2024-02-23T17:35:20.439Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d8d758f87f59c84cee94b6"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Literary realism",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T17:35:20.446Z"
+  },
+  "created": {
+    "$date": "2024-02-23T17:35:20.446Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d8d758f87f59c84cee94b9"
+  },
+  "format": [
+    "book"
+  ],
+  "name": "Young adult fiction",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T17:35:20.452Z"
+  },
+  "created": {
+    "$date": "2024-02-23T17:35:20.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc1832f87f59c84cf52bfd"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Grunge",
+  "description": "Grunge, genre of rock music that flourished in the late 1980s and early ’90s and, secondarily, its attendant fashion. The term grunge was first used to describe the murky-guitar bands (most notably Nirvana and Pearl Jam) that emerged from Seattle in the late 1980s as a bridge between mainstream 1980s heavy metal–hard rock and postpunk alternative rock.",
+  "image": "55e94ef9-4aad-4764-8efc-b34afa8cf1f3-grunge.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-26T04:48:50.331Z"
+  },
+  "created": {
+    "$date": "2024-02-26T04:48:50.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e54daaf87f59c84cf97611"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Pop-funk",
+  "description": "Pop-funk is a genre that blends elements of pop music with funk music. Funk is a genre known for its syncopated rhythms, groovy basslines, and emphasis on rhythm and groove. When combined with pop music, which typically features catchy melodies, accessible song structures, and often incorporates elements of various other genres, the result is pop-funk.\n\nIn pop-funk music, you'll often hear upbeat tempos, funky basslines, catchy hooks, and a danceable rhythm section. Artists like Bruno Mars, Prince, Michael Jackson, and Mark Ronson have all incorporated pop-funk elements into their music, creating infectious and energetic tracks that appeal to a wide audience.",
+  "image": "4ecc646b-7432-417e-b535-0aba2459e76b-funk po",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-04T04:27:22.698Z"
+  },
+  "created": {
+    "$date": "2024-03-04T04:27:22.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e5db2ff87f59c84cf9f0bc"
+  },
+  "format": [
+    "movie"
+  ],
+  "name": "Sports Underdog",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-04T14:31:11.681Z"
+  },
+  "created": {
+    "$date": "2024-03-04T14:31:11.681Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e72c53f87f59c84cfa40ed"
+  },
+  "format": [
+    "movie"
+  ],
+  "name": "Drama, Sports",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-05T14:29:39.189Z"
+  },
+  "created": {
+    "$date": "2024-03-05T14:29:39.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fa6455a7947d5f1cc7ff5f"
+  },
+  "format": [
+    "song"
+  ],
+  "name": "Country pop",
+  "description": "Country pop is a fusion genre of country music and pop music that was developed by members of the country genre out of a desire to reach a larger, mainstream audience. ",
+  "image": "c55a4fc1-7296-4be2-8290-c912fdcaab82-country",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-20T04:21:41.492Z"
+  },
+  "created": {
+    "$date": "2024-03-20T04:21:41.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5f12a7947d5f1cc96668"
+  },
+  "format": [
+    "book",
+    "game",
+    "movie",
+    "artifact",
+    "theater"
+  ],
+  "name": "Mythology",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-21T16:23:46.715Z"
+  },
+  "created": {
+    "$date": "2024-03-21T16:23:46.715Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660d7ef9a7947d5f1cd0eca1"
+  },
+  "format": [
+    "game"
+  ],
+  "name": "Third Person Shooter",
+  "description": "The third-person shooter shows the protagonist from an \"over-the-shoulder shot\" or \"behind the back\" perspective.",
+  "active": true,
+  "updated": {
+    "$date": "2024-04-03T16:08:25.636Z"
+  },
+  "created": {
+    "$date": "2024-04-03T16:08:25.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660d7ef9a7947d5f1cd0eca4"
+  },
+  "format": [
+    "game"
+  ],
+  "name": "Cooperative Gameplay",
+  "description": "Cooperative games (co-op games) are a form of play or sport in which players work with one another in order to achieve a common objective. The goal of a co-op game is to reduce emphasis on competition and increase emphasis on the social aspects of play or sport.",
+  "active": true,
+  "updated": {
+    "$date": "2024-04-03T16:08:25.658Z"
+  },
+  "created": {
+    "$date": "2024-04-03T16:08:25.658Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660d7ef9a7947d5f1cd0eca7"
+  },
+  "format": [
+    "game"
+  ],
+  "name": "Sci-Fi and Futuristic Setting",
+  "description": "Set in a distant future, Helldivers 2 takes place across hostile planets. The game features advanced technology, alien enemies, and a struggle for freedom.",
+  "active": true,
+  "updated": {
+    "$date": "2024-04-03T16:08:25.665Z"
+  },
+  "created": {
+    "$date": "2024-04-03T16:08:25.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660d7ef9a7947d5f1cd0ecaa"
+  },
+  "format": [
+    "game"
+  ],
+  "name": "Strategic Loadouts and Stratagems",
+  "description": "Players choose their loadouts, including weapons, armor, and stratagems. Stratagems range from turrets and airstrikes to life-saving tools. Tactical decision-making is crucial for mission success.",
+  "active": true,
+  "updated": {
+    "$date": "2024-04-03T16:08:25.672Z"
+  },
+  "created": {
+    "$date": "2024-04-03T16:08:25.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660d7ef9a7947d5f1cd0ecad"
+  },
+  "format": [
+    "game"
+  ],
+  "name": "Galactic War and Planetary Liberation",
+  "description": "The game involves capturing enemy planets, defending against invasions, and completing missions.\nThe overall war effort depends on the actions of all players.\nHelldivers fight together to secure freedom for Super Earth.",
+  "active": true,
+  "updated": {
+    "$date": "2024-04-03T16:08:25.679Z"
+  },
+  "created": {
+    "$date": "2024-04-03T16:08:25.679Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,7359 @@
+[{
+  "_id": {
+    "$oid": "64fdf1d4376d0f27cd1a3842"
+  },
+  "name": "Perseverance",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-10T16:41:56.280Z"
+  },
+  "created": {
+    "$date": "2023-09-10T16:41:56.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fdf1d4376d0f27cd1a3845"
+  },
+  "name": "Heroism",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-10T16:41:56.290Z"
+  },
+  "created": {
+    "$date": "2023-09-10T16:41:56.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fdf1d4376d0f27cd1a3848"
+  },
+  "name": "Forgiveness",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-10T16:41:56.298Z"
+  },
+  "created": {
+    "$date": "2023-09-10T16:41:56.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650cf450376d0f27cd1a46bd"
+  },
+  "name": "Justice",
+  "description": "The prevailing theme throughout the game is that of delivering justice in a world where it is not often given. Through their actions across the game, the main characters take down corrupt leaders in society as retribution for their crimes.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-22T01:56:32.287Z"
+  },
+  "created": {
+    "$date": "2023-09-22T01:56:32.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650cf450376d0f27cd1a46c0"
+  },
+  "name": "Teamwork",
+  "description": "The main cast is made up of social outcasts, each for their own reasons, and they all collectively work together to achieve their goals.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-22T01:56:32.302Z"
+  },
+  "created": {
+    "$date": "2023-09-22T01:56:32.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650cfb80376d0f27cd1a471b"
+  },
+  "name": "Determination",
+  "description": "The game is all about pressing on and seeking to conquer the next unbeatable task to improve and show that anything can be achieved.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-22T02:27:12.915Z"
+  },
+  "created": {
+    "$date": "2023-09-22T02:27:12.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650e4a8c376d0f27cd1a47e1"
+  },
+  "name": "Persistence",
+  "description": "The main theme of the game is about persistence in the face of odds stacked against oneself or others and rising to meet the challenge or potentially falling to it.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-23T02:16:44.748Z"
+  },
+  "created": {
+    "$date": "2023-09-23T02:16:44.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650e4a8c376d0f27cd1a47e4"
+  },
+  "name": "Ambition",
+  "description": "While not inherently a negative theme, ambition can be a double edged sword that can very easily cut the wielder if not controlled.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-23T02:16:44.757Z"
+  },
+  "created": {
+    "$date": "2023-09-23T02:16:44.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65122834376d0f27cd1a48ce"
+  },
+  "name": "Protection",
+  "description": "The hero in this work is seeing to protect their allies, other people, or perhaps even their antagonists (in some rare cases) while putting themselves on the line.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-26T00:39:16.903Z"
+  },
+  "created": {
+    "$date": "2023-09-26T00:39:16.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651235b4376d0f27cd1a4a63"
+  },
+  "name": "Collaboration",
+  "description": "This game has themes of collaboration with other characters and players, working together to win the day.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-26T01:36:52.988Z"
+  },
+  "created": {
+    "$date": "2023-09-26T01:36:52.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512406f376d0f27cd1a4b95"
+  },
+  "name": "Adventure",
+  "description": "The characters in this game are more than willing to go on the journey needed and defeat the villains, venturing around the world and doing what's needed.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-26T02:22:39.808Z"
+  },
+  "created": {
+    "$date": "2023-09-26T02:22:39.808Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516f4fb5a597c994ffe9986"
+  },
+  "name": "Friendship",
+  "description": "The main theme tying this experience together is the friendship and bonds between the characters and those they encounter on their journeys.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-29T16:02:03.198Z"
+  },
+  "created": {
+    "$date": "2023-09-29T16:02:03.198Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516f80c5a597c994ffe9a15"
+  },
+  "name": "Friendly Competition",
+  "description": "The characters within the game may be competing against one another and showing off, but it's all in good fun for the most part.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-29T16:15:08.104Z"
+  },
+  "created": {
+    "$date": "2023-09-29T16:15:08.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6517020d5a597c994ffe9c2c"
+  },
+  "name": "Creation",
+  "description": "The game has some element of building and development, be it literally physical or somewhat metaphorical in its design.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-29T16:57:49.296Z"
+  },
+  "created": {
+    "$date": "2023-09-29T16:57:49.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651709765a597c994ffe9db7"
+  },
+  "name": "Inevitability",
+  "description": "The theme considers the eventual end point of people, places, or ideas. Whether or not it is a good thing can change with time and context.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-29T17:29:26.533Z"
+  },
+  "created": {
+    "$date": "2023-09-29T17:29:26.533Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651719e45a597c994ffea0b6"
+  },
+  "name": "Discovery",
+  "description": "The act of discovery happens all time time, from a new experience gained to something that can impact the understanding of the universe as it is known.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-29T18:39:32.289Z"
+  },
+  "created": {
+    "$date": "2023-09-29T18:39:32.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6522f30c118e0600865b60ad"
+  },
+  "name": "The road less travelled",
+  "active": true,
+  "updated": {
+    "$date": "2023-10-08T18:21:00.596Z"
+  },
+  "created": {
+    "$date": "2023-10-08T18:21:00.596Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6522f30c118e0600865b60b0"
+  },
+  "name": "Lost in the woods",
+  "active": true,
+  "updated": {
+    "$date": "2023-10-08T18:21:00.612Z"
+  },
+  "created": {
+    "$date": "2023-10-08T18:21:00.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6531f85481f56c3e7f3eb259"
+  },
+  "name": "Strength",
+  "description": "No matter what stands in the way, you can remain strong and fight for what we want in life.",
+  "active": true,
+  "updated": {
+    "$date": "2023-10-20T03:47:32.672Z"
+  },
+  "created": {
+    "$date": "2023-10-20T03:47:32.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6531fdd481f56c3e7f3eb6d0"
+  },
+  "name": "Passion",
+  "description": "A powerful feeling",
+  "active": true,
+  "updated": {
+    "$date": "2023-10-20T04:11:00.765Z"
+  },
+  "created": {
+    "$date": "2023-10-20T04:11:00.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aa41"
+  },
+  "name": "Finding peaceful solutions to conflicts",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:40:17.337Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.572Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aae2"
+  },
+  "name": "Kindness",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-11T20:14:55.772Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aad6"
+  },
+  "name": "Accepting differences",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-11T20:14:55.758Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aa3b"
+  },
+  "name": "Being kind to others",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:40:05.693Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aadc"
+  },
+  "name": "Taking care of the environment",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-11T20:14:55.765Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aa47"
+  },
+  "name": "Understanding",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:40:24.757Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aa38"
+  },
+  "name": "Accepting differences",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:40:01.296Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aad9"
+  },
+  "name": "Being kind to others",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-11T20:14:55.762Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.762Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aa3e"
+  },
+  "name": "Taking care of the environment",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:40:13.383Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aae5"
+  },
+  "name": "Understanding",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-11T20:14:55.775Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aa44"
+  },
+  "name": "Kindness",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:40:20.849Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.575Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aadf"
+  },
+  "name": "Finding peaceful solutions to conflicts",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-11T20:14:55.769Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.769Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6550634ba2461fb08784c917"
+  },
+  "name": "Female empowerment",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T05:31:55.528Z"
+  },
+  "created": {
+    "$date": "2023-11-12T05:31:55.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65506d09a2461fb08784ccd8"
+  },
+  "name": "On top of the world",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T06:13:29.480Z"
+  },
+  "created": {
+    "$date": "2023-11-12T06:13:29.480Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e0c3"
+  },
+  "name": "Resourcefulness",
+  "description": "The story emphasizes that cleverness and problem-solving skills are valuable traits, surpassing the superficial qualities often associated with traditional princess characters.",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:40:53.956Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e134"
+  },
+  "name": "Independence",
+  "description": "Rather than conforming to traditional gender roles, Elizabeth relies on her intelligence and resourcefulness to rescue herself and make decisions that prioritize her own happiness and well-being.",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T20:42:14.424Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e137"
+  },
+  "name": "Self-Image",
+  "description": "The narrative challenges conventional notions of beauty and appearance. After her castle is destroyed and her fancy clothes are ruined, Elizabeth dons a simple paper bag. The story sends a message that true worth is not determined by outward appearances and that self-acceptance is more important than adhering to societal expectations.",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T20:42:14.428Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e0b1"
+  },
+  "name": "Empowerment",
+  "description": "Elizabeth relies on her intelligence and resourcefulness to rescue herself and make decisions that prioritize her own happiness and well-being.",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:40:28.946Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e13d"
+  },
+  "name": "Role Reversal",
+  "description": " \"The Paper Bag Princess\" subverts traditional fairy tale tropes, especially the damsel-in-distress scenario. The princess takes on the role of the hero, rescuing the prince, only to realize he is not the ideal partner for her. This challenges stereotypical gender roles and expectations in fairy tales.",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T20:42:14.434Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e146"
+  },
+  "name": "Happily Ever After",
+  "description": "\"Happily ever after\" is redefined in the story. Instead of relying on a prince for her happiness, Elizabeth chooses to live independently and contentedly. This challenges the traditional notion that a princess's ultimate goal is to find a prince and get married.",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T20:42:14.444Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e13a"
+  },
+  "name": "Acceptance",
+  "description": "After her castle is destroyed and her fancy clothes are ruined, Elizabeth dons a simple paper bag. The story sends a message that true worth is not determined by outward appearances and that self-acceptance is more important than adhering to societal expectations.",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T20:42:14.431Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e0bd"
+  },
+  "name": "Role Reversal",
+  "description": " \"The Paper Bag Princess\" subverts traditional fairy tale tropes, especially the damsel-in-distress scenario. The princess takes on the role of the hero, rescuing the prince, only to realize he is not the ideal partner for her. This challenges stereotypical gender roles and expectations in fairy tales.",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:40:46.205Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e131"
+  },
+  "name": "Empowerment",
+  "description": "Elizabeth relies on her intelligence and resourcefulness to rescue herself and make decisions that prioritize her own happiness and well-being.",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T20:42:14.420Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e140"
+  },
+  "name": "Intelligence",
+  "description": "Elizabeth's success in outsmarting the dragon is attributed to her intelligence and resourcefulness. The story emphasizes that cleverness and problem-solving skills are valuable traits, surpassing the superficial qualities often associated with traditional princess characters.",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T20:42:14.438Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.438Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e143"
+  },
+  "name": "Resourcefulness",
+  "description": "The story emphasizes that cleverness and problem-solving skills are valuable traits, surpassing the superficial qualities often associated with traditional princess characters.",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T20:42:14.441Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e0c0"
+  },
+  "name": "Intelligence",
+  "description": "Elizabeth's success in outsmarting the dragon is attributed to her intelligence and resourcefulness. The story emphasizes that cleverness and problem-solving skills are valuable traits, surpassing the superficial qualities often associated with traditional princess characters.",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:40:50.680Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e0ba"
+  },
+  "name": "Acceptance",
+  "description": "After her castle is destroyed and her fancy clothes are ruined, Elizabeth dons a simple paper bag. The story sends a message that true worth is not determined by outward appearances and that self-acceptance is more important than adhering to societal expectations.",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:40:42.080Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.233Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e0b7"
+  },
+  "name": "Self-Image",
+  "description": "The narrative challenges conventional notions of beauty and appearance. After her castle is destroyed and her fancy clothes are ruined, Elizabeth dons a simple paper bag. The story sends a message that true worth is not determined by outward appearances and that self-acceptance is more important than adhering to societal expectations.",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:40:38.214Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e0b4"
+  },
+  "name": "Independence",
+  "description": "Rather than conforming to traditional gender roles, Elizabeth relies on her intelligence and resourcefulness to rescue herself and make decisions that prioritize her own happiness and well-being.",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:40:32.317Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e0c6"
+  },
+  "name": "Happily Ever After",
+  "description": "\"Happily ever after\" is redefined in the story. Instead of relying on a prince for her happiness, Elizabeth chooses to live independently and contentedly. This challenges the traditional notion that a princess's ultimate goal is to find a prince and get married.",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:40:58.993Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65514f5ba2461fb08784e96f"
+  },
+  "name": "Goals",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:41:18.106Z"
+  },
+  "created": {
+    "$date": "2023-11-12T22:19:07.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65514f5ba2461fb08784e975"
+  },
+  "name": "Possibilities ",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:41:09.786Z"
+  },
+  "created": {
+    "$date": "2023-11-12T22:19:07.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65514f5ba2461fb08784e96c"
+  },
+  "name": "Dreams",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T20:49:06.874Z"
+  },
+  "created": {
+    "$date": "2023-11-12T22:19:07.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65514f5ba2461fb08784ea05"
+  },
+  "name": "Dreams",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T22:19:07.554Z"
+  },
+  "created": {
+    "$date": "2023-11-12T22:19:07.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65514f5ba2461fb08784ea08"
+  },
+  "name": "Goals",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T22:19:07.557Z"
+  },
+  "created": {
+    "$date": "2023-11-12T22:19:07.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65514f5ba2461fb08784ea0e"
+  },
+  "name": "Possibilities ",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T22:19:07.565Z"
+  },
+  "created": {
+    "$date": "2023-11-12T22:19:07.565Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65514f5ba2461fb08784e972"
+  },
+  "name": "Journey",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:41:13.488Z"
+  },
+  "created": {
+    "$date": "2023-11-12T22:19:07.343Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65514f5ba2461fb08784ea0b"
+  },
+  "name": "Journey",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T22:19:07.562Z"
+  },
+  "created": {
+    "$date": "2023-11-12T22:19:07.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e940572ed8a4effcb710"
+  },
+  "name": "Competition",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-17T04:17:04.878Z"
+  },
+  "created": {
+    "$date": "2023-11-17T04:17:04.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6558d510572ed8a4effcd9b2"
+  },
+  "name": "Isolation",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-18T15:15:28.988Z"
+  },
+  "created": {
+    "$date": "2023-11-18T15:15:28.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6558d510572ed8a4effcd9ac"
+  },
+  "name": "Talent",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-18T15:15:28.981Z"
+  },
+  "created": {
+    "$date": "2023-11-18T15:15:28.981Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6558d510572ed8a4effcd9af"
+  },
+  "name": "Sensory Experience",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-18T15:15:28.985Z"
+  },
+  "created": {
+    "$date": "2023-11-18T15:15:28.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6558d510572ed8a4effcd9b5"
+  },
+  "name": "Adoration",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-18T15:15:28.992Z"
+  },
+  "created": {
+    "$date": "2023-11-18T15:15:28.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e25e7572ed8a4effdacef"
+  },
+  "name": "Self-doubt",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-22T16:01:43.076Z"
+  },
+  "created": {
+    "$date": "2023-11-22T16:01:43.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e25e7572ed8a4effdacf2"
+  },
+  "name": "Mental health",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-22T16:01:43.094Z"
+  },
+  "created": {
+    "$date": "2023-11-22T16:01:43.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e25e7572ed8a4effdacf5"
+  },
+  "name": "Being unconventional",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-22T16:01:43.100Z"
+  },
+  "created": {
+    "$date": "2023-11-22T16:01:43.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e25e7572ed8a4effdacf8"
+  },
+  "name": "Introspection",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-22T16:01:43.107Z"
+  },
+  "created": {
+    "$date": "2023-11-22T16:01:43.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f8c60572ed8a4effde825"
+  },
+  "name": "test",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-23T17:32:15.630Z"
+  },
+  "created": {
+    "$date": "2023-11-23T17:31:12.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6562043c572ed8a4effe1551"
+  },
+  "name": "Hard working",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-25T14:27:08.952Z"
+  },
+  "created": {
+    "$date": "2023-11-25T14:27:08.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6562043c572ed8a4effe1554"
+  },
+  "name": "Mystery",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-25T14:27:08.962Z"
+  },
+  "created": {
+    "$date": "2023-11-25T14:27:08.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6562043c572ed8a4effe1557"
+  },
+  "name": "Energy",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-25T14:27:08.971Z"
+  },
+  "created": {
+    "$date": "2023-11-25T14:27:08.971Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65620e53572ed8a4effe3139"
+  },
+  "name": "positivity ",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-25T15:10:11.968Z"
+  },
+  "created": {
+    "$date": "2023-11-25T15:10:11.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65620e53572ed8a4effe313c"
+  },
+  "name": "empowerment",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-25T15:10:11.978Z"
+  },
+  "created": {
+    "$date": "2023-11-25T15:10:11.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65620e53572ed8a4effe313f"
+  },
+  "name": "motivation",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-25T15:10:11.985Z"
+  },
+  "created": {
+    "$date": "2023-11-25T15:10:11.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65620e53572ed8a4effe3142"
+  },
+  "name": "overcoming obstacles",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-25T15:10:11.993Z"
+  },
+  "created": {
+    "$date": "2023-11-25T15:10:11.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65620e53572ed8a4effe3145"
+  },
+  "name": "self worth",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-25T15:10:12.000Z"
+  },
+  "created": {
+    "$date": "2023-11-25T15:10:12.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65620e54572ed8a4effe3148"
+  },
+  "name": "enthusiasm",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-25T15:10:12.008Z"
+  },
+  "created": {
+    "$date": "2023-11-25T15:10:12.008Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65620e54572ed8a4effe314b"
+  },
+  "name": "pursuing goals",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-25T15:10:12.015Z"
+  },
+  "created": {
+    "$date": "2023-11-25T15:10:12.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65620e54572ed8a4effe314e"
+  },
+  "name": "confidence",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-25T15:10:12.023Z"
+  },
+  "created": {
+    "$date": "2023-11-25T15:10:12.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65620e54572ed8a4effe3151"
+  },
+  "name": "resilience",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-25T15:10:12.030Z"
+  },
+  "created": {
+    "$date": "2023-11-25T15:10:12.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65620e54572ed8a4effe3154"
+  },
+  "name": "facing challenges",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-25T15:10:12.039Z"
+  },
+  "created": {
+    "$date": "2023-11-25T15:10:12.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6562b340572ed8a4effe4251"
+  },
+  "name": "Togetherness",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-26T02:53:52.873Z"
+  },
+  "created": {
+    "$date": "2023-11-26T02:53:52.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6562b340572ed8a4effe4254"
+  },
+  "name": "Nostalgia",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-26T02:53:52.883Z"
+  },
+  "created": {
+    "$date": "2023-11-26T02:53:52.883Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6562b3a0572ed8a4effe438a"
+  },
+  "name": "Fun",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-26T02:55:28.161Z"
+  },
+  "created": {
+    "$date": "2023-11-26T02:55:28.161Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6562b3a0572ed8a4effe438d"
+  },
+  "name": "Connecting with others",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-26T02:55:28.170Z"
+  },
+  "created": {
+    "$date": "2023-11-26T02:55:28.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6562bcb9572ed8a4effe5359"
+  },
+  "name": "Love",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-26T03:34:17.940Z"
+  },
+  "created": {
+    "$date": "2023-11-26T03:34:17.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6562bcb9572ed8a4effe535c"
+  },
+  "name": "Pushing Back",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-26T03:34:17.950Z"
+  },
+  "created": {
+    "$date": "2023-11-26T03:34:17.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6562bcb9572ed8a4effe535f"
+  },
+  "name": "Protecting yourself",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-26T03:34:17.957Z"
+  },
+  "created": {
+    "$date": "2023-11-26T03:34:17.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6562bcb9572ed8a4effe5362"
+  },
+  "name": "Ignoring others",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-26T03:34:17.964Z"
+  },
+  "created": {
+    "$date": "2023-11-26T03:34:17.964Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564127c572ed8a4effe6dbe"
+  },
+  "name": "Consequences",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-27T03:52:28.566Z"
+  },
+  "created": {
+    "$date": "2023-11-27T03:52:28.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564127c572ed8a4effe6dc1"
+  },
+  "name": "Rational thinking",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-27T03:52:28.581Z"
+  },
+  "created": {
+    "$date": "2023-11-27T03:52:28.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656413f7572ed8a4effe71ba"
+  },
+  "name": "Caution",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-27T03:58:47.442Z"
+  },
+  "created": {
+    "$date": "2023-11-27T03:58:47.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656413f7572ed8a4effe71bd"
+  },
+  "name": "Fear",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-27T03:58:47.458Z"
+  },
+  "created": {
+    "$date": "2023-11-27T03:58:47.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656413f7572ed8a4effe71c0"
+  },
+  "name": "Adversity",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-27T03:58:47.465Z"
+  },
+  "created": {
+    "$date": "2023-11-27T03:58:47.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65642113572ed8a4effe9833"
+  },
+  "name": "Having a good time",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-27T04:54:43.489Z"
+  },
+  "created": {
+    "$date": "2023-11-27T04:54:43.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65642113572ed8a4effe9836"
+  },
+  "name": "Enjoying life",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-27T04:54:43.502Z"
+  },
+  "created": {
+    "$date": "2023-11-27T04:54:43.502Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65642113572ed8a4effe9839"
+  },
+  "name": "Personal Style",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-06T05:11:39.098Z"
+  },
+  "created": {
+    "$date": "2023-11-27T04:54:43.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566c9a3572ed8a4ef0258ce"
+  },
+  "name": "Flirtation",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-29T05:18:27.209Z"
+  },
+  "created": {
+    "$date": "2023-11-29T05:18:27.209Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566c9a3572ed8a4ef0258d1"
+  },
+  "name": "Seduction",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-12T04:19:42.931Z"
+  },
+  "created": {
+    "$date": "2023-11-29T05:18:27.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566c9a3572ed8a4ef0258d4"
+  },
+  "name": "Playful",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-29T05:18:27.231Z"
+  },
+  "created": {
+    "$date": "2023-11-29T05:18:27.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566c9a3572ed8a4ef0258d7"
+  },
+  "name": "Consent",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-29T05:18:27.238Z"
+  },
+  "created": {
+    "$date": "2023-11-29T05:18:27.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566cd8c572ed8a4ef025f50"
+  },
+  "name": "Unrequited Love",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-29T05:35:08.442Z"
+  },
+  "created": {
+    "$date": "2023-11-29T05:35:08.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566cd8c572ed8a4ef025f53"
+  },
+  "name": "Longing",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-29T05:35:08.451Z"
+  },
+  "created": {
+    "$date": "2023-11-29T05:35:08.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566d01a572ed8a4ef0261bd"
+  },
+  "name": "Sacrifice",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-29T05:46:02.199Z"
+  },
+  "created": {
+    "$date": "2023-11-29T05:46:02.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566d01a572ed8a4ef0261c0"
+  },
+  "name": "Vulnerability",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-29T05:46:02.211Z"
+  },
+  "created": {
+    "$date": "2023-11-29T05:46:02.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656e05083ab67d9e5f161c29"
+  },
+  "name": "Exploration",
+  "description": "Seeking out the world in the distance and venturing forth brings a feeling of discovery.",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-04T16:57:44.288Z"
+  },
+  "created": {
+    "$date": "2023-12-04T16:57:44.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fe1143ab67d9e5f163ee9"
+  },
+  "name": "Self-acceptance",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T02:48:52.783Z"
+  },
+  "created": {
+    "$date": "2023-12-06T02:48:52.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fe1143ab67d9e5f163eec"
+  },
+  "name": "Self-motivation",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T02:48:52.799Z"
+  },
+  "created": {
+    "$date": "2023-12-06T02:48:52.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fe1143ab67d9e5f163eef"
+  },
+  "name": "Trust",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T02:48:52.805Z"
+  },
+  "created": {
+    "$date": "2023-12-06T02:48:52.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a7606447ae6cc656f29c"
+  },
+  "name": "Crime",
+  "description": "Illegal activities",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-24T03:37:04.182Z"
+  },
+  "created": {
+    "$date": "2023-12-24T03:37:04.182Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a7606447ae6cc656f29f"
+  },
+  "name": "Murder",
+  "description": "The crime of unlawfully and unjustifiably killing another under circumstances defined by statute. ",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-24T03:37:04.197Z"
+  },
+  "created": {
+    "$date": "2023-12-24T03:37:04.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a7606447ae6cc656f2a2"
+  },
+  "name": "Charisma",
+  "description": "Compelling attractiveness, appeal or charm that can inspire devotion in others.",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-24T03:37:04.204Z"
+  },
+  "created": {
+    "$date": "2023-12-24T03:37:04.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a7606447ae6cc656f2a5"
+  },
+  "name": " Deception",
+  "description": "The act of causing someone to accept as true or valid what is false or invalid; the act of deceiving",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-24T03:37:04.210Z"
+  },
+  "created": {
+    "$date": "2023-12-24T03:37:04.210Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a9f96447ae6cc656faa7"
+  },
+  "name": "Violence",
+  "description": "The use of physical force so as to injure, abuse, damage, or destroy",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-24T03:48:09.110Z"
+  },
+  "created": {
+    "$date": "2023-12-24T03:48:09.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658e505b6447ae6cc657b6c8"
+  },
+  "name": "Relationships",
+  "description": "A romantic or passionate attachment to another person. ",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-29T06:05:42.866Z"
+  },
+  "created": {
+    "$date": "2023-12-29T04:51:39.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658e505b6447ae6cc657b6cb"
+  },
+  "name": "Personal Life",
+  "description": "The part of an individual's life regarded as private and separate from his or her persona.",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-29T04:51:39.168Z"
+  },
+  "created": {
+    "$date": "2023-12-29T04:51:39.168Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658e505b6447ae6cc657b6ce"
+  },
+  "name": "Facing challenges",
+  "description": "To have to deal with something that needs great mental or physical effort in order to be done successfully and therefore tests a person's ability.",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-29T04:51:39.175Z"
+  },
+  "created": {
+    "$date": "2023-12-29T04:51:39.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658e59756447ae6cc657ed78"
+  },
+  "name": "Self-Awareness",
+  "description": "Self-awareness is your ability to perceive and understand the things that make you who you are as an individual, including your personality, actions, values, beliefs, emotions, and thoughts. Essentially, it is a psychological state in which the self becomes the focus of attention.",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-29T05:30:29.792Z"
+  },
+  "created": {
+    "$date": "2023-12-29T05:30:29.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6590d4e96447ae6cc6586d69"
+  },
+  "name": "War",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T02:41:45.910Z"
+  },
+  "created": {
+    "$date": "2023-12-31T02:41:45.910Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6590f9736447ae6cc658be0c"
+  },
+  "name": "Physical Attraction",
+  "description": "Physical attractiveness is the degree to which a person's physical features are considered aesthetically pleasing or beautiful.",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T05:17:39.517Z"
+  },
+  "created": {
+    "$date": "2023-12-31T05:17:39.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6590f9736447ae6cc658be0f"
+  },
+  "name": "Romantic Desire",
+  "description": "Romantic desire is just the desire to be in a romantic relationship in general. ",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T05:17:39.541Z"
+  },
+  "created": {
+    "$date": "2023-12-31T05:17:39.541Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6590f9736447ae6cc658be12"
+  },
+  "name": "Romantic Attraction",
+  "description": "Romantic attraction is an emotional response of one person toward another, which can be described as a yearning to admire and join with them.",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T05:17:39.551Z"
+  },
+  "created": {
+    "$date": "2023-12-31T05:17:39.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6590f9736447ae6cc658be15"
+  },
+  "name": "Spontaneity",
+  "description": " The quality of being natural rather than planned in advance.",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T05:17:39.558Z"
+  },
+  "created": {
+    "$date": "2023-12-31T05:17:39.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6590f9736447ae6cc658be18"
+  },
+  "name": "Excitement",
+  "description": "A feeling of great enthusiasm and eagerness.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-06T05:13:05.158Z"
+  },
+  "created": {
+    "$date": "2023-12-31T05:17:39.565Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659183396447ae6cc6593757"
+  },
+  "name": "New Relationship",
+  "description": "A \"new relationship\" refers to the early stage of a romantic connection between two individuals. During this phase, the individuals are getting to know each other, establishing a bond, and exploring the potential for a deeper and more committed partnership.",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T15:05:29.449Z"
+  },
+  "created": {
+    "$date": "2023-12-31T15:05:29.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659221906447ae6cc6595a9c"
+  },
+  "name": "Intensity",
+  "description": "The quality of being very serious and having strong emotions or opinions",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-01T02:21:04.935Z"
+  },
+  "created": {
+    "$date": "2024-01-01T02:21:04.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659221906447ae6cc6595a9f"
+  },
+  "name": "Sensuality",
+  "description": "The condition of being pleasing or fulfilling to the senses.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-01T02:21:04.944Z"
+  },
+  "created": {
+    "$date": "2024-01-01T02:21:04.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659221906447ae6cc6595aa2"
+  },
+  "name": "Allure",
+  "description": "The quality of being powerfully and mysteriously attractive or fascinating.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-01T02:21:04.951Z"
+  },
+  "created": {
+    "$date": "2024-01-01T02:21:04.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659221906447ae6cc6595aa5"
+  },
+  "name": "Irresistible",
+  "description": "Impossible to resist.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-01T02:21:04.959Z"
+  },
+  "created": {
+    "$date": "2024-01-01T02:21:04.959Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659236c86447ae6cc659b814"
+  },
+  "name": "Break up",
+  "description": "To end or cause something to end, esp. a personal or business relationship.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-01T03:51:36.902Z"
+  },
+  "created": {
+    "$date": "2024-01-01T03:51:36.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659236c86447ae6cc659b817"
+  },
+  "name": "Regret",
+  "description": "A feeling of sadness, repentance, or disappointment over something that has happened or been done.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-01T03:51:36.918Z"
+  },
+  "created": {
+    "$date": "2024-01-01T03:51:36.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659236c86447ae6cc659b81a"
+  },
+  "name": "Longing for Reconciliation",
+  "description": "A yearning desire is to restore to friendship or harmony.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-01T03:51:36.924Z"
+  },
+  "created": {
+    "$date": "2024-01-01T03:51:36.924Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659237db6447ae6cc659c181"
+  },
+  "name": " Emotional vulnerability",
+  "description": "Being emotionally vulnerable involves the process of acknowledging your emotions, especially those that are uncomfortable or painful. It is less about acknowledging hedonically pleasant emotions, such as love and joy, and more about unpleasant emotions, such as anger, shame, anxiety, loneliness, and others.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-01T03:56:11.126Z"
+  },
+  "created": {
+    "$date": "2024-01-01T03:56:11.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659237db6447ae6cc659c184"
+  },
+  "name": "Heartbreak",
+  "description": "Heartbreak is very great sadness and emotional suffering, especially after the end of a love affair or close relationship.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-01T03:56:11.141Z"
+  },
+  "created": {
+    "$date": "2024-01-01T03:56:11.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659238486447ae6cc659c4f2"
+  },
+  "name": "Lost Love",
+  "description": "\"Lost love\" refers to losing a relationship in which you were in love with the other person. It can sometimes refer to a relationship that ended without warning or an unrequited love.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-01T03:58:00.287Z"
+  },
+  "created": {
+    "$date": "2024-01-01T03:58:00.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6594c8646447ae6cc65a2697"
+  },
+  "name": "Enduring love",
+  "description": "Enduring love traditionally means love that lasts over time just as strongly as the day it began, through the tough times and the good times. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-03T02:37:24.581Z"
+  },
+  "created": {
+    "$date": "2024-01-03T02:37:24.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6594c8646447ae6cc65a269a"
+  },
+  "name": "Emotional connection",
+  "description": "An emotional connection is a special bond that we have with those we know or admire. It's more than talking about surface level topics, like the weather or what you had for lunch. An emotional connection is about sharing feelings, being vulnerable, seeking to understand each other, and meeting one another with trust. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-03T02:37:24.591Z"
+  },
+  "created": {
+    "$date": "2024-01-03T02:37:24.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6598d2aa6447ae6cc65ad8f8"
+  },
+  "name": "Partying",
+  "description": "The activity of enjoying yourself, especially at a party, by drinking alcohol and dancing",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-06T04:10:18.834Z"
+  },
+  "created": {
+    "$date": "2024-01-06T04:10:18.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6598d2aa6447ae6cc65ad8fb"
+  },
+  "name": "Joy",
+  "description": "A feeling of great pleasure and happiness",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-06T04:10:18.856Z"
+  },
+  "created": {
+    "$date": "2024-01-06T04:10:18.856Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6598d2aa6447ae6cc65ad8fe"
+  },
+  "name": "Travel",
+  "description": "Go from one place to another, typically over a distance of some length.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-06T04:10:18.863Z"
+  },
+  "created": {
+    "$date": "2024-01-06T04:10:18.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6598d2aa6447ae6cc65ad901"
+  },
+  "name": "Energetic Vibes",
+  "description": "A carefree and lighthearted attitude, encouraging others to let loose and have a good time without worries.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-06T04:10:18.884Z"
+  },
+  "created": {
+    "$date": "2024-01-06T04:10:18.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6598e0bf6447ae6cc65b138d"
+  },
+  "name": "Dancing",
+  "description": "The activity of dancing for pleasure or in order to entertain others.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-06T05:10:23.567Z"
+  },
+  "created": {
+    "$date": "2024-01-06T05:10:23.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6599637c6447ae6cc65b43b2"
+  },
+  "name": "Romance",
+  "description": "A feeling of excitement and mystery associated with love.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-06T14:28:12.899Z"
+  },
+  "created": {
+    "$date": "2024-01-06T14:28:12.899Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6599637c6447ae6cc65b43b5"
+  },
+  "name": "Material possessions",
+  "description": "Anything that you possess becomes your property and it is known as a “material” possession.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-06T14:28:12.908Z"
+  },
+  "created": {
+    "$date": "2024-01-06T14:28:12.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6599637c6447ae6cc65b43b8"
+  },
+  "name": "Devotion",
+  "description": "Love, loyalty, or enthusiasm for a person, activity, or cause.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-06T14:28:12.915Z"
+  },
+  "created": {
+    "$date": "2024-01-06T14:28:12.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6599637c6447ae6cc65b43bb"
+  },
+  "name": "Intimacy ",
+  "description": "The concept of intimacy involves a mutually consensual relationship where two individuals reciprocate intimate moments and feelings of trust, emotional and physical closeness towards each other.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-06T14:28:12.922Z"
+  },
+  "created": {
+    "$date": "2024-01-06T14:28:12.922Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659ac0856447ae6cc65b99bd"
+  },
+  "name": "snow",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-07T15:17:25.964Z"
+  },
+  "created": {
+    "$date": "2024-01-07T15:17:25.964Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659ac3066447ae6cc65ba00b"
+  },
+  "name": "Friends",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-07T15:28:06.535Z"
+  },
+  "created": {
+    "$date": "2024-01-07T15:28:06.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659ac57a6447ae6cc65ba0d5"
+  },
+  "name": "farm",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-07T15:38:34.832Z"
+  },
+  "created": {
+    "$date": "2024-01-07T15:38:34.832Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659ac57a6447ae6cc65ba0d8"
+  },
+  "name": "farm animals",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-07T15:38:34.856Z"
+  },
+  "created": {
+    "$date": "2024-01-07T15:38:34.856Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659b6aa96447ae6cc65bdce6"
+  },
+  "name": "Self-Discovery",
+  "description": "The process of acquiring insight into one's own character. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-08T03:23:21.207Z"
+  },
+  "created": {
+    "$date": "2024-01-08T03:23:21.207Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659b6aa96447ae6cc65bdce9"
+  },
+  "name": "Connection",
+  "description": "A relationship in which a person, thing, or idea is linked or associated with something else.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-08T03:23:21.227Z"
+  },
+  "created": {
+    "$date": "2024-01-08T03:23:21.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659b6aa96447ae6cc65bdcec"
+  },
+  "name": "Self-reflection",
+  "description": "Meditation or serious thought about one's character, actions, and motives.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-08T03:23:21.234Z"
+  },
+  "created": {
+    "$date": "2024-01-08T03:23:21.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659b6aa96447ae6cc65bdcef"
+  },
+  "name": "Personal growth",
+  "description": "Personal growth is the improvement of our skills, knowledge, wisdom, habits, behavior, and personal qualities. Personal development allows you to reach your full potential, be your best self, and live your happiest, most successful life.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-08T03:23:21.241Z"
+  },
+  "created": {
+    "$date": "2024-01-08T03:23:21.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659bf3a06447ae6cc65cbbdc"
+  },
+  "name": "Assurance",
+  "description": "A positive declaration intended to give confidence, or in other words: a promise",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-08T13:07:44.763Z"
+  },
+  "created": {
+    "$date": "2024-01-08T13:07:44.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659bf77e6447ae6cc65cc8de"
+  },
+  "name": "Faith",
+  "description": "Complete trust or confidence in someone or something.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-08T13:24:14.470Z"
+  },
+  "created": {
+    "$date": "2024-01-08T13:24:14.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659bf77e6447ae6cc65cc8e1"
+  },
+  "name": "Risk taking",
+  "description": " The act or fact of doing something that involves danger or risk in order to achieve a goal.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-08T13:24:14.502Z"
+  },
+  "created": {
+    "$date": "2024-01-08T13:24:14.502Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659c03596447ae6cc65cf7af"
+  },
+  "name": "Rocky relationship",
+  "description": "Rocky relationship means a strained relationship, or a relationship that is not going well.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-08T14:14:49.643Z"
+  },
+  "created": {
+    "$date": "2024-01-08T14:14:49.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a1f389557aed6fa8cbdf7e"
+  },
+  "name": "Intense Love",
+  "description": "\nIntense love refers to a deep and passionate form of affection or attachment toward someone or something. It often involves strong emotions, a heightened sense of connection, and a profound level of commitment. Intense love can manifest in various relationships, including romantic, familial, or friendships.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T02:20:57.444Z"
+  },
+  "created": {
+    "$date": "2024-01-13T02:20:57.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a1f389557aed6fa8cbdf81"
+  },
+  "name": "Unconditional love",
+  "description": "Unconditional love is a type of affection and care that is not contingent upon the actions, qualities, or behaviors of the recipient. It is a profound and unwavering form of love that is unconditional, meaning it is not dependent on meeting certain conditions or expectations. In other words, unconditional love is constant and remains steadfast regardless of external circumstances or the imperfections of the person receiving the love.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T02:20:57.462Z"
+  },
+  "created": {
+    "$date": "2024-01-13T02:20:57.462Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a1f389557aed6fa8cbdf84"
+  },
+  "name": "Happiness",
+  "description": "A state of well-being and contentment, a pleasurable or satisfying experience, or a striking expression of joy. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T02:20:57.470Z"
+  },
+  "created": {
+    "$date": "2024-01-13T02:20:57.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a1f389557aed6fa8cbdf87"
+  },
+  "name": "Appreciation ",
+  "description": "Recognition and enjoyment of the good qualities of someone or something. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T02:20:57.477Z"
+  },
+  "created": {
+    "$date": "2024-01-13T02:20:57.477Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2cb6e557aed6fa8cc1c32"
+  },
+  "name": "Unpredictable nature of reality",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T17:42:06.220Z"
+  },
+  "created": {
+    "$date": "2024-01-13T17:42:06.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2d8e4557aed6fa8cc3b3e"
+  },
+  "name": "Identity",
+  "description": "Alice undergoes frequent changes in size and shape, prompting her to question her identity.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T18:39:32.982Z"
+  },
+  "created": {
+    "$date": "2024-01-13T18:39:32.982Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2d8e4557aed6fa8cc3b41"
+  },
+  "name": "Self discovery",
+  "description": "The story delves into the concept of self-discovery and the fluidity of one's sense of self.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T18:39:32.998Z"
+  },
+  "created": {
+    "$date": "2024-01-13T18:39:32.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2d8e5557aed6fa8cc3b44"
+  },
+  "name": "Nonsense and Absurdity",
+  "description": "Wonderland is a realm where logic is often turned upside down. The nonsensical events and dialogue emphasize the arbitrary and irrational nature of the world, challenging traditional notions of order and reason.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T18:39:33.006Z"
+  },
+  "created": {
+    "$date": "2024-01-13T18:39:33.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2d8e5557aed6fa8cc3b47"
+  },
+  "name": "Curiosity and Exploration",
+  "description": "Alice's journey begins with her curiosity, leading her to follow the White Rabbit and venture into Wonderland. The theme of curiosity and the desire for exploration drive the narrative.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T18:39:33.014Z"
+  },
+  "created": {
+    "$date": "2024-01-13T18:39:33.014Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2d8e5557aed6fa8cc3b4a"
+  },
+  "name": "Social Satire",
+  "description": "Lewis Carroll satirizes various aspects of Victorian society through the eccentric characters and situations in Wonderland. The Queen of Hearts, for example, represents arbitrary authority, and the Mad Hatter reflects societal perceptions of madness.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T18:39:33.021Z"
+  },
+  "created": {
+    "$date": "2024-01-13T18:39:33.021Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2d8e5557aed6fa8cc3b4d"
+  },
+  "name": "Wordplay and Language",
+  "description": "The novel is rich in wordplay, puns, and linguistic creativity. Carroll plays with language, challenging conventional meanings and structures. This linguistic play adds an additional layer of complexity to the narrative.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T18:39:33.028Z"
+  },
+  "created": {
+    "$date": "2024-01-13T18:39:33.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2d8e5557aed6fa8cc3b50"
+  },
+  "name": "Dream vs. Reality",
+  "description": "The line between dream and reality is blurred in Wonderland. The story raises questions about the nature of reality and the significance of dreams, inviting readers to question the boundaries between imagination and the waking world.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T18:39:33.035Z"
+  },
+  "created": {
+    "$date": "2024-01-13T18:39:33.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2d8e5557aed6fa8cc3b53"
+  },
+  "name": "Absence of Rules",
+  "description": "Wonderland lacks a consistent set of rules, leading to a sense of chaos and unpredictability. This absence of rules allows for a world where anything can happen, contributing to the surreal and unpredictable atmosphere.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T18:39:33.043Z"
+  },
+  "created": {
+    "$date": "2024-01-13T18:39:33.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2d8e5557aed6fa8cc3b56"
+  },
+  "name": "Justice and Injustice",
+  "description": "The arbitrary and often unjust decisions made by characters like the Queen of Hearts highlight themes of justice and injustice. The playing card characters are subject to unfair and severe punishments, reflecting societal concerns about authority and fairness.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T18:39:33.050Z"
+  },
+  "created": {
+    "$date": "2024-01-13T18:39:33.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2d8e5557aed6fa8cc3b59"
+  },
+  "name": "Madness and Sanity",
+  "description": "The characters in Wonderland often exhibit eccentric and mad behavior. The Mad Hatter, the March Hare, and the Cheshire Cat are examples of characters that challenge conventional notions of sanity.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T18:39:33.057Z"
+  },
+  "created": {
+    "$date": "2024-01-13T18:39:33.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2da21557aed6fa8cc534b"
+  },
+  "name": "Duality of Human Nature",
+  "description": "The central theme revolves around the duality within an individual—the coexistence of good and evil. Dr. Jekyll and Mr. Hyde represent the polar opposites of this dual nature, illustrating the internal struggle between morality and the darker aspects of the human psyche.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T18:44:49.005Z"
+  },
+  "created": {
+    "$date": "2024-01-13T18:44:49.005Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2da21557aed6fa8cc534e"
+  },
+  "name": "Scientific Exploration and Ethics",
+  "description": "Dr. Jekyll's experiments with chemical substances to separate his dual nature highlight the theme of scientific exploration and the ethical implications of tampering with human nature. The narrative raises questions about the responsibility and consequences of scientific pursuits.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T18:44:49.020Z"
+  },
+  "created": {
+    "$date": "2024-01-13T18:44:49.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2da21557aed6fa8cc5351"
+  },
+  "name": "Social Hypocrisy",
+  "description": "The novella critiques the hypocrisy prevalent in Victorian society. While Dr. Jekyll is a respected member of society, Mr. Hyde engages in immoral and criminal activities without consequence. The story exposes the societal tendency to overlook wrongdoing when committed by someone of high social standing.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T18:44:49.028Z"
+  },
+  "created": {
+    "$date": "2024-01-13T18:44:49.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2da21557aed6fa8cc5354"
+  },
+  "name": "Addiction and Obsession",
+  "description": "Dr. Jekyll's initial desire to explore his dual nature transforms into an addictive obsession with his alter ego, Mr. Hyde. The theme of addiction is explored as Jekyll struggles to control and resist the pull of his darker side.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T18:44:49.034Z"
+  },
+  "created": {
+    "$date": "2024-01-13T18:44:49.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2da21557aed6fa8cc5357"
+  },
+  "name": "Repression and Unleashed Desires",
+  "description": "The story suggests that the repression of desires and impulses can have dangerous consequences. By separating his good and evil sides, Jekyll attempts to control his darker impulses, but the unrestrained release of these desires through Hyde leads to chaos.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T18:44:49.042Z"
+  },
+  "created": {
+    "$date": "2024-01-13T18:44:49.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2da21557aed6fa8cc535a"
+  },
+  "name": "Fear of the Unknown",
+  "description": "The mysterious and malevolent nature of Mr. Hyde evokes fear and unease. The fear of the unknown and the unpredictability of Hyde contribute to the suspenseful atmosphere of the novella.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T18:44:49.049Z"
+  },
+  "created": {
+    "$date": "2024-01-13T18:44:49.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2da21557aed6fa8cc535d"
+  },
+  "name": "Moral Consequences:",
+  "description": "Jekyll's experiments have severe moral consequences, emphasizing the idea that actions have repercussions. The story explores the moral responsibility individuals bear for their choices and the impact of those choices on themselves and others.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T18:44:49.058Z"
+  },
+  "created": {
+    "$date": "2024-01-13T18:44:49.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2da21557aed6fa8cc5360"
+  },
+  "name": "Identity and Selfhood",
+  "description": "Dr. Jekyll's struggle with identity is a key theme. The transformation into Hyde challenges traditional notions of selfhood, prompting reflections on the stability and consistency of one's identity.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T18:44:49.072Z"
+  },
+  "created": {
+    "$date": "2024-01-13T18:44:49.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2ffd1557aed6fa8cc99ce"
+  },
+  "name": "Communication",
+  "description": "The story emphasizes the importance of effective communication as the cows use the typewriter to express their needs and desires to Farmer Brown. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T21:25:37.747Z"
+  },
+  "created": {
+    "$date": "2024-01-13T21:25:37.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2ffd1557aed6fa8cc99d1"
+  },
+  "name": "Negotiation",
+  "description": "The cows engage in a form of negotiation with Farmer Brown, presenting their demands and seeking a resolution. This theme teaches children about the concept of negotiation and finding compromise in conflicts.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T21:25:37.753Z"
+  },
+  "created": {
+    "$date": "2024-01-13T21:25:37.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2ffd1557aed6fa8cc99d4"
+  },
+  "name": "Collective Action",
+  "description": "The cows work together to achieve their goals, demonstrating the power of collective action. This  demonstrates the idea that individuals can make a stronger impact when they come together for a common purpose.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T21:25:37.757Z"
+  },
+  "created": {
+    "$date": "2024-01-13T21:25:37.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2ffd1557aed6fa8cc99d7"
+  },
+  "name": "Social Justice",
+  "description": "While in a playful and light-hearted manner, the book touches on the concept of social justice. The cows advocate for better living conditions, and their strike illustrates the idea of standing up for one's rights.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T21:25:37.761Z"
+  },
+  "created": {
+    "$date": "2024-01-13T21:25:37.761Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2ffd1557aed6fa8cc99da"
+  },
+  "name": "Creativity",
+  "description": "The story highlights the creative and unexpected ways in which the animals express themselves, using a typewriter to communicate. This theme encourages children to think outside the box and find creative solutions to problems",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T21:25:37.765Z"
+  },
+  "created": {
+    "$date": "2024-01-13T21:25:37.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a44c6b557aed6fa8cccd24"
+  },
+  "name": "Bedtime Routine",
+  "description": "The primary theme is the bedtime routine itself. The book provides a rhythmic and predictable structure as the rabbit systematically says goodnight to different elements in its room, creating a soothing and familiar ritual for young readers.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-14T21:04:43.978Z"
+  },
+  "created": {
+    "$date": "2024-01-14T21:04:43.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a44c6b557aed6fa8cccd27"
+  },
+  "name": "Transition to Sleep",
+  "description": "The act of saying goodnight to each item serves as a transition from wakefulness to sleep. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-14T21:04:43.990Z"
+  },
+  "created": {
+    "$date": "2024-01-14T21:04:43.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a44c6b557aed6fa8cccd2a"
+  },
+  "name": "Comfort and Familiarity",
+  "description": "The setting of the room and the objects within it are designed to be familiar and comforting to young readers. The book aims to create a sense of security and coziness as children prepare to go to sleep.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-14T21:04:43.997Z"
+  },
+  "created": {
+    "$date": "2024-01-14T21:04:43.997Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a4b144557aed6fa8ccf285"
+  },
+  "name": "Unrequited love",
+  "description": "Unrequited love is having strong romantic feelings for someone who does not feel the same way. It can be one-sided, painful, and isolating. Learn the signs of unrequited love, the possible reasons for it, and how to cope with the heartbreak.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T04:15:00.597Z"
+  },
+  "created": {
+    "$date": "2024-01-15T04:15:00.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a4b144557aed6fa8ccf288"
+  },
+  "name": "Betrayl",
+  "description": "The act of betraying someone or something or the fact of being betrayed : violation of a person's trust or confidence, of a moral standard, etc.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T04:15:00.616Z"
+  },
+  "created": {
+    "$date": "2024-01-15T04:15:00.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a4b144557aed6fa8ccf28b"
+  },
+  "name": "Sacrifice in Love",
+  "description": "Putting a partner's needs and well-being ahead of your own and making compromises for the sake of the relationship can be great examples of sacrifice",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T04:15:00.624Z"
+  },
+  "created": {
+    "$date": "2024-01-15T04:15:00.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a4b144557aed6fa8ccf28e"
+  },
+  "name": "Reflection",
+  "description": "Serious thought or consideration",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T04:15:00.631Z"
+  },
+  "created": {
+    "$date": "2024-01-15T04:15:00.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a542ab557aed6fa8cdb632"
+  },
+  "name": "Change",
+  "description": "To make (someone or something) different; alter or modify. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T14:35:23.284Z"
+  },
+  "created": {
+    "$date": "2024-01-15T14:35:23.284Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a542ab557aed6fa8cdb635"
+  },
+  "name": "Existential Reflection",
+  "description": "Existential reflections are related to the concepts of responsibility and freedom, and finding meaning in the face of anxiety by choosing to think and act responsibly and by confronting negative internal thoughts rather than focusing on external forces like societal pressures or luck. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T14:35:23.349Z"
+  },
+  "created": {
+    "$date": "2024-01-15T14:35:23.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a542ab557aed6fa8cdb638"
+  },
+  "name": "Uncertainty",
+  "description": "Uncertainty refers to epistemic situations involving imperfect or unknown information. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T14:35:23.422Z"
+  },
+  "created": {
+    "$date": "2024-01-15T14:35:23.422Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a550c2557aed6fa8cdd25e"
+  },
+  "name": "Seeking freedom",
+  "description": "Power or right to act, speak, or think as one wants without hindrance or restraint:",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T15:35:30.684Z"
+  },
+  "created": {
+    "$date": "2024-01-15T15:35:30.684Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a550c2557aed6fa8cdd261"
+  },
+  "name": "Social change",
+  "description": "Social change is the alteration of the social order of a society which may include changes in social institutions, social behaviors or social relations.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T15:35:30.694Z"
+  },
+  "created": {
+    "$date": "2024-01-15T15:35:30.694Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a568b7557aed6fa8ce75c5"
+  },
+  "name": "curiosity",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T17:17:43.437Z"
+  },
+  "created": {
+    "$date": "2024-01-15T17:17:43.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a57226557aed6fa8ceb0a2"
+  },
+  "name": "Inspiration",
+  "description": "The process of being mentally stimulated to do or feel something, especially to do something creative.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T17:57:58.597Z"
+  },
+  "created": {
+    "$date": "2024-01-15T17:57:58.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a57226557aed6fa8ceb0a5"
+  },
+  "name": "Hope",
+  "description": "Hope is an optimistic state of mind that is based on an expectation of positive outcomes with respect to events and circumstances in one's life or the world at large. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T17:57:58.634Z"
+  },
+  "created": {
+    "$date": "2024-01-15T17:57:58.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a59bb6557aed6fa8d1028c"
+  },
+  "name": "Ambition and Hubris",
+  "description": "Victor Frankenstein's relentless pursuit of scientific knowledge and the creation of life ultimately leads to tragic consequences. His unchecked ambition and overreaching desire to play God result in the destruction of his own life and the lives of those around him.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T20:55:18.898Z"
+  },
+  "created": {
+    "$date": "2024-01-15T20:55:18.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a59bb6557aed6fa8d1028f"
+  },
+  "name": "Isolation and Alienation",
+  "description": "The creature, abandoned by his creator and shunned by society due to his appearance, experiences profound loneliness and isolation. The novel highlights the impact of societal rejection and explores how isolation can lead to despair and violence.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T20:55:18.918Z"
+  },
+  "created": {
+    "$date": "2024-01-15T20:55:18.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a59bb6557aed6fa8d10292"
+  },
+  "name": "Responsibility and Accountability",
+  "description": "Victor Frankenstein creates the creature but fails to take responsibility for his actions. The novel raises questions about the moral obligations that come with scientific discovery and creation. Victor's lack of accountability contributes to the tragic events in the story.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T20:55:18.925Z"
+  },
+  "created": {
+    "$date": "2024-01-15T20:55:18.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a59bb6557aed6fa8d10295"
+  },
+  "name": "Prejudice and Appearance: ",
+  "description": "The novel delves into the theme of prejudice based on appearance. The creature is judged and rejected solely because of his monstrous appearance. This theme prompts readers to reflect on the nature of prejudice and its destructive consequences.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T20:55:18.932Z"
+  },
+  "created": {
+    "$date": "2024-01-15T20:55:18.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a59bb6557aed6fa8d10298"
+  },
+  "name": "Nature vs. Nurture: ",
+  "description": "The novel explores the age-old debate about whether individuals are shaped more by their inherent nature or their upbringing and environment. The creature's actions and development raise questions about the impact of external influences on one's character.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T20:55:18.939Z"
+  },
+  "created": {
+    "$date": "2024-01-15T20:55:18.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a59bb6557aed6fa8d1029b"
+  },
+  "name": "Knowledge and Discovery",
+  "description": "\"Frankenstein\" raises ethical questions about the pursuit of knowledge and scientific discovery. It explores the potential dangers of unchecked scientific experimentation and the ethical boundaries that scientists should consider.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T20:55:18.946Z"
+  },
+  "created": {
+    "$date": "2024-01-15T20:55:18.946Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a59bb6557aed6fa8d1029e"
+  },
+  "name": "The Sublime and Gothic Elements",
+  "description": "The novel incorporates elements of the Gothic genre, including eerie settings, emotional intensity, and supernatural elements. It explores the sublime and the fear associated with the unknown.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T20:55:18.953Z"
+  },
+  "created": {
+    "$date": "2024-01-15T20:55:18.953Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a59bb6557aed6fa8d102a1"
+  },
+  "name": "Tragedy and Consequences",
+  "description": "The novel unfolds as a tragic narrative with dire consequences for its characters. It serves as a cautionary tale about the potential repercussions of tampering with the natural order and the limits of human capabilities.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T20:55:18.959Z"
+  },
+  "created": {
+    "$date": "2024-01-15T20:55:18.959Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5acc4557aed6fa8d1522b"
+  },
+  "name": "Fate",
+  "description": "The concept of fate and destiny plays a significant role. The idea that the young lovers are \"star-crossed\" and destined for tragedy is expressed throughout the play. The inevitability of their deaths adds a sense of inevitability to the unfolding events.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T22:08:04.132Z"
+  },
+  "created": {
+    "$date": "2024-01-15T22:08:04.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5acc4557aed6fa8d1522e"
+  },
+  "name": "Conflict",
+  "description": "The play revolves around the feud between the Montagues and Capulets, highlighting the destructive nature of long-standing hatred and animosity. The conflict between the families serves as a backdrop to the love story and contributes to the tragic outcome.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T22:08:04.191Z"
+  },
+  "created": {
+    "$date": "2024-01-15T22:08:04.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5acc4557aed6fa8d15231"
+  },
+  "name": "Youth and Impulsivness",
+  "description": "The impulsive nature of youth is evident in the actions of Romeo and Juliet. Their quick decisions and rash behaviors, driven by passion and emotion, lead to dire consequences. The play explores the consequences of youthful impulsiveness.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T22:08:04.230Z"
+  },
+  "created": {
+    "$date": "2024-01-15T22:08:04.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5acc4557aed6fa8d15234"
+  },
+  "name": "Individula vs. Society",
+  "description": "The love between Romeo and Juliet defies social norms and familial expectations. The tension between individual desires and societal expectations is a recurring theme as the characters navigate their relationships in the context of a rigid social structure.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T22:08:04.278Z"
+  },
+  "created": {
+    "$date": "2024-01-15T22:08:04.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5acc4557aed6fa8d15237"
+  },
+  "name": "Hatred",
+  "description": "Shakespeare portrays the senselessness of the feud between the Montagues and Capulets. The play suggests that such hatred and enmity lead to unnecessary suffering and tragedy, emphasizing the folly of holding onto grudges.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T22:08:04.304Z"
+  },
+  "created": {
+    "$date": "2024-01-15T22:08:04.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5acc4557aed6fa8d1523a"
+  },
+  "name": "Appearnace vs. Reality",
+  "description": "Throughout the play, characters wear masks and engage in deception. The contrast between appearance and reality is evident in the misunderstandings and miscommunications that contribute to the tragic events.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T22:08:04.325Z"
+  },
+  "created": {
+    "$date": "2024-01-15T22:08:04.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5acc4557aed6fa8d1523d"
+  },
+  "name": "Death",
+  "description": "Death is a pervasive theme in \"Romeo and Juliet.\" The play opens with a prologue that foreshadows the tragic fate of the lovers. The theme of death is reinforced through the deaths of Mercutio, Tybalt, and, ultimately, Romeo and Juliet.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T22:08:04.340Z"
+  },
+  "created": {
+    "$date": "2024-01-15T22:08:04.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5acc4557aed6fa8d15240"
+  },
+  "name": "Parental Influence",
+  "description": "The influence of parents on the lives of their children is explored in the play. The strained relationships between Juliet and her parents, as well as Romeo and his father, contribute to the challenges faced by the young lovers.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T22:08:04.371Z"
+  },
+  "created": {
+    "$date": "2024-01-15T22:08:04.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5be41557aed6fa8d18a4a"
+  },
+  "name": "Love and Marriage",
+  "description": "The central theme of the novel is love and marriage, particularly in the context of social class and economic considerations. The characters grapple with the idea of marrying for love versus marrying for financial security or social status.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T23:22:41.426Z"
+  },
+  "created": {
+    "$date": "2024-01-15T23:22:41.426Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5be41557aed6fa8d18a4d"
+  },
+  "name": "Social class and Status",
+  "description": "The novel vividly portrays the rigid social hierarchy of the time. The characters navigate societal expectations, and the differences in social class influence their relationships and prospects for marriage.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T23:22:41.441Z"
+  },
+  "created": {
+    "$date": "2024-01-15T23:22:41.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5be41557aed6fa8d18a50"
+  },
+  "name": "Pride and Prejudice",
+  "description": "The title itself reflects a major theme. The characters, especially Elizabeth Bennet and Mr. Darcy, grapple with their own pride and prejudices. The novel explores the consequences of hasty judgments and the importance of self-awareness and personal growth.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T23:22:41.448Z"
+  },
+  "created": {
+    "$date": "2024-01-15T23:22:41.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5be41557aed6fa8d18a53"
+  },
+  "name": "Satire and Irony",
+  "description": "Austen employs satire and irony to comment on the manners and conventions of the time. The novel satirizes the superficiality of societal norms, exposing the flaws in the characters and their interactions.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T23:22:41.456Z"
+  },
+  "created": {
+    "$date": "2024-01-15T23:22:41.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5be41557aed6fa8d18a56"
+  },
+  "name": "Gender Roles",
+  "description": "\"Pride and Prejudice\" provides a critique of gender roles in the early 19th century. The novel's female characters, especially Elizabeth, challenge traditional expectations for women and demonstrate intelligence, wit, and independence.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T23:22:41.463Z"
+  },
+  "created": {
+    "$date": "2024-01-15T23:22:41.463Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5be41557aed6fa8d18a59"
+  },
+  "name": "Family Dynamics",
+  "description": "The Bennet family dynamics play a significant role in the novel. The relationships between family members, particularly the interactions between Mr. and Mrs. Bennet and their daughters, contribute to the comedic and dramatic elements of the story.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T23:22:41.470Z"
+  },
+  "created": {
+    "$date": "2024-01-15T23:22:41.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5be41557aed6fa8d18a5c"
+  },
+  "name": "Satirical Critique of Society",
+  "description": "Austen uses the novel to satirize the social norms, behaviors, and conventions of her time. Through the characters and their interactions, she critiques the superficiality and hypocrisy of certain aspects of society.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T23:22:41.477Z"
+  },
+  "created": {
+    "$date": "2024-01-15T23:22:41.477Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5be41557aed6fa8d18a5f"
+  },
+  "name": "Economic realities",
+  "description": "The economic considerations in marriage are a recurring theme. Characters must navigate the financial aspects of potential unions, and the novel highlights the challenges faced by women who lack independent wealth.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T23:22:41.484Z"
+  },
+  "created": {
+    "$date": "2024-01-15T23:22:41.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5fb21557aed6fa8d1d79c"
+  },
+  "name": "Good and Evil",
+  "description": "Good and evil are two opposing moral concepts that are used to describe actions, behaviors, and intentions. Good is associated with positive, beneficial, and virtuous qualities, while evil is associated with negative, harmful, and malevolent qualities. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-16T03:42:25.758Z"
+  },
+  "created": {
+    "$date": "2024-01-16T03:42:25.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5fb21557aed6fa8d1d79f"
+  },
+  "name": "Integrity",
+  "description": "Integrity is the practice of being honest and showing a consistent and uncompromising adherence to strong moral and ethical principles and values.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-16T03:42:25.767Z"
+  },
+  "created": {
+    "$date": "2024-01-16T03:42:25.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5fb21557aed6fa8d1d7a2"
+  },
+  "name": "Honesty",
+  "description": "Honesty is a facet of moral character that connotes positive and virtuous attributes such as integrity, truthfulness, straightforwardness (including straightforwardness of conduct: earnestness), along with the absence of lying, cheating, theft, etc. Honesty also involves being trustworthy, loyal, fair, and sincere.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-16T03:42:25.774Z"
+  },
+  "created": {
+    "$date": "2024-01-16T03:42:25.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65abe07a557aed6fa8d2bb59"
+  },
+  "name": "Fearlessness",
+  "description": "Free from fear",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T15:02:18.616Z"
+  },
+  "created": {
+    "$date": "2024-01-20T15:02:18.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65abe165557aed6fa8d2c2f0"
+  },
+  "name": "Individuality",
+  "description": "The quality or character of a particular person or thing that distinguishes them from others of the same kind, especially when strongly marked.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T15:06:13.255Z"
+  },
+  "created": {
+    "$date": "2024-01-20T15:06:13.255Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac00c0557aed6fa8d32772"
+  },
+  "name": "Racial Injustice",
+  "description": "The novel explores racial injustice and inequality in the American South during the 1930s. The trial of Tom Robinson, a black man falsely accused of raping a white woman, exposes the deeply ingrained racism within the community.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T17:20:00.924Z"
+  },
+  "created": {
+    "$date": "2024-01-20T17:20:00.924Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac00c0557aed6fa8d32775"
+  },
+  "name": "Morality and Conscience",
+  "description": "Atticus Finch grapples with questions of morality and conscience. Atticus teaches his children the importance of empathy and understanding, even in the face of prejudice.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T17:20:00.958Z"
+  },
+  "created": {
+    "$date": "2024-01-20T17:20:00.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac00c0557aed6fa8d32778"
+  },
+  "name": "Loss of Innocence",
+  "description": "Scout and Jem Finch witness the harsh realities of racism and injustice. Their loss of innocence is a central theme, as they confront the darker aspects of human nature and societal prejudice.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T17:20:00.993Z"
+  },
+  "created": {
+    "$date": "2024-01-20T17:20:00.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac00c1557aed6fa8d3277b"
+  },
+  "name": "Social Class Disparities",
+  "description": "Maycomb is depicted as a town with clear social class distinctions. The Ewells, a poor white family, are contrasted with the more respectable Finch family. The novel explores how societal expectations and biases are influenced by class.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T17:20:01.019Z"
+  },
+  "created": {
+    "$date": "2024-01-20T17:20:01.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac00c1557aed6fa8d3277e"
+  },
+  "name": "Symbolism of the Mockingbird",
+  "description": "The mockingbird serves as a powerful symbol of innocence and vulnerability. Atticus teaches his children that it is a sin to kill a mockingbird because they only bring beauty and music to the world. The symbol extends to characters like Tom Robinson and Boo Radley.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T17:20:01.052Z"
+  },
+  "created": {
+    "$date": "2024-01-20T17:20:01.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac00c1557aed6fa8d32781"
+  },
+  "name": "Prejudice and Stereotyping",
+  "description": "The novel depicts the destructive nature of prejudice and the harmful impact of stereotyping. Characters like Boo Radley and Tom Robinson are judged based on rumors and societal biases rather than their true character.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T17:20:01.086Z"
+  },
+  "created": {
+    "$date": "2024-01-20T17:20:01.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac00c1557aed6fa8d32784"
+  },
+  "name": "Education and Ignorance",
+  "description": "The importance of education and awareness is highlighted, as characters grapple with ignorance and misinformation.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T17:20:01.162Z"
+  },
+  "created": {
+    "$date": "2024-01-20T17:20:01.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac00c1557aed6fa8d32787"
+  },
+  "name": "Community and Moral Growth",
+  "description": "The novel explores the dynamics of a small Southern community and the potential for moral growth within it.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T17:20:01.178Z"
+  },
+  "created": {
+    "$date": "2024-01-20T17:20:01.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac00c1557aed6fa8d3278a"
+  },
+  "name": "Courage and Empathy",
+  "description": "Atticus Finch embodies courage and empathy as he defends Tom Robinson despite societal pressures. The novel emphasizes the importance of standing up for what is right, even in the face of adversity.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T17:20:01.287Z"
+  },
+  "created": {
+    "$date": "2024-01-20T17:20:01.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac109c557aed6fa8d370a2"
+  },
+  "name": "Death and Tragedy",
+  "description": "The novel concludes with tragedy and death, symbolizing the consequences of the characters' actions and the failure of their pursuits. Gatsby's death is a poignant moment that underscores the fragility of dreams.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T18:27:40.111Z"
+  },
+  "created": {
+    "$date": "2024-01-20T18:27:40.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac109c557aed6fa8d370a5"
+  },
+  "name": "Time and the Past",
+  "description": "The novel explores the theme of time and the impact of the past on the present. Gatsby is fixated on recreating the past with Daisy, highlighting the inability to escape the passage of time.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T18:27:40.132Z"
+  },
+  "created": {
+    "$date": "2024-01-20T18:27:40.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac109c557aed6fa8d370a8"
+  },
+  "name": "Loneliness and Isolation",
+  "description": "Despite the social gatherings and parties, characters in the novel often experience loneliness and isolation. Gatsby, in particular, is portrayed as a lonely figure who is disconnected from the world around him.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T18:27:40.139Z"
+  },
+  "created": {
+    "$date": "2024-01-20T18:27:40.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac109c557aed6fa8d370ab"
+  },
+  "name": "The Green Light",
+  "description": "The green light at the end of Daisy's dock becomes a powerful symbol in the novel, representing Gatsby's hopes and dreams. It also symbolizes the unattainable nature of the American Dream.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T18:27:40.146Z"
+  },
+  "created": {
+    "$date": "2024-01-20T18:27:40.146Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac109c557aed6fa8d370ae"
+  },
+  "name": "Moral Decay and Corruption",
+  "description": "The excesses of the Jazz Age are depicted as leading to moral decay and corruption. The characters in the novel engage in decadent behavior, and the society portrayed is marked by a lack of moral integrity.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T18:27:40.153Z"
+  },
+  "created": {
+    "$date": "2024-01-20T18:27:40.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac109c557aed6fa8d370b1"
+  },
+  "name": "Love and Obsession",
+  "description": "The theme of love is intertwined with obsession and desire. Gatsby's love for Daisy is all-encompassing, yet it is tainted by his obsession with recapturing the past. The novel explores the complexities of love and the consequences of unrealistic expectations.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T18:27:40.160Z"
+  },
+  "created": {
+    "$date": "2024-01-20T18:27:40.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac109c557aed6fa8d370b4"
+  },
+  "name": "Illusion vs. Reality",
+  "description": "Gatsby is associated with illusions and the creation of a false persona. The novel delves into the contrast between appearance and reality, emphasizing how characters often project an image that hides their true selves.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T18:27:40.166Z"
+  },
+  "created": {
+    "$date": "2024-01-20T18:27:40.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac109c557aed6fa8d370b7"
+  },
+  "name": "Wealth and Social Class",
+  "description": "The novel scrutinizes the divide between the old money (represented by families like the Buchanans) and the new money (represented by Gatsby). It explores how wealth and social class impact individuals' lives, relationships, and societal perceptions.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T18:27:40.173Z"
+  },
+  "created": {
+    "$date": "2024-01-20T18:27:40.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac109c557aed6fa8d370ba"
+  },
+  "name": "The American Dream",
+  "description": "One of the central themes is the idea of the American Dream and its disillusionment. Gatsby's relentless pursuit of wealth and social status is an embodiment of the American Dream, but the novel suggests that this dream is often elusive and can lead to moral decay.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T18:27:40.180Z"
+  },
+  "created": {
+    "$date": "2024-01-20T18:27:40.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac2d08557aed6fa8d3bbb9"
+  },
+  "name": "Family and Parenthood",
+  "description": "Mr. and Mrs. Mallard work together to find a suitable home for their ducklings and teach them essential life skills.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T20:28:56.242Z"
+  },
+  "created": {
+    "$date": "2024-01-20T20:28:56.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac2d08557aed6fa8d3bbbc"
+  },
+  "name": "Safety and Responsibility",
+  "description": "The book imparts a valuable lesson about safety and responsibility, especially when crossing streets. The story emphasizes the importance of looking out for one another and following safety rules.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T20:28:56.257Z"
+  },
+  "created": {
+    "$date": "2024-01-20T20:28:56.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac2d08557aed6fa8d3bbbf"
+  },
+  "name": "Community and Cooperation",
+  "description": "The story highlights the sense of community and cooperation among the residents of Boston. The policemen, other animals, and people in the city come together to help the ducklings and ensure their safe journey.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T20:28:56.264Z"
+  },
+  "created": {
+    "$date": "2024-01-20T20:28:56.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac2d08557aed6fa8d3bbc2"
+  },
+  "name": "Adventure and Exploration",
+  "description": "The Mallard family embarks on an adventurous journey through the city, discovering new places and overcoming obstacles. It encourages curiosity and discovery.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T20:28:56.271Z"
+  },
+  "created": {
+    "$date": "2024-01-20T20:28:56.271Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac2d08557aed6fa8d3bbc5"
+  },
+  "name": "Friendship and Kindness",
+  "description": "The interactions between the Mallard family and the people of Boston showcase themes of friendship and kindness. The policemen and other residents extend help and show concern for the well-being of the ducklings.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T20:28:56.279Z"
+  },
+  "created": {
+    "$date": "2024-01-20T20:28:56.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac2d08557aed6fa8d3bbc8"
+  },
+  "name": "Sense of Place",
+  "description": "The book celebrates the city of Boston, particularly the Public Garden, as a welcoming and safe place for the Mallard family. The sense of place is an important theme, emphasizing the significance of a home and community.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T20:28:56.286Z"
+  },
+  "created": {
+    "$date": "2024-01-20T20:28:56.286Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ad4d39557aed6fa8d4ef20"
+  },
+  "name": "Bedtime ",
+  "description": "A cautionary tale of staying up too late",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-21T16:58:33.679Z"
+  },
+  "created": {
+    "$date": "2024-01-21T16:58:33.679Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ad53b9557aed6fa8d4f0bc"
+  },
+  "name": "Curiosity ",
+  "description": "Anna loves to climb!  Her climbing leads her to an adventure climbing up, up, up a very large tree.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-21T17:26:17.459Z"
+  },
+  "created": {
+    "$date": "2024-01-21T17:26:17.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aeeb4d557aed6fa8d547dc"
+  },
+  "name": "Moral lessons",
+  "description": "The story imparts moral lessons about kindness, respect, and the consequences of negative behavior. There is a focus on the importance of treating others with kindness and resolving conflicts peacefully.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-22T22:25:17.653Z"
+  },
+  "created": {
+    "$date": "2024-01-22T22:25:17.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aeeb4d557aed6fa8d547df"
+  },
+  "name": "Natural World and Wildlife",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-22T22:25:17.674Z"
+  },
+  "created": {
+    "$date": "2024-01-22T22:25:17.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aeeb4d557aed6fa8d547e2"
+  },
+  "name": "Telling Time",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-22T22:25:17.681Z"
+  },
+  "created": {
+    "$date": "2024-01-22T22:25:17.681Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aeeb4d557aed6fa8d547e5"
+  },
+  "name": "Size and Perspective",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-22T22:25:17.688Z"
+  },
+  "created": {
+    "$date": "2024-01-22T22:25:17.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aeeb4d557aed6fa8d547e8"
+  },
+  "name": "Cooperation and Sharing",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-22T22:25:17.695Z"
+  },
+  "created": {
+    "$date": "2024-01-22T22:25:17.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aeeb4d557aed6fa8d547eb"
+  },
+  "name": "Behavior and Emotions",
+  "description": "The story lets the reader explore emotions such as anger, impatience, and the importance of positive interactions.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-22T22:25:17.702Z"
+  },
+  "created": {
+    "$date": "2024-01-22T22:25:17.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aefd79557aed6fa8d5ca5a"
+  },
+  "name": "Nature and the Supernatural",
+  "description": "The natural world is imbued with a sense of wonder and mystery. The novel features vivid descriptions of the landscape, and supernatural elements are seamlessly integrated into the characters' lives, emphasizing the interconnectedness of the natural and supernatural realms",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-22T23:42:49.041Z"
+  },
+  "created": {
+    "$date": "2024-01-22T23:42:49.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aefd79557aed6fa8d5ca5d"
+  },
+  "name": "Memory and Nostalgia",
+  "description": "The novel explores the role of memory and nostalgia in shaping individuals and communities. The characters grapple with the impact of the past on their present, and the narrative is often tinged with a sense of longing for bygone times.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-22T23:42:49.050Z"
+  },
+  "created": {
+    "$date": "2024-01-22T23:42:49.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aefd79557aed6fa8d5ca60"
+  },
+  "name": "Love and Passion",
+  "description": "The characters experience intense emotions, often leading to both ecstasy and tragedy. Love becomes a driving force that shapes the characters' decisions and destinies.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-22T23:42:49.065Z"
+  },
+  "created": {
+    "$date": "2024-01-22T23:42:49.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aefd79557aed6fa8d5ca63"
+  },
+  "name": "Family and Legacy",
+  "description": "The Buendía family serves as the focal point of the narrative, and the novel examines the complexities of family dynamics and legacies. The characters' actions have far-reaching consequences that shape the destiny of future generations.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-22T23:42:49.072Z"
+  },
+  "created": {
+    "$date": "2024-01-22T23:42:49.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aefd79557aed6fa8d5ca66"
+  },
+  "name": "Cyclical Nature of Life",
+  "description": "Events and patterns in the novel often repeat across generations, emphasizing the cyclical nature of life. The characters seem caught in a cycle of joy and despair, success and failure, mirroring the complexities of existence.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-22T23:42:49.078Z"
+  },
+  "created": {
+    "$date": "2024-01-22T23:42:49.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aefd79557aed6fa8d5ca69"
+  },
+  "name": "Isolation and Solitude",
+  "description": "Characters in the novel frequently experience isolation, whether self-imposed or imposed by external circumstances. This theme underscores the characters' struggles with their own identities and relationships.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-22T23:42:49.085Z"
+  },
+  "created": {
+    "$date": "2024-01-22T23:42:49.085Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aefd79557aed6fa8d5ca6c"
+  },
+  "name": "Fate and Free Will",
+  "description": "The characters in the novel often grapple with the tension between fate and free will. Despite their efforts to control their destinies, there is a sense of inevitability and predetermined outcomes, reflecting a fatalistic view of life.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-22T23:42:49.091Z"
+  },
+  "created": {
+    "$date": "2024-01-22T23:42:49.091Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aefd79557aed6fa8d5ca6f"
+  },
+  "name": "Time and History",
+  "description": "The Buendía family experiences a cyclical pattern of events, emphasizing the repetition of history. The narrative spans a century, portraying the passage of time and the interconnectedness of past, present, and future.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-22T23:42:49.097Z"
+  },
+  "created": {
+    "$date": "2024-01-22T23:42:49.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b1e0e8557aed6fa8d74631"
+  },
+  "name": "Inner Conflict",
+  "description": "Inner conflict is a psychological struggle within the mind of a character or person, arising from opposing demands or impulses. It is a constant battle that hinders us from making a smooth decision, and is caused by our thoughts and emotions trying to override what we know is morally right or wrong. This feeling of conflict can translate into fear, anger, disgust, confusion, and in some cases, loneliness.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-25T04:17:44.074Z"
+  },
+  "created": {
+    "$date": "2024-01-25T04:17:44.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b1e0e8557aed6fa8d74634"
+  },
+  "name": "Individual Empowerment",
+  "description": "Personal empowerment is about taking control of your own life, and making positive decisions based on what you want. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-25T04:17:44.088Z"
+  },
+  "created": {
+    "$date": "2024-01-25T04:17:44.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b33ed7557aed6fa8d7e11e"
+  },
+  "name": "Social Media",
+  "description": "Social media are interactive technologies that facilitate the creation, sharing and aggregation of content, ideas, interests, and other forms of expression through virtual communities and networks. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-26T05:10:47.447Z"
+  },
+  "created": {
+    "$date": "2024-01-26T05:10:47.447Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b34926557aed6fa8d822ec"
+  },
+  "name": "Societal judgment",
+  "description": "The process of forming an opinion or evaluation by discerning and comparing\nan opinion shared by a society. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-26T05:54:46.237Z"
+  },
+  "created": {
+    "$date": "2024-01-26T05:54:46.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b34926557aed6fa8d822ef"
+  },
+  "name": "Personal relationships",
+  "description": "Personal relationships refer to close connections between people, formed by emotional bonds and interactions.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-26T05:54:46.262Z"
+  },
+  "created": {
+    "$date": "2024-01-26T05:54:46.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b34db8557aed6fa8d853e1"
+  },
+  "name": "Swagger",
+  "description": "Walk or behave in a very confident and typically arrogant or aggressive way",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-26T06:14:16.975Z"
+  },
+  "created": {
+    "$date": "2024-01-26T06:14:16.975Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b3be0f557aed6fa8d8afa1"
+  },
+  "name": "Respect ",
+  "description": "A feeling of deep admiration for someone or something elicited by their abilities, qualities, or achievements.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-26T14:13:35.753Z"
+  },
+  "created": {
+    "$date": "2024-01-26T14:13:35.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b3be0f557aed6fa8d8afa4"
+  },
+  "name": "Setting boundaries",
+  "description": "Setting boundaries is a way to communicate and assert your personal values, needs, and limits to others. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-26T14:13:35.771Z"
+  },
+  "created": {
+    "$date": "2024-01-26T14:13:35.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b4011d557aed6fa8d8cfc8"
+  },
+  "name": "Stop playing games",
+  "description": "The idea of playing games in relationship simply has to do with the tricks people play, the things people in the hope of gaining a leverage or staying in an advantageous position in a relationship. The efforts they put into guarding themselves from hurt or to not end up looking like a fool or getting played.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-26T18:59:41.554Z"
+  },
+  "created": {
+    "$date": "2024-01-26T18:59:41.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b5e8ed557aed6fa8d9b3c7"
+  },
+  "name": "Expansion",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T05:41:01.454Z"
+  },
+  "created": {
+    "$date": "2024-01-28T05:41:01.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b5e8ed557aed6fa8d9b3ca"
+  },
+  "name": "Construction",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T05:41:01.463Z"
+  },
+  "created": {
+    "$date": "2024-01-28T05:41:01.463Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b5e8ed557aed6fa8d9b3cd"
+  },
+  "name": "Sustainability",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T05:41:01.470Z"
+  },
+  "created": {
+    "$date": "2024-01-28T05:41:01.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b5f3c4557aed6fa8da5015"
+  },
+  "name": "Greed",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T06:27:16.296Z"
+  },
+  "created": {
+    "$date": "2024-01-28T06:27:16.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b6a8da557aed6fa8db1156"
+  },
+  "name": "Imagination",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T19:19:54.433Z"
+  },
+  "created": {
+    "$date": "2024-01-28T19:19:54.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b6a8da557aed6fa8db1159"
+  },
+  "name": "Perception",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T19:19:54.440Z"
+  },
+  "created": {
+    "$date": "2024-01-28T19:19:54.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b71237557aed6fa8dc0420"
+  },
+  "name": "Self-love",
+  "description": "Self love has a few definitions. For example, self love is sometimes defined as having an appreciation for one's own worth or value.  It is also thought to include paying sufficient attention to one's own happiness and well-being.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-29T02:49:27.196Z"
+  },
+  "created": {
+    "$date": "2024-01-29T02:49:27.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b71237557aed6fa8dc0423"
+  },
+  "name": "Freedom",
+  "description": "The power or right to act, speak, or think as one wants without hindrance or restraint. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-29T02:49:27.213Z"
+  },
+  "created": {
+    "$date": "2024-01-29T02:49:27.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b71237557aed6fa8dc0426"
+  },
+  "name": "independence",
+  "description": " Freedom from control or influence of another or others.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-29T02:49:27.220Z"
+  },
+  "created": {
+    "$date": "2024-01-29T02:49:27.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b723d8557aed6fa8dc7f4f"
+  },
+  "name": "Surrendering to love",
+  "description": "This means a commitment to love, honor and cherish the quality of the relationship.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-29T04:04:40.441Z"
+  },
+  "created": {
+    "$date": "2024-01-29T04:04:40.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b723d8557aed6fa8dc7f52"
+  },
+  "name": "Unpredictability",
+  "description": "Unpredictability is the trait of doing things in a way that is irregular and cannot be predicted.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-29T04:04:40.450Z"
+  },
+  "created": {
+    "$date": "2024-01-29T04:04:40.450Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b9c937f87f59c84cc60a7c"
+  },
+  "name": "Celebration",
+  "description": "A celebration is a special enjoyable event that people organize because something pleasant has happened or because it is someone's birthday or anniversary. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-31T04:14:47.583Z"
+  },
+  "created": {
+    "$date": "2024-01-31T04:14:47.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b9c937f87f59c84cc60a7f"
+  },
+  "name": "Euphoria",
+  "description": "A feeling or state of intense excitement and happiness.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-31T04:14:47.602Z"
+  },
+  "created": {
+    "$date": "2024-01-31T04:14:47.602Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b9c937f87f59c84cc60a82"
+  },
+  "name": "Optimism",
+  "description": "Hopefulness and confidence about the future or the successful outcome of something. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-31T04:14:47.610Z"
+  },
+  "created": {
+    "$date": "2024-01-31T04:14:47.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b9cf47f87f59c84cc625d4"
+  },
+  "name": "Good vibes",
+  "description": "Short for \"vibrations,\" and describes positive feelings, attitudes, or atmospheres.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-31T04:40:39.256Z"
+  },
+  "created": {
+    "$date": "2024-01-31T04:40:39.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb135cf87f59c84cc68a90"
+  },
+  "name": "Past Struggles",
+  "description": "To experience difficulty and make a very great effort in order to make changes to better your difficulty. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-01T03:43:24.484Z"
+  },
+  "created": {
+    "$date": "2024-02-01T03:43:24.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb135cf87f59c84cc68a93"
+  },
+  "name": "Addiction ",
+  "description": "A compulsive, chronic, physiological or psychological need for a habit-forming substance, behavior, or activity having harmful physical, psychological, or social effects and typically causing well-defined symptoms (such as anxiety, irritability, tremors, or nausea) upon withdrawal or abstinence.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-01T03:43:24.503Z"
+  },
+  "created": {
+    "$date": "2024-02-01T03:43:24.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb135cf87f59c84cc68a96"
+  },
+  "name": "Fame",
+  "description": "The state of being known or recognized by many people because of your achievements, skills, etc.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-01T03:43:24.511Z"
+  },
+  "created": {
+    "$date": "2024-02-01T03:43:24.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb2204f87f59c84cc6d90e"
+  },
+  "name": "Recovery ",
+  "description": "A return to a normal state of health, mind, or strength.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-01T04:45:56.755Z"
+  },
+  "created": {
+    "$date": "2024-02-01T04:45:56.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bda52bf87f59c84cc71442"
+  },
+  "name": "Crush",
+  "description": "A crush typically refers to romantic feelings for someone that go unexpressed. However, it’s important to note that crushes don’t always have to be romantic. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-03T02:30:03.094Z"
+  },
+  "created": {
+    "$date": "2024-02-03T02:30:03.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bda52bf87f59c84cc71445"
+  },
+  "name": "Infatuation",
+  "description": "An intense but short-lived passion or admiration for someone or something.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-03T02:30:03.113Z"
+  },
+  "created": {
+    "$date": "2024-02-03T02:30:03.113Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bda52bf87f59c84cc71448"
+  },
+  "name": "impulsiveness",
+  "description": "Acting or done without forethought",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-03T02:30:03.122Z"
+  },
+  "created": {
+    "$date": "2024-02-03T02:30:03.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bda52bf87f59c84cc7144b"
+  },
+  "name": "Anticipation",
+  "description": "Anticipation is an emotion involving pleasure or anxiety in considering or awaiting an expected event.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-03T02:30:03.132Z"
+  },
+  "created": {
+    "$date": "2024-02-03T02:30:03.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bda52bf87f59c84cc7144e"
+  },
+  "name": "Playful flirtation",
+  "description": "Seeing flirting as a playful game. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-03T02:30:03.141Z"
+  },
+  "created": {
+    "$date": "2024-02-03T02:30:03.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65be824bf87f59c84cc7fa59"
+  },
+  "name": "Violence and its Effects",
+  "description": "The brutal murders of the Clutter family and the subsequent investigation and trial expose the devastating consequences of senseless violence.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-03T18:13:31.923Z"
+  },
+  "created": {
+    "$date": "2024-02-03T18:13:31.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65be824bf87f59c84cc7fa5c"
+  },
+  "name": "Crime and Punishment",
+  "description": "Exploring the motivations behind the murders and the quest for justice. Capote raises questions about the effectiveness of the criminal justice system and the moral implications of capital punishment.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-03T18:13:31.941Z"
+  },
+  "created": {
+    "$date": "2024-02-03T18:13:31.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65be824bf87f59c84cc7fa5f"
+  },
+  "name": "Psychology and Motivation",
+  "description": "Truman Capote explores the backgrounds, experiences, and personal struggles of the perpetrators of the crime, offering insights into the complex factors that contribute to criminal behavior.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-03T18:13:31.949Z"
+  },
+  "created": {
+    "$date": "2024-02-03T18:13:31.949Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65be824bf87f59c84cc7fa62"
+  },
+  "name": "Community and Morality",
+  "description": "The murders in \"In Cold Blood\" deeply affect the community of Holcomb, Kansas, and force its residents to confront questions of morality and human nature. The book explores how acts of violence can rupture the fabric of a community and test its collective values and beliefs.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-03T18:13:31.956Z"
+  },
+  "created": {
+    "$date": "2024-02-03T18:13:31.956Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65be824bf87f59c84cc7fa65"
+  },
+  "name": "Memory and Trauma",
+  "description": "The traumatic events of the Clutter murders leave a lasting impact on the survivors and witnesses, shaping their memories and perceptions of the world.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-03T18:13:31.963Z"
+  },
+  "created": {
+    "$date": "2024-02-03T18:13:31.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bf04def87f59c84cc83647"
+  },
+  "name": "Celebrity",
+  "description": "Celebrity is a condition of fame and broad public recognition of a person or group as a result of the attention given to them by mass media. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-04T03:30:38.341Z"
+  },
+  "created": {
+    "$date": "2024-02-04T03:30:38.341Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bf04def87f59c84cc8364a"
+  },
+  "name": "Validation",
+  "description": "The action of checking or proving the validity or accuracy of something.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-04T03:30:38.359Z"
+  },
+  "created": {
+    "$date": "2024-02-04T03:30:38.359Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bf04def87f59c84cc8364d"
+  },
+  "name": "Recognition",
+  "description": "Acknowledgment of something's existence, validity, or legality. Appreciation or acclaim for an achievement, service, or ability. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-04T03:30:38.366Z"
+  },
+  "created": {
+    "$date": "2024-02-04T03:30:38.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bf04def87f59c84cc83650"
+  },
+  "name": "Performance",
+  "description": "A performance is an act or process of staging or presenting a play, concert, or other form of entertainment. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-04T03:30:38.590Z"
+  },
+  "created": {
+    "$date": "2024-02-04T03:30:38.590Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bf04def87f59c84cc83653"
+  },
+  "name": "Entertainment",
+  "description": "Entertainment is a form of activity that holds the attention and interest of an audience or gives pleasure and delight.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-04T03:30:38.608Z"
+  },
+  "created": {
+    "$date": "2024-02-04T03:30:38.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bf04def87f59c84cc83656"
+  },
+  "name": "Criticism ",
+  "description": "Criticism is the construction of a judgement about the negative or positive qualities of someone or something. Criticism can range from impromptu comments to a written detailed response.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-04T03:30:38.614Z"
+  },
+  "created": {
+    "$date": "2024-02-04T03:30:38.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bf04def87f59c84cc83659"
+  },
+  "name": "Self-empowerment",
+  "description": "Self-empowerment means making a conscious decision to take charge of your destiny. It involves making positive choices, taking action to advance, and being confident in your ability to make and execute decisions. Self-empowered people understand their strengths and weaknesses and are motivated to learn and achieve.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-04T03:30:38.621Z"
+  },
+  "created": {
+    "$date": "2024-02-04T03:30:38.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bffcb7f87f59c84cc9b663"
+  },
+  "name": "History",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-04T21:08:07.877Z"
+  },
+  "created": {
+    "$date": "2024-02-04T21:08:07.877Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bffcb7f87f59c84cc9b666"
+  },
+  "name": "Memory",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-04T21:08:07.895Z"
+  },
+  "created": {
+    "$date": "2024-02-04T21:08:07.895Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bffcb7f87f59c84cc9b669"
+  },
+  "name": "Silence",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-04T21:08:07.903Z"
+  },
+  "created": {
+    "$date": "2024-02-04T21:08:07.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c06a6ef87f59c84cca0b7f"
+  },
+  "name": "Dignity",
+  "description": "The state or quality of being worthy of honor or respect.",
+  "image": "232df53f-332f-42d8-9609-28c5191362f5-dignity",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-05T04:56:14.419Z"
+  },
+  "created": {
+    "$date": "2024-02-05T04:56:14.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c06a6ef87f59c84cca0b82"
+  },
+  "name": "Self-respect",
+  "description": "Pride and confidence in oneself; a feeling that one is behaving with honor and dignity.",
+  "image": "7c6f330e-d977-4626-affd-4bbe06349917-self re",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-05T04:56:14.436Z"
+  },
+  "created": {
+    "$date": "2024-02-05T04:56:14.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c06d3af87f59c84cca1cb4"
+  },
+  "name": "Moving on",
+  "description": "To stop focusing on someone or something in order to progress with other tasks or one's life.",
+  "image": "afd9494f-494c-431c-994e-7d6355aff2fa-moving ",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-05T05:08:10.559Z"
+  },
+  "created": {
+    "$date": "2024-02-05T05:08:10.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c06d3af87f59c84cca1cb7"
+  },
+  "name": "Emotional detachment",
+  "description": "The inability or unwillingness to connect with others on an emotional level. Emotional detachment can also mean that people do not engage with their feelings, which can translate into repeatedly being disconnected or disengaged from what other people are feeling.",
+  "image": "7f7ba5e9-ca1a-44a8-8faf-54f502260cea-emotion",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-05T05:08:10.576Z"
+  },
+  "created": {
+    "$date": "2024-02-05T05:08:10.576Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c16724f87f59c84ccb0a65"
+  },
+  "name": "Test",
+  "image": "852ed694-2afd-4961-9353-edefa3ecce77-cat.jpg",
+  "active": false,
+  "updated": {
+    "$date": "2024-02-05T22:58:41.367Z"
+  },
+  "created": {
+    "$date": "2024-02-05T22:54:28.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c16a9ef87f59c84ccb4817"
+  },
+  "name": "Autonomy",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-05T23:09:18.079Z"
+  },
+  "created": {
+    "$date": "2024-02-05T23:09:18.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c16a9ef87f59c84ccb481a"
+  },
+  "name": "Emotions and Temperament",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-05T23:09:18.095Z"
+  },
+  "created": {
+    "$date": "2024-02-05T23:09:18.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c16a9ef87f59c84ccb481d"
+  },
+  "name": "Belonging",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-05T23:09:18.103Z"
+  },
+  "created": {
+    "$date": "2024-02-05T23:09:18.103Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c16a9ef87f59c84ccb4820"
+  },
+  "name": "Consequences of Actions",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-05T23:09:18.110Z"
+  },
+  "created": {
+    "$date": "2024-02-05T23:09:18.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c16a9ef87f59c84ccb4823"
+  },
+  "name": "The Comfort of Home",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-05T23:09:18.117Z"
+  },
+  "created": {
+    "$date": "2024-02-05T23:09:18.117Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c16a9ef87f59c84ccb4826"
+  },
+  "name": "Facing Fear",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-05T23:09:18.125Z"
+  },
+  "created": {
+    "$date": "2024-02-05T23:09:18.125Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c1c50df87f59c84ccc1eac"
+  },
+  "name": "Resilience ",
+  "description": "The capacity to withstand or to recover quickly from difficulties; toughness. ",
+  "image": "30954d28-b7f2-4f0e-a6d4-95a2d9d426fc-Resilen",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-06T05:35:09.573Z"
+  },
+  "created": {
+    "$date": "2024-02-06T05:35:09.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c1c50df87f59c84ccc1eaf"
+  },
+  "name": "isolation",
+  "description": "Isolation is the state of one who is alone or the condition of being apart from others. It can also refer to the action of separating or segregating something or someone. ",
+  "image": "89cadebe-eb3b-420a-958d-f4611a225ebc-isolati",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-06T05:35:09.589Z"
+  },
+  "created": {
+    "$date": "2024-02-06T05:35:09.589Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c30ca2f87f59c84cccee8f"
+  },
+  "name": "Youth",
+  "description": "The time of life when one is young. The period between childhood and maturity the early period of existence, growth, or development",
+  "image": "2de7e41c-82f0-48f1-9090-41873a788d42-youth.j",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T04:52:50.986Z"
+  },
+  "created": {
+    "$date": "2024-02-07T04:52:50.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c30ed6f87f59c84ccd0cbb"
+  },
+  "name": "Community",
+  "description": "A community is a social unit (a group of living things) with a shared socially significant characteristic, such as place, set of norms, culture, religion, values, customs, or identity. Communities may share a sense of place situated in a given geographical area (e.g. a country, village, town, or neighbourhood) or in virtual space through communication platforms. ",
+  "image": "d73edfac-3ca2-4ae1-86bd-3035e3969e4a-communi",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T05:02:14.525Z"
+  },
+  "created": {
+    "$date": "2024-02-07T05:02:14.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c30ed6f87f59c84ccd0cbe"
+  },
+  "name": "Innocense ",
+  "description": "Lack of guile or corruption; purity",
+  "image": "30438204-da07-4f23-b75d-ed7c71770934-innocec",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T05:02:14.541Z"
+  },
+  "created": {
+    "$date": "2024-02-07T05:02:14.541Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c30ed6f87f59c84ccd0cc1"
+  },
+  "name": "Music",
+  "description": "Vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion. ",
+  "image": "99dc78e6-f7dd-4a30-87b5-d3d59056c15c-music.j",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T05:02:14.549Z"
+  },
+  "created": {
+    "$date": "2024-02-07T05:02:14.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c40159f87f59c84cce3f6f"
+  },
+  "name": "Dystopia",
+  "description": "The government exercises total control over the lives of its citizens. The World State, with its emphasis on stability and conformity, is portrayed as a totalitarian regime that suppresses individual freedom and creativity.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T22:16:57.023Z"
+  },
+  "created": {
+    "$date": "2024-02-07T22:16:57.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c40159f87f59c84cce3f72"
+  },
+  "name": "Technology",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T22:16:57.039Z"
+  },
+  "created": {
+    "$date": "2024-02-07T22:16:57.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c40159f87f59c84cce3f75"
+  },
+  "name": "Control",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T22:16:57.047Z"
+  },
+  "created": {
+    "$date": "2024-02-07T22:16:57.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c40159f87f59c84cce3f78"
+  },
+  "name": "Conformity vs. Individuality",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T22:16:57.055Z"
+  },
+  "created": {
+    "$date": "2024-02-07T22:16:57.055Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c40159f87f59c84cce3f7b"
+  },
+  "name": "Consumerism",
+  "description": "Citizens are conditioned to prioritize consumption and instant gratification over deeper human values and relationships.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T22:16:57.062Z"
+  },
+  "created": {
+    "$date": "2024-02-07T22:16:57.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c40159f87f59c84cce3f7e"
+  },
+  "name": "Loss of Humanity",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T22:16:57.069Z"
+  },
+  "created": {
+    "$date": "2024-02-07T22:16:57.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c403cef87f59c84cce4a8a"
+  },
+  "name": "Self Expression",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T22:27:26.170Z"
+  },
+  "created": {
+    "$date": "2024-02-07T22:27:26.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c403cef87f59c84cce4a8d"
+  },
+  "name": "Passage of Time",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T22:27:26.186Z"
+  },
+  "created": {
+    "$date": "2024-02-07T22:27:26.186Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c403cef87f59c84cce4a90"
+  },
+  "name": "Art",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T22:27:26.193Z"
+  },
+  "created": {
+    "$date": "2024-02-07T22:27:26.193Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c403cef87f59c84cce4a93"
+  },
+  "name": "Coming of Age",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T22:27:26.200Z"
+  },
+  "created": {
+    "$date": "2024-02-07T22:27:26.200Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c40e71f87f59c84cce98cc"
+  },
+  "name": "Nature",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T23:12:49.574Z"
+  },
+  "created": {
+    "$date": "2024-02-07T23:12:49.574Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c40e71f87f59c84cce98cf"
+  },
+  "name": "Religion and Spirituality",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T23:12:49.582Z"
+  },
+  "created": {
+    "$date": "2024-02-07T23:12:49.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c40e71f87f59c84cce98d2"
+  },
+  "name": "Morality",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T23:12:49.590Z"
+  },
+  "created": {
+    "$date": "2024-02-07T23:12:49.590Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c40e71f87f59c84cce98d5"
+  },
+  "name": "Feminism",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T23:12:49.597Z"
+  },
+  "created": {
+    "$date": "2024-02-07T23:12:49.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c40e71f87f59c84cce98d8"
+  },
+  "name": "Redemption",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T23:12:49.607Z"
+  },
+  "created": {
+    "$date": "2024-02-07T23:12:49.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c44b11f87f59c84ccec813"
+  },
+  "name": "Escapism",
+  "description": "The tendency to seek distraction and relief from unpleasant realities, especially by seeking entertainment or engaging in fantasy. ",
+  "image": "f7029412-36eb-45ea-9f0d-1bdd96525ce4-Escapsi",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-08T03:31:29.330Z"
+  },
+  "created": {
+    "$date": "2024-02-08T03:31:29.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c5b557f87f59c84ccf80fc"
+  },
+  "name": "Sexual Desire",
+  "description": "Sexual desire is a subjective feeling state that can be triggered by both internal and external cues, and that may or may not result in overt sexual behavior. ",
+  "image": "196aa5ec-857b-4ba8-bfec-1ef6c3f4a977-Sexual ",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-09T05:17:11.374Z"
+  },
+  "created": {
+    "$date": "2024-02-09T05:17:11.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c5b9a5f87f59c84ccfac13"
+  },
+  "name": "Indulgence",
+  "description": "An occasion when you allow someone or yourself to have something enjoyable, especially more than is good for you.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-09T05:35:33.453Z"
+  },
+  "created": {
+    "$date": "2024-02-09T05:35:33.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c5b9a5f87f59c84ccfac16"
+  },
+  "name": "Hedonism",
+  "description": "Hedonism refers to the prioritization of pleasure in one's lifestyle, actions, or thoughts. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-09T05:35:33.470Z"
+  },
+  "created": {
+    "$date": "2024-02-09T05:35:33.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c5b9a5f87f59c84ccfac19"
+  },
+  "name": "Youthful Rebellion",
+  "description": "Youthful rebellion is a part of social development in adolescents in order for them to develop an identity independent from their parents or family and a capacity for independent decision-making They may experiment with different roles, behaviors, and ideologies as part of this process of developing an identity.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-09T05:35:33.480Z"
+  },
+  "created": {
+    "$date": "2024-02-09T05:35:33.480Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c78f57f87f59c84cd02411"
+  },
+  "name": " Intrigue",
+  "description": "Arouse the curiosity or interest of; fascinate.",
+  "image": "515141e2-2cbd-4bd3-a717-bdbf2fdcf6f2-intrgue",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-10T14:59:35.770Z"
+  },
+  "created": {
+    "$date": "2024-02-10T14:59:35.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c7906ff87f59c84cd02f43"
+  },
+  "name": "Power",
+  "description": "Tthe capacity or ability to direct or influence the behavior of others or the course of events.",
+  "image": "9b8d63e5-7dce-4422-9523-bf68c3fb42d9-power.j",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-10T15:04:15.485Z"
+  },
+  "created": {
+    "$date": "2024-02-10T15:04:15.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c79168f87f59c84cd04208"
+  },
+  "name": "Charm",
+  "description": "The power or quality of giving delight or arousing admiration.",
+  "image": "c1e84a12-a584-4b77-9364-c72eb4ee4637-charmin",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-10T15:08:24.500Z"
+  },
+  "created": {
+    "$date": "2024-02-10T15:08:24.500Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c99e68f87f59c84cd154a6"
+  },
+  "name": "Enjoyment",
+  "description": "The state or process of taking pleasure in something.",
+  "image": "9f7e2442-761a-49a8-a0fa-6dbdda3e39b5-enjoyme",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-12T04:28:24.474Z"
+  },
+  "created": {
+    "$date": "2024-02-12T04:28:24.474Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c99e68f87f59c84cd154a9"
+  },
+  "name": "Fantasy ",
+  "description": "Fantasy is a genre of speculative fiction involving magical elements, typically set in a fictional universe and usually inspired by mythology or folklore.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-12T04:28:24.490Z"
+  },
+  "created": {
+    "$date": "2024-02-12T04:28:24.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ca2943f87f59c84cd25771"
+  },
+  "name": "Magic",
+  "description": "The power of apparently influencing the course of events by using mysterious or supernatural force",
+  "image": "5bd7f5fc-c063-4ccc-9c2a-eb5298a66651-magic h",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-12T14:20:51.510Z"
+  },
+  "created": {
+    "$date": "2024-02-12T14:20:51.510Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ca2943f87f59c84cd25774"
+  },
+  "name": "Transformation",
+  "description": "The power of apparently influencing the course of events by using mysterious or supernatural force",
+  "image": "03d7bcb1-976e-49f5-88ea-e03ed8acde3e-transfo",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-12T14:20:51.527Z"
+  },
+  "created": {
+    "$date": "2024-02-12T14:20:51.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ca2943f87f59c84cd25777"
+  },
+  "name": "Supernatural",
+  "description": "(of a manifestation or event) attributed to some force beyond scientific understanding or the laws of nature",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-12T14:20:51.535Z"
+  },
+  "created": {
+    "$date": "2024-02-12T14:20:51.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ca29d3f87f59c84cd26529"
+  },
+  "name": "Belief",
+  "description": "An acceptance that a statement is true or that something exists. ",
+  "image": "a23c79e4-c707-4cda-af43-9041ac92154f-belief.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-12T14:23:15.281Z"
+  },
+  "created": {
+    "$date": "2024-02-12T14:23:15.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cbd0c9f87f59c84cd3c436"
+  },
+  "name": "Human Nature",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-13T20:27:53.276Z"
+  },
+  "created": {
+    "$date": "2024-02-13T20:27:53.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cbd0c9f87f59c84cd3c439"
+  },
+  "name": "Pursuit of Redemption",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-13T20:27:53.283Z"
+  },
+  "created": {
+    "$date": "2024-02-13T20:27:53.283Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cbd0c9f87f59c84cd3c43c"
+  },
+  "name": "Guilt",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-13T20:27:53.290Z"
+  },
+  "created": {
+    "$date": "2024-02-13T20:27:53.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cbd0c9f87f59c84cd3c43f"
+  },
+  "name": "Despair",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-13T20:27:53.299Z"
+  },
+  "created": {
+    "$date": "2024-02-13T20:27:53.299Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cbd0c9f87f59c84cd3c442"
+  },
+  "name": "Psychological Complexity",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-13T20:27:53.307Z"
+  },
+  "created": {
+    "$date": "2024-02-13T20:27:53.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cbd0c9f87f59c84cd3c445"
+  },
+  "name": "Religious Faith",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-13T20:27:53.313Z"
+  },
+  "created": {
+    "$date": "2024-02-13T20:27:53.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cbd0c9f87f59c84cd3c448"
+  },
+  "name": "Poverty",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-13T20:27:53.320Z"
+  },
+  "created": {
+    "$date": "2024-02-13T20:27:53.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cd830bf87f59c84cd417de"
+  },
+  "name": "Parental Conflict",
+  "description": "Parental conflict refers to disagreements, arguments, or tension between parents or caregivers within a family. ",
+  "image": "1ece6827-10b0-4655-9a47-55e1a82f19dd-parenta",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-15T03:20:43.087Z"
+  },
+  "created": {
+    "$date": "2024-02-15T03:20:43.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cd8768f87f59c84cd457ca"
+  },
+  "name": "Emotional turmoil",
+  "description": "Emotional turmoil is a frightening experience, one that can leave you mentally and physically exhausted.",
+  "image": "2b5b2f0e-5f66-4db9-b033-9405e79bc216-emotion",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-15T03:39:20.797Z"
+  },
+  "created": {
+    "$date": "2024-02-15T03:39:20.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cd8768f87f59c84cd457cd"
+  },
+  "name": "Identity",
+  "description": "Identity is the qualities, beliefs, personality traits, appearance, and/or expressions that characterize a person or a group.",
+  "image": "ebce88bd-0b6b-4849-816f-7ac46f5dc391-indenti",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-15T04:04:37.057Z"
+  },
+  "created": {
+    "$date": "2024-02-15T03:39:20.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cd8768f87f59c84cd457d0"
+  },
+  "name": "Societal expections",
+  "description": "Societal expectations are shared rules of behavior that guide our interactions with others. These expectations influence our behavior in various domains, such as social roles, altruism, and aggression. ",
+  "image": "3fa30527-e9ea-4980-bab0-6d0878dfd105-societa",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-15T03:39:20.822Z"
+  },
+  "created": {
+    "$date": "2024-02-15T03:39:20.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ce9ffff87f59c84cd546eb"
+  },
+  "name": "Bond Between Human and Animals",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-15T23:36:31.042Z"
+  },
+  "created": {
+    "$date": "2024-02-15T23:36:31.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ce9ffff87f59c84cd546ee"
+  },
+  "name": "Primal Instincts",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-15T23:36:31.061Z"
+  },
+  "created": {
+    "$date": "2024-02-15T23:36:31.061Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ce9ffff87f59c84cd546f1"
+  },
+  "name": "Survival of the Fittest",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-15T23:36:31.068Z"
+  },
+  "created": {
+    "$date": "2024-02-15T23:36:31.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ce9ffff87f59c84cd546f4"
+  },
+  "name": "Civilization",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-15T23:36:31.074Z"
+  },
+  "created": {
+    "$date": "2024-02-15T23:36:31.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d35c75f87f59c84cd6e14c"
+  },
+  "name": "Self-Blame",
+  "description": "Self-blame is a cognitive process in which an individual attributes the occurrence of a stressful event to oneself.",
+  "image": "4f58e61b-877f-4464-9c15-75992e71f026-self bl",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T13:49:41.031Z"
+  },
+  "created": {
+    "$date": "2024-02-19T13:49:41.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d35c75f87f59c84cd6e14f"
+  },
+  "name": "Humility",
+  "description": "A modest or low view of one's own importance; humbleness.",
+  "image": "8d5e3c35-2086-4072-9aa7-ea1d6f6c6d93-humilit",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T13:49:41.058Z"
+  },
+  "created": {
+    "$date": "2024-02-19T13:49:41.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d35c75f87f59c84cd6e152"
+  },
+  "name": "Personal Responsibility",
+  "description": "Personal responsibility is a fundamental concept that emphasizes an individual’s duty to take ownership of their actions, decisions, and consequences. It involves recognizing that our choices impact ourselves, others, and the world around us. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T13:49:41.098Z"
+  },
+  "created": {
+    "$date": "2024-02-19T13:49:41.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d3638ef87f59c84cd72a77"
+  },
+  "name": "Remorse",
+  "description": "Remorse is a distressing emotion experienced by an individual who regrets actions which they have done in the past that they deem to be shameful, hurtful, or wrong. ",
+  "image": "c3aa699d-831e-4226-8271-3910dbd88a3e-remorse",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T14:19:58.384Z"
+  },
+  "created": {
+    "$date": "2024-02-19T14:19:58.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d37d1ef87f59c84cd808c3"
+  },
+  "name": "Survival",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T16:09:02.603Z"
+  },
+  "created": {
+    "$date": "2024-02-19T16:09:02.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d38bfdf87f59c84cd84ac7"
+  },
+  "name": "Second Chances",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T17:12:29.391Z"
+  },
+  "created": {
+    "$date": "2024-02-19T17:12:29.391Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d3be15f87f59c84cdb88c5"
+  },
+  "name": "Obsession",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T20:46:13.878Z"
+  },
+  "created": {
+    "$date": "2024-02-19T20:46:13.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d3be15f87f59c84cdb88c8"
+  },
+  "name": "Evil",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T20:46:13.895Z"
+  },
+  "created": {
+    "$date": "2024-02-19T20:46:13.895Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d3be15f87f59c84cdb88cb"
+  },
+  "name": "Man vs. Nature",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T20:46:13.901Z"
+  },
+  "created": {
+    "$date": "2024-02-19T20:46:13.901Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d3be15f87f59c84cdb88ce"
+  },
+  "name": "Idustrial impact of natural resources",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T20:46:13.909Z"
+  },
+  "created": {
+    "$date": "2024-02-19T20:46:13.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d3ccd0f87f59c84cdbbe37"
+  },
+  "name": "Identifying Emotions",
+  "description": "The ability to recognize and label one's own or others' feelings accurately. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T21:49:04.694Z"
+  },
+  "created": {
+    "$date": "2024-02-19T21:49:04.694Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d3dcdbf87f59c84cdc83a3"
+  },
+  "name": "Tranquility in Nature",
+  "description": "Tranquility in nature refers to the serene and peaceful atmosphere found in natural environments, such as forests, mountains, beaches, and meadows. It is characterized by the absence of human-made noise, distractions, and stresses, allowing individuals to experience a profound sense of calmness and harmony with the natural world.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T22:57:31.063Z"
+  },
+  "created": {
+    "$date": "2024-02-19T22:57:31.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d3dcdbf87f59c84cdc83a6"
+  },
+  "name": "Emotional Modulation",
+  "description": "Regulating the intensity and duration of emotional responses, such as calming oneself down when feeling overwhelmed or amplifying positive emotions when appropriate.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T22:57:31.071Z"
+  },
+  "created": {
+    "$date": "2024-02-19T22:57:31.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d3e8cff87f59c84cdd4f41"
+  },
+  "name": "Family ",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T23:48:31.221Z"
+  },
+  "created": {
+    "$date": "2024-02-19T23:48:31.221Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d4d381f87f59c84cddbdb5"
+  },
+  "name": "Good vs. Evil",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T16:29:53.900Z"
+  },
+  "created": {
+    "$date": "2024-02-20T16:29:53.900Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d4d381f87f59c84cddbdb8"
+  },
+  "name": "Selflessness",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T16:29:53.917Z"
+  },
+  "created": {
+    "$date": "2024-02-20T16:29:53.917Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d4d381f87f59c84cddbdbb"
+  },
+  "name": "Courage",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T16:29:53.925Z"
+  },
+  "created": {
+    "$date": "2024-02-20T16:29:53.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d4d381f87f59c84cddbdbe"
+  },
+  "name": "Renewal",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T16:29:53.932Z"
+  },
+  "created": {
+    "$date": "2024-02-20T16:29:53.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d4e2dff87f59c84cde052c"
+  },
+  "name": "Loss",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T17:35:27.395Z"
+  },
+  "created": {
+    "$date": "2024-02-20T17:35:27.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d4e2dff87f59c84cde052f"
+  },
+  "name": "Grief",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T17:35:27.404Z"
+  },
+  "created": {
+    "$date": "2024-02-20T17:35:27.404Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d4eecff87f59c84cde6583"
+  },
+  "name": "Inequality",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T18:26:23.135Z"
+  },
+  "created": {
+    "$date": "2024-02-20T18:26:23.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d4eecff87f59c84cde6586"
+  },
+  "name": "Sexuality",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T18:26:23.144Z"
+  },
+  "created": {
+    "$date": "2024-02-20T18:26:23.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d50637f87f59c84cdf0da9"
+  },
+  "name": "Skepticism",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T20:06:15.127Z"
+  },
+  "created": {
+    "$date": "2024-02-20T20:06:15.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d50637f87f59c84cdf0dac"
+  },
+  "name": "Oppression",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T20:06:15.538Z"
+  },
+  "created": {
+    "$date": "2024-02-20T20:06:15.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d511d5f87f59c84cdf7de8"
+  },
+  "name": "Secrets",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T20:55:49.831Z"
+  },
+  "created": {
+    "$date": "2024-02-20T20:55:49.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d511d5f87f59c84cdf7deb"
+  },
+  "name": "Desire",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T20:55:49.868Z"
+  },
+  "created": {
+    "$date": "2024-02-20T20:55:49.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d52704f87f59c84ce02a74"
+  },
+  "name": "Individualism",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T22:26:12.945Z"
+  },
+  "created": {
+    "$date": "2024-02-20T22:26:12.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d52705f87f59c84ce02a77"
+  },
+  "name": "Liberation",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T22:26:13.009Z"
+  },
+  "created": {
+    "$date": "2024-02-20T22:26:13.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d52705f87f59c84ce02a7a"
+  },
+  "name": "Patriarchy",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T22:26:13.087Z"
+  },
+  "created": {
+    "$date": "2024-02-20T22:26:13.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d53095f87f59c84ce0697c"
+  },
+  "name": "Totalitarianism",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T23:07:01.071Z"
+  },
+  "created": {
+    "$date": "2024-02-20T23:07:01.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d53095f87f59c84ce0697f"
+  },
+  "name": "Authoritarianism",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T23:07:01.104Z"
+  },
+  "created": {
+    "$date": "2024-02-20T23:07:01.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d53095f87f59c84ce06982"
+  },
+  "name": "Surveilllance",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T23:07:01.155Z"
+  },
+  "created": {
+    "$date": "2024-02-20T23:07:01.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d53095f87f59c84ce06985"
+  },
+  "name": "Propaganda and Manipulation of Truth",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T23:07:01.207Z"
+  },
+  "created": {
+    "$date": "2024-02-20T23:07:01.207Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d53095f87f59c84ce06988"
+  },
+  "name": "Thought Control",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T23:07:01.238Z"
+  },
+  "created": {
+    "$date": "2024-02-20T23:07:01.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d5f904f87f59c84ce0eeff"
+  },
+  "name": "Mortality",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T13:22:12.440Z"
+  },
+  "created": {
+    "$date": "2024-02-21T13:22:12.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d5f904f87f59c84ce0ef02"
+  },
+  "name": "Tradition vs. Modernity",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T13:22:12.448Z"
+  },
+  "created": {
+    "$date": "2024-02-21T13:22:12.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d602aff87f59c84ce19d13"
+  },
+  "name": "Solidarity",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T14:03:27.120Z"
+  },
+  "created": {
+    "$date": "2024-02-21T14:03:27.120Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d602aff87f59c84ce19d16"
+  },
+  "name": "Exploitation",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T14:03:27.372Z"
+  },
+  "created": {
+    "$date": "2024-02-21T14:03:27.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d602aff87f59c84ce19d19"
+  },
+  "name": "Injustice",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T14:03:27.466Z"
+  },
+  "created": {
+    "$date": "2024-02-21T14:03:27.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d65e68f87f59c84ce2047b"
+  },
+  "name": "Motherhood and Sacrifice",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T20:34:48.841Z"
+  },
+  "created": {
+    "$date": "2024-02-21T20:34:48.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d6637af87f59c84ce21fb6"
+  },
+  "name": "Learning",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T20:56:26.659Z"
+  },
+  "created": {
+    "$date": "2024-02-21T20:56:26.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d66770f87f59c84ce23485"
+  },
+  "name": "Diversity",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T21:13:20.151Z"
+  },
+  "created": {
+    "$date": "2024-02-21T21:13:20.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d66770f87f59c84ce23488"
+  },
+  "name": "Culinary cuisine",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T21:13:20.161Z"
+  },
+  "created": {
+    "$date": "2024-02-21T21:13:20.161Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d66c14f87f59c84ce24b9b"
+  },
+  "name": "Team Spirit",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T21:33:08.750Z"
+  },
+  "created": {
+    "$date": "2024-02-21T21:33:08.750Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d66c14f87f59c84ce24b9e"
+  },
+  "name": "Fandom",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T21:33:08.760Z"
+  },
+  "created": {
+    "$date": "2024-02-21T21:33:08.760Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d66c14f87f59c84ce24ba1"
+  },
+  "name": "Sports",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T21:33:08.767Z"
+  },
+  "created": {
+    "$date": "2024-02-21T21:33:08.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d66feff87f59c84ce25e2a"
+  },
+  "name": "Animal life",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T21:49:35.033Z"
+  },
+  "created": {
+    "$date": "2024-02-21T21:49:35.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d66feff87f59c84ce25e2d"
+  },
+  "name": "Adaptation",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T21:49:35.042Z"
+  },
+  "created": {
+    "$date": "2024-02-21T21:49:35.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d66feff87f59c84ce25e30"
+  },
+  "name": "Environmental Awareness",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T21:49:35.049Z"
+  },
+  "created": {
+    "$date": "2024-02-21T21:49:35.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d67582f87f59c84ce28a5b"
+  },
+  "name": "Thoughtfulness",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T22:13:22.858Z"
+  },
+  "created": {
+    "$date": "2024-02-21T22:13:22.858Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d6d123f87f59c84ce2ec4c"
+  },
+  "name": "Artistry",
+  "description": "Great skill in creating or performing something, such as in writing, music, sport, etc.",
+  "image": "9157f367-aabd-4354-b22a-a7f911626df5-artistr",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T04:44:19.827Z"
+  },
+  "created": {
+    "$date": "2024-02-22T04:44:19.827Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d6d123f87f59c84ce2ec4f"
+  },
+  "name": "Persona",
+  "description": "The aspect of someone's character that is presented to or perceived by others",
+  "image": "18d74061-c41b-4467-8320-608fdcfda105-persons",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T04:44:19.843Z"
+  },
+  "created": {
+    "$date": "2024-02-22T04:44:19.843Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d747e6f87f59c84ce36aa5"
+  },
+  "name": "Value of hard work",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T13:11:02.726Z"
+  },
+  "created": {
+    "$date": "2024-02-22T13:11:02.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d75749f87f59c84ce3be76"
+  },
+  "name": "Colonialism",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T14:16:41.320Z"
+  },
+  "created": {
+    "$date": "2024-02-22T14:16:41.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d75749f87f59c84ce3be79"
+  },
+  "name": "Immortality",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T14:16:41.342Z"
+  },
+  "created": {
+    "$date": "2024-02-22T14:16:41.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d75749f87f59c84ce3be7c"
+  },
+  "name": "Fear of death",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T14:16:41.377Z"
+  },
+  "created": {
+    "$date": "2024-02-22T14:16:41.377Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d763a7f87f59c84ce41459"
+  },
+  "name": "Ethics",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T15:09:27.929Z"
+  },
+  "created": {
+    "$date": "2024-02-22T15:09:27.929Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d7754bf87f59c84ce4f651"
+  },
+  "name": "Friendship and loyalty",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T16:24:43.123Z"
+  },
+  "created": {
+    "$date": "2024-02-22T16:24:43.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d781e7f87f59c84ce56cad"
+  },
+  "name": "Expectations",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T17:18:31.453Z"
+  },
+  "created": {
+    "$date": "2024-02-22T17:18:31.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d7a98ff87f59c84ce76d5a"
+  },
+  "name": "Obligation",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T20:07:43.367Z"
+  },
+  "created": {
+    "$date": "2024-02-22T20:07:43.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d7a98ff87f59c84ce76d5d"
+  },
+  "name": "Forbidden Love and Desire",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T20:07:43.384Z"
+  },
+  "created": {
+    "$date": "2024-02-22T20:07:43.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d7bf97f87f59c84ce8d313"
+  },
+  "name": "Imperialism",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T21:41:43.487Z"
+  },
+  "created": {
+    "$date": "2024-02-22T21:41:43.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d835b6f87f59c84ceaefde"
+  },
+  "name": "Conflict ",
+  "description": "A serious disagreement or argument, typically a protracted one:",
+  "image": "6e877aa3-7a8c-4438-9df1-d34486872c82-conflic",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T06:05:42.603Z"
+  },
+  "created": {
+    "$date": "2024-02-23T06:05:42.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d835b6f87f59c84ceaefe1"
+  },
+  "name": "Rebellion",
+  "description": "The action or process of resisting authority, control, or convention",
+  "image": "7a550c61-e4a2-4481-a782-3f4e93a6748b-rebelli",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T06:05:42.620Z"
+  },
+  "created": {
+    "$date": "2024-02-23T06:05:42.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d835b6f87f59c84ceaefe4"
+  },
+  "name": "Resistence",
+  "description": "The refusal to accept or comply with something; the attempt to prevent something by action or argument.",
+  "image": "3ef417d8-08f1-4dcb-a05b-a5cde55c65d1-resiste",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T06:05:42.627Z"
+  },
+  "created": {
+    "$date": "2024-02-23T06:05:42.627Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d835b6f87f59c84ceaefe7"
+  },
+  "name": "Empathy",
+  "description": "The ability to understand and share the feelings of another.",
+  "image": "002e7a09-7f83-4a79-8a0d-a1f2085ddbb2-Empathy",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T06:05:42.634Z"
+  },
+  "created": {
+    "$date": "2024-02-23T06:05:42.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d8b15bf87f59c84ceca276"
+  },
+  "name": "Politics",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T14:53:15.193Z"
+  },
+  "created": {
+    "$date": "2024-02-23T14:53:15.193Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d8b6ecf87f59c84cece007"
+  },
+  "name": "The Human Condition",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T15:17:00.884Z"
+  },
+  "created": {
+    "$date": "2024-02-23T15:17:00.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d8cd13f87f59c84cedd5e6"
+  },
+  "name": "Aesthetics",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T16:51:31.795Z"
+  },
+  "created": {
+    "$date": "2024-02-23T16:51:31.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d8d758f87f59c84cee94a7"
+  },
+  "name": "Authenticity",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T17:35:20.407Z"
+  },
+  "created": {
+    "$date": "2024-02-23T17:35:20.407Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d8d758f87f59c84cee94aa"
+  },
+  "name": "The Search for Meaning",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T17:35:20.416Z"
+  },
+  "created": {
+    "$date": "2024-02-23T17:35:20.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d8d758f87f59c84cee94ad"
+  },
+  "name": "Experience",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T17:35:20.422Z"
+  },
+  "created": {
+    "$date": "2024-02-23T17:35:20.422Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d8e116f87f59c84cef06a3"
+  },
+  "name": "Intellectual Growth",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T18:16:54.588Z"
+  },
+  "created": {
+    "$date": "2024-02-23T18:16:54.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d8e116f87f59c84cef06a6"
+  },
+  "name": "Personal Fulfillment",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T18:16:54.597Z"
+  },
+  "created": {
+    "$date": "2024-02-23T18:16:54.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d8f85af87f59c84cef54f7"
+  },
+  "name": "Romantic Entanglements",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T19:56:10.988Z"
+  },
+  "created": {
+    "$date": "2024-02-23T19:56:10.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dac6a0f87f59c84cf25a90"
+  },
+  "name": "Escape",
+  "description": "\nBreak free from confinement or control. ",
+  "image": "5c886005-b1c1-4de2-a817-7866d649c451-escape.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-25T04:48:32.079Z"
+  },
+  "created": {
+    "$date": "2024-02-25T04:48:32.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dac7ddf87f59c84cf268e9"
+  },
+  "name": "Loneliness",
+  "description": "Loneliness is an unpleasant emotional response to perceived isolation.",
+  "image": "f6a2731c-8a10-45a1-8a66-3fa9f2a85651-lonilne",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-25T04:53:49.538Z"
+  },
+  "created": {
+    "$date": "2024-02-25T04:53:49.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65db4782f87f59c84cf31711"
+  },
+  "name": "Success",
+  "description": "The attainment of fame, wealth, or social status",
+  "image": "6c307364-8110-40df-9cbc-4a52598b01e7-success",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-25T13:58:26.749Z"
+  },
+  "created": {
+    "$date": "2024-02-25T13:58:26.749Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65db514ff87f59c84cf38da8"
+  },
+  "name": "Yearning",
+  "description": "A feeling of intense longing for something.",
+  "image": "3443dccb-6204-48a6-b448-c6e32f92fc09-yearnin",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-25T14:40:15.532Z"
+  },
+  "created": {
+    "$date": "2024-02-25T14:40:15.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65db514ff87f59c84cf38dab"
+  },
+  "name": "Romantic Idealization",
+  "description": " This involves creating a fantasy image of our partner, believing they possess unique qualities that make them rare and exceptional. ",
+  "image": "6f18ba84-da67-4cc8-8289-a65c701c43a1-romanti",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-25T14:40:15.548Z"
+  },
+  "created": {
+    "$date": "2024-02-25T14:40:15.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65db514ff87f59c84cf38dae"
+  },
+  "name": "Sensory Imagery",
+  "description": "By sensory imagery, we mean descriptive language that engages the reader’s five senses: sight, taste, touch, sound, and smell.",
+  "image": "99129843-da24-4430-b6c9-dd9563180e09-sensory",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-25T14:40:15.555Z"
+  },
+  "created": {
+    "$date": "2024-02-25T14:40:15.555Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc0d89f87f59c84cf4cfbc"
+  },
+  "name": "Teenage Rebellion",
+  "description": "Teenage rebellion is an act of highest assertion of independence and little adherence to parental advice during the teen years of a child’s life. Teenage rebellion is a part of social development in adolescents in order for them to develop an identity independent from their parents or family and a capacity for independent decision-making.",
+  "image": "328cf293-f4ed-4797-9653-b4bfa3a077e7-Teen-Re",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-26T04:03:21.470Z"
+  },
+  "created": {
+    "$date": "2024-02-26T04:03:21.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc136df87f59c84cf50d88"
+  },
+  "name": "Anti-Establishment Sentiment",
+  "description": "An anti-establishment view or belief is one which stands in opposition to the conventional social, political, and economic principles of a society.",
+  "image": "035f9d6a-be61-40dc-baa7-780c2a9c80c5-Anti es",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-26T04:28:29.430Z"
+  },
+  "created": {
+    "$date": "2024-02-26T04:28:29.430Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc136df87f59c84cf50d8b"
+  },
+  "name": "Alienation",
+  "description": "The state or experience of being isolated from a group or an activity to which one should belong or in which one should be involved. ",
+  "image": "f819c1af-bf11-4f8b-ad84-031f17ed7b65-alienta",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-26T04:28:29.447Z"
+  },
+  "created": {
+    "$date": "2024-02-26T04:28:29.447Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc136df87f59c84cf50d8e"
+  },
+  "name": "Disconnection",
+  "description": "The state of being isolated or detached. ",
+  "image": "eb1732ee-1f58-4fda-babf-482c72085fbf-disconn",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-26T04:28:29.454Z"
+  },
+  "created": {
+    "$date": "2024-02-26T04:28:29.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc136df87f59c84cf50d91"
+  },
+  "name": "Generation X Identity",
+  "description": "Generation X, often shortened to Gen X, refers to the demographic cohort sandwiched between the Baby Boomers and Millennials. If you were born between the years of 1965 and 1980. ",
+  "image": "57cb57bb-6ffa-4e7d-b330-1f2ddd791c5a-gen x.j",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-26T04:28:29.462Z"
+  },
+  "created": {
+    "$date": "2024-02-26T04:28:29.462Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc136df87f59c84cf50d94"
+  },
+  "name": "Irony",
+  "description": "The expression of one's meaning by using language that normally signifies the opposite, typically for humorous or emphatic effect.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-26T04:28:29.468Z"
+  },
+  "created": {
+    "$date": "2024-02-26T04:28:29.468Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc136df87f59c84cf50d97"
+  },
+  "name": "Ambiguity",
+  "description": "Ambiguity is a word that describes a state of being unclear or having more than one possible meaning. ",
+  "image": "ce72ede9-8826-419f-bd0f-c4f9f0b2aec1-Ambigui",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-26T04:28:29.475Z"
+  },
+  "created": {
+    "$date": "2024-02-26T04:28:29.475Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dca80ef87f59c84cf5c1c6"
+  },
+  "name": "Frustration",
+  "description": "The feeling of being upset or annoyed, especially because of inability to change or achieve something.",
+  "image": "05da8680-59de-4eaf-9f61-4b31c8f785e1-frustra",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-26T15:02:38.184Z"
+  },
+  "created": {
+    "$date": "2024-02-26T15:02:38.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd70cef87f59c84cf6ee3d"
+  },
+  "name": "Loyalty",
+  "active": false,
+  "updated": {
+    "$date": "2024-02-27T05:19:25.177Z"
+  },
+  "created": {
+    "$date": "2024-02-27T05:19:10.683Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd72f6f87f59c84cf70cc1"
+  },
+  "name": "Support",
+  "description": "providing encouragement or emotional help:",
+  "image": "c86b45be-d314-45fc-9be8-d12f5f0d3927-support",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-27T05:28:22.721Z"
+  },
+  "created": {
+    "$date": "2024-02-27T05:28:22.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd73e6f87f59c84cf71bf6"
+  },
+  "name": "Loyalty",
+  "description": "A strong feeling of support or allegiance.",
+  "image": "51eb8c79-147c-470b-ad0f-b54c999ed3c9-loyalty",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-27T05:32:22.528Z"
+  },
+  "created": {
+    "$date": "2024-02-27T05:32:22.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e15abbf87f59c84cf79dfa"
+  },
+  "name": "Stability",
+  "description": "A situation in which something is not likely to move or change. ",
+  "image": "0adef48a-d960-4043-a8c9-dc916e3e3e88-stabili",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-01T04:34:03.050Z"
+  },
+  "created": {
+    "$date": "2024-03-01T04:34:03.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e33e59f87f59c84cf84f4d"
+  },
+  "name": "Admiration",
+  "description": "Respect and warm approval.",
+  "image": "2b66455b-8d63-4f06-9975-5e9c11c60b7d-admirat",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-02T14:57:29.288Z"
+  },
+  "created": {
+    "$date": "2024-03-02T14:57:29.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e33e59f87f59c84cf84f50"
+  },
+  "name": "Celebration of Romance",
+  "description": "Celebrating being in love. ",
+  "image": "121c1ff8-2e1b-449e-9f9c-0a54e55a679a-celebra",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-02T14:57:29.309Z"
+  },
+  "created": {
+    "$date": "2024-03-02T14:57:29.309Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e3405bf87f59c84cf8735a"
+  },
+  "name": "Gratitude ",
+  "description": "The quality of being thankful; readiness to show appreciation for and to return kindness.",
+  "image": "d108dcb6-7acb-4b0b-a49f-46a31e51f347-gratitu",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-02T15:06:03.130Z"
+  },
+  "created": {
+    "$date": "2024-03-02T15:06:03.130Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e3405bf87f59c84cf8735d"
+  },
+  "name": "Desire for Connection",
+  "description": "Wanting or desiring a connection with someone and to experience feeling close and connected to others. It involves feeling loved, cared for, and valued, and forms the basis of interpersonal relationships.",
+  "image": "1458a7f5-46ee-4e5f-9da0-8ab614d1373d-desire ",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-02T15:06:03.147Z"
+  },
+  "created": {
+    "$date": "2024-03-02T15:06:03.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e72c53f87f59c84cfa40e7"
+  },
+  "name": "Underdog Succeeds against all odds",
+  "description": "Underdog gets opportunity to be champion",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-05T14:29:39.031Z"
+  },
+  "created": {
+    "$date": "2024-03-05T14:29:39.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f11885a7947d5f1cb73e18"
+  },
+  "name": "Self Discovery",
+  "description": "the act or process of coming to recognize and understand one’s own assumptions, priorities, behavior, strengths and weaknesses, etc.",
+  "image": "c54a678b-82ed-4175-ba6e-5844dce88655-self di",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T03:07:49.562Z"
+  },
+  "created": {
+    "$date": "2024-03-13T03:07:49.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f11b2da7947d5f1cb751fe"
+  },
+  "name": "Self- reflection",
+  "description": "Self-reflection is the ability to witness and evaluate our own cognitive, emotional, and behavioral processes. ",
+  "image": "51af53a8-f73e-4a0b-a955-0d7d4af60a9b-self re",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T03:19:09.407Z"
+  },
+  "created": {
+    "$date": "2024-03-13T03:19:09.407Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f11b2da7947d5f1cb75201"
+  },
+  "name": "Third- Person Perspective ",
+  "description": "In third-person point of view, the author is narrating a story about the characters, referring to them by name, or using the third-person pronouns “he,” “she,” and “they.” The other points of view in writing are first person and second person.",
+  "image": "29a8242f-cbd3-42dc-be2e-a1dcfad64912-3rd par",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T03:19:09.425Z"
+  },
+  "created": {
+    "$date": "2024-03-13T03:19:09.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f11cb9a7947d5f1cb7636c"
+  },
+  "name": "Pressure to conform",
+  "description": "Pressure to conform is the feeling of being pushed to be something we're not or to agree with the majority position. It can come from different sources, such as peers, careers, group norms, or social roles. It can have positive or negative effects on social harmony, depending on the context and the degree of conformity",
+  "image": "8ab7390c-8079-4492-9a2e-cc280d7a56b0-pressur",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T03:25:45.670Z"
+  },
+  "created": {
+    "$date": "2024-03-13T03:25:45.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1209ba7947d5f1cb7882f"
+  },
+  "name": "Confusion",
+  "description": "Lack of understanding; uncertainty.",
+  "image": "841162ee-a5ee-4938-8cde-f4f777711a72-confuse",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T03:42:19.790Z"
+  },
+  "created": {
+    "$date": "2024-03-13T03:42:19.790Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1251ca7947d5f1cb7b2eb"
+  },
+  "name": "Seeking clarity",
+  "description": "When you seek clarity, you are asking for more information or explanation about a specific idea. To seek clarity is to try to get or reach a clear understanding of something.",
+  "image": "29f76da9-870d-40f3-b01b-cbc03a60b76f-seeking",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T04:01:32.789Z"
+  },
+  "created": {
+    "$date": "2024-03-13T04:01:32.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f229e9a7947d5f1cb98a04"
+  },
+  "name": "Cooperation ",
+  "description": "The act of working together with others towards a common goal or objective. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T22:34:17.754Z"
+  },
+  "created": {
+    "$date": "2024-03-13T22:34:17.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f229e9a7947d5f1cb98a07"
+  },
+  "name": "Flexibility",
+  "description": "The ability to adapt to changing circumstances, conditions, or requirements.",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T22:34:17.762Z"
+  },
+  "created": {
+    "$date": "2024-03-13T22:34:17.762Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f5a28fa7947d5f1cbf19e6"
+  },
+  "name": "Aspiration",
+  "description": "A hope or ambition of achieving something.",
+  "image": "1b5e5cea-7752-42e5-a266-d87923340184-aspirat",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-16T13:45:51.121Z"
+  },
+  "created": {
+    "$date": "2024-03-16T13:45:51.121Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f5a56ea7947d5f1cbf495b"
+  },
+  "name": "Struggle",
+  "description": "Make forceful or violent efforts to get free of restraint or constriction. ",
+  "image": "f13ad1fb-aeb5-45a0-933a-50a4eb8a372c-struggl",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-16T13:58:06.100Z"
+  },
+  "created": {
+    "$date": "2024-03-16T13:58:06.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f5a56ea7947d5f1cbf495e"
+  },
+  "name": "Disillusionment ",
+  "description": "A feeling of being disappointed and unhappy because of discovering the truth about something or someone that you liked or respected",
+  "image": "6f2e2be2-56cf-4977-ae0a-2bb3337b5ce2-Disilll",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-16T13:58:06.116Z"
+  },
+  "created": {
+    "$date": "2024-03-16T13:58:06.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f5a56ea7947d5f1cbf4961"
+  },
+  "name": "Ambitions",
+  "description": "A strong desire to do or to achieve something, typically requiring determination and hard work",
+  "image": "b4649fe5-3d8e-4eef-9a0f-69da67259710-Ambitio",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-16T13:58:06.122Z"
+  },
+  "created": {
+    "$date": "2024-03-16T13:58:06.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f9c46fa7947d5f1cc63d55"
+  },
+  "name": "Young love",
+  "description": " The love of two young people, embodying many elements such as innocence, naivety, secrecy, and intense overpowering emotions.\n\nThose involved may feel totally consumed in it, unable to think further than their love, or are subconciously \"blinded\" by it. They may believe it to be more than it is, simply because they cannot see beyond their affection for their lover (partner, chosen one etc).\n\nThis is a completely genuine and entirely possible emotion to feel for someone at a young age.",
+  "image": "e2dad31b-9ebc-44ab-98b2-284b379f6ff8-portrai",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-19T16:59:27.190Z"
+  },
+  "created": {
+    "$date": "2024-03-19T16:59:27.190Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f9c46fa7947d5f1cc63d58"
+  },
+  "name": "Fairy tale romance",
+  "description": "Fairy tale love is like something straight out of a storybook—a magical and enchanting kind of romance that captures our imaginations.",
+  "image": "4ca744bc-4274-471a-a674-5aa11ae0d944-fairyta",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-19T16:59:27.208Z"
+  },
+  "created": {
+    "$date": "2024-03-19T16:59:27.208Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5d1aa7947d5f1cc9113e"
+  },
+  "name": "Identity and Beonging",
+  "description": "Percy Jackson grapples with questions of identity as a demigod, struggling to find his place in both the mortal and immortal worlds. His journey involves coming to terms with his heritage and accepting his role as a hero.",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-21T16:15:22.686Z"
+  },
+  "created": {
+    "$date": "2024-03-21T16:15:22.686Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5d1aa7947d5f1cc91141"
+  },
+  "name": "Friendship and Loyalty",
+  "description": "Friendship is a central theme as Percy forms many bonds with characters like Annabeth and Grover. These friendships are tested as they face numerous challenges together, highlighting the importance of loyalty and support.",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-21T16:15:22.709Z"
+  },
+  "created": {
+    "$date": "2024-03-21T16:15:22.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5d1aa7947d5f1cc91144"
+  },
+  "name": "Family and Acceptance",
+  "description": "Family dynamics play a significant role, particularly Percy's relationship with his mother, Sally Jackson, and his absentee father, Poseidon. The story explores themes of acceptance and forgiveness within familial relationships.",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-21T16:15:22.717Z"
+  },
+  "created": {
+    "$date": "2024-03-21T16:15:22.717Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5d1aa7947d5f1cc91147"
+  },
+  "name": "Mythology and Legacy",
+  "description": "The series draws heavily from Greek mythology, exploring themes of destiny, prophecy, and the enduring legacy of ancient gods and heroes. Percy's quest reflects the timeless struggles and conflicts found in mythological narratives.",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-21T16:15:22.725Z"
+  },
+  "created": {
+    "$date": "2024-03-21T16:15:22.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5d1aa7947d5f1cc9114a"
+  },
+  "name": "Courage and Heroism",
+  "description": "Percy's journey is one of bravery and heroism as he confronts monsters, faces danger, and battles adversaries to fulfill his quest. The story emphasizes the importance of courage and selflessness in the face of adversity.",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-21T16:15:22.732Z"
+  },
+  "created": {
+    "$date": "2024-03-21T16:15:22.732Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5d1aa7947d5f1cc9114d"
+  },
+  "name": "Environmentalism",
+  "description": "While not as overt as some other themes, there are elements of environmentalism in the series, particularly in the portrayal of the natural world and its connection to the gods and their domains.",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-21T16:15:22.739Z"
+  },
+  "created": {
+    "$date": "2024-03-21T16:15:22.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6608606da7947d5f1ccd53fa"
+  },
+  "name": "Repurcussions",
+  "description": "An unintended consequence or effect that arises as a result of an action or event. It often implies a negative outcome or impact that follows from a particular decision or behavior. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-30T18:56:45.616Z"
+  },
+  "created": {
+    "$date": "2024-03-30T18:56:45.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660d773ba7947d5f1cd0779d"
+  },
+  "name": "Facism",
+  "description": "Super Earth is a totalitarian government and all the citizens are raised to be a cog in the machine that is the Super Earth and due to their patriotism, citizens are willing to give anything, including their lives for what they believe is liberty and democracy. Helldivers are essentially expendable soldiers who are dropped into horrendous warzones and are not expected to survive, but instead to just fulfill their mission.",
+  "active": true,
+  "updated": {
+    "$date": "2024-04-03T15:35:23.859Z"
+  },
+  "created": {
+    "$date": "2024-04-03T15:35:23.859Z"
+  },
+  "__v": 0
+}]

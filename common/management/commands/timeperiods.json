@@ -1,0 +1,1268 @@
+[{
+  "_id": {
+    "$oid": "650cf450376d0f27cd1a46c3"
+  },
+  "name": "2015 - 2017",
+  "description": "While the game never explicitly states it, it is implied that the events of the game take place in the modern day some time between 2015 and 2017.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-22T01:56:32.309Z"
+  },
+  "created": {
+    "$date": "2023-09-22T01:56:32.309Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651242b3376d0f27cd1a4c10"
+  },
+  "name": "Most of Human History",
+  "description": "This game spans human history from the Neolithic Era all the way into the Information Age and beyond.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-26T02:32:19.547Z"
+  },
+  "created": {
+    "$date": "2023-09-26T02:32:19.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512499c376d0f27cd1a4d33"
+  },
+  "name": "The Late 1800s",
+  "description": "While the setting is fantastical, the game is firmly set in its own fantastical world in the late 1800s, complete with gas lamps, horse drawn carriages, and Victorian fashions.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-26T03:01:48.706Z"
+  },
+  "created": {
+    "$date": "2023-09-26T03:01:48.706Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fc0f5a597c994ffe9ac0"
+  },
+  "name": "The 4th Era",
+  "description": "Eras in the Elder Scrolls universe signify periods of great change, be it societal or universal. The 4th Era began after the events of the Oblivion Crisis, in which the daedra lord, Mehrunes Dagon attempted to destroy Tamriel.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-29T16:32:15.417Z"
+  },
+  "created": {
+    "$date": "2023-09-29T16:32:15.417Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6517002c5a597c994ffe9b9e"
+  },
+  "name": "The 3rd Era",
+  "description": "Eras in the Elder Scrolls universe signify periods of great change, be it societal or universal. The 3rd Era was brought about when Emperor Tiber Septim, conqueror of all of Tamriel, personally declared the end of the second era once he had unified all of the continent for the first time.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-29T16:49:48.751Z"
+  },
+  "created": {
+    "$date": "2023-09-29T16:49:48.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651705545a597c994ffe9cd5"
+  },
+  "name": "The Far Future",
+  "description": "This game takes place in a time period many many years from the modern day.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-29T17:11:48.357Z"
+  },
+  "created": {
+    "$date": "2023-09-29T17:11:48.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651709765a597c994ffe9dba"
+  },
+  "name": "The Age of Fire",
+  "description": "Brought about after the Four Lords discovered and cultivated the First Flame, the age was begun when they rose up and destroyed all of the ancient dragons of the world. However, the fire is fading, and may plunge the world into an Age of Dark if not kindled once again.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-29T17:29:26.543Z"
+  },
+  "created": {
+    "$date": "2023-09-29T17:29:26.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65170fd55a597c994ffe9ec5"
+  },
+  "name": "Time of the Red",
+  "description": "Taking place in the year 2045, some time after the Fourth Corporate War, the Time of the Red refers to the current period of strife and societal stagnation in the dark future.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-29T17:56:37.706Z"
+  },
+  "created": {
+    "$date": "2023-09-29T17:56:37.706Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651719e45a597c994ffea0b9"
+  },
+  "name": "2330",
+  "description": "Set in the far future, Starfield takes place in the 24th century after Earth has been abandoned due to a catastrophic event. In that intervening time, humanity has spread out among the star systems in hope of a future.",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-29T18:39:32.300Z"
+  },
+  "created": {
+    "$date": "2023-09-29T18:39:32.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652035e4118e0600865b520a"
+  },
+  "name": "TEST TIME PERIOD - TO BE DELETED",
+  "active": false,
+  "updated": {
+    "$date": "2023-10-06T16:30:40.323Z"
+  },
+  "created": {
+    "$date": "2023-10-06T16:29:24.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6522f30c118e0600865b60b3"
+  },
+  "name": "Present day",
+  "description": "This story is relevant to today",
+  "active": true,
+  "updated": {
+    "$date": "2023-10-08T18:21:00.624Z"
+  },
+  "created": {
+    "$date": "2023-10-08T18:21:00.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e0c9"
+  },
+  "name": "Timeless",
+  "description": "Transcends any particular time period.",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:17:28.231Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.252Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e149"
+  },
+  "name": "Timeless",
+  "description": "Transcends any particular time period.",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T20:42:14.448Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d40e572ed8a4effc8a34"
+  },
+  "name": "Uspecified Futuristic Time",
+  "description": "The time period is not outright specified, but the setting is overtly futuristic.",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-17T02:46:38.981Z"
+  },
+  "created": {
+    "$date": "2023-11-17T02:46:38.981Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d5ba572ed8a4effc91b2"
+  },
+  "name": "1999",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-17T02:53:46.235Z"
+  },
+  "created": {
+    "$date": "2023-11-17T02:53:46.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d7c2572ed8a4effc9996"
+  },
+  "name": "Unspecified Modern Day",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-17T03:02:26.344Z"
+  },
+  "created": {
+    "$date": "2023-11-17T03:02:26.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e743572ed8a4effcb57f"
+  },
+  "name": "The Late 2000s",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-17T04:08:35.778Z"
+  },
+  "created": {
+    "$date": "2023-11-17T04:08:35.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556ef80572ed8a4effcba22"
+  },
+  "name": "The 1960s",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-17T04:43:44.706Z"
+  },
+  "created": {
+    "$date": "2023-11-17T04:43:44.706Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f8c60572ed8a4effde828"
+  },
+  "name": "test",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-23T17:32:10.310Z"
+  },
+  "created": {
+    "$date": "2023-11-23T17:31:12.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6562043c572ed8a4effe155a"
+  },
+  "name": "Early 20th century",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-25T14:27:08.978Z"
+  },
+  "created": {
+    "$date": "2023-11-25T14:27:08.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6562bcb9572ed8a4effe5365"
+  },
+  "name": "1950s",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-26T03:34:17.973Z"
+  },
+  "created": {
+    "$date": "2023-11-26T03:34:17.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fe24b3ab67d9e5f16421e"
+  },
+  "name": "Tonight",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T02:54:03.245Z"
+  },
+  "created": {
+    "$date": "2023-12-06T02:54:03.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658081be6447ae6cc6562340"
+  },
+  "name": "Unspecified Fantasy Time",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-18T17:30:38.192Z"
+  },
+  "created": {
+    "$date": "2023-12-18T17:30:38.192Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a7606447ae6cc656f2a8"
+  },
+  "name": "1920s",
+  "description": "The years from 1920 to 1929.",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-24T03:37:04.218Z"
+  },
+  "created": {
+    "$date": "2023-12-24T03:37:04.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658b12196447ae6cc6574c30"
+  },
+  "name": "1720's",
+  "description": "The years from 1920 to 1729",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-26T17:49:13.665Z"
+  },
+  "created": {
+    "$date": "2023-12-26T17:49:13.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6590d4e96447ae6cc6586d6c"
+  },
+  "name": "World War 2",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T02:41:45.915Z"
+  },
+  "created": {
+    "$date": "2023-12-31T02:41:45.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6590e7156447ae6cc6587b26"
+  },
+  "name": "2012",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T03:59:17.383Z"
+  },
+  "created": {
+    "$date": "2023-12-31T03:59:17.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6590e7156447ae6cc6587b29"
+  },
+  "name": "1191",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T03:59:17.387Z"
+  },
+  "created": {
+    "$date": "2023-12-31T03:59:17.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6590f18d6447ae6cc6589e42"
+  },
+  "name": "The 1970's",
+  "description": "The years between 1970 to 1979.",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T04:43:57.418Z"
+  },
+  "created": {
+    "$date": "2023-12-31T04:43:57.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6590f18d6447ae6cc6589e45"
+  },
+  "name": "2008",
+  "description": "The dates from January 1, 2008 to December 31, 2008. ",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T04:43:57.425Z"
+  },
+  "created": {
+    "$date": "2023-12-31T04:43:57.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6590f18d6447ae6cc6589e48"
+  },
+  "name": "The 1990's",
+  "description": "The years between 1990 to 1999",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T04:43:57.432Z"
+  },
+  "created": {
+    "$date": "2023-12-31T04:43:57.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6594d40e6447ae6cc65a5c4d"
+  },
+  "name": "1997",
+  "description": "The period of time from January 1, 1997 to December 31, 1997.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-03T03:27:10.158Z"
+  },
+  "created": {
+    "$date": "2024-01-03T03:27:10.158Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659b726f6447ae6cc65bef5b"
+  },
+  "name": "Tomorrow",
+  "description": "One day after today.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-08T03:56:31.448Z"
+  },
+  "created": {
+    "$date": "2024-01-08T03:56:31.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659b726f6447ae6cc65bef5e"
+  },
+  "name": "Yesterday",
+  "description": "On the day before today.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-08T03:56:31.468Z"
+  },
+  "created": {
+    "$date": "2024-01-08T03:56:31.468Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2cb6e557aed6fa8cc1c35"
+  },
+  "name": "Victorian",
+  "description": "Between 185-1914",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T17:42:06.226Z"
+  },
+  "created": {
+    "$date": "2024-01-13T17:42:06.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a4b6a4557aed6fa8cd124d"
+  },
+  "name": "Baroque era",
+  "description": " The early 17th century until the 1750s",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T04:37:56.596Z"
+  },
+  "created": {
+    "$date": "2024-01-15T04:37:56.596Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a550c2557aed6fa8cdd264"
+  },
+  "name": "Vietnam War era",
+  "description": "Vietnam War was a conflict between communist North Vietnam and its allies, and South Vietnam and its ally, the United States, from 1954-1975. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T15:35:30.702Z"
+  },
+  "created": {
+    "$date": "2024-01-15T15:35:30.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a57226557aed6fa8ceb0a8"
+  },
+  "name": "2005",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T17:57:58.642Z"
+  },
+  "created": {
+    "$date": "2024-01-15T17:57:58.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a59612557aed6fa8d0ce69"
+  },
+  "name": "Romanticism",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T20:31:14.015Z"
+  },
+  "created": {
+    "$date": "2024-01-15T20:31:14.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a59612557aed6fa8d0ce6c"
+  },
+  "name": "Enlightenment",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T20:31:14.034Z"
+  },
+  "created": {
+    "$date": "2024-01-15T20:31:14.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5a899557aed6fa8d13a95"
+  },
+  "name": "Renaissance",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T21:50:17.395Z"
+  },
+  "created": {
+    "$date": "2024-01-15T21:50:17.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5bb07557aed6fa8d17491"
+  },
+  "name": "Regency",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T23:08:55.751Z"
+  },
+  "created": {
+    "$date": "2024-01-15T23:08:55.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac02e6557aed6fa8d33150"
+  },
+  "name": "The Great Depression",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T17:29:10.312Z"
+  },
+  "created": {
+    "$date": "2024-01-20T17:29:10.312Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac02e6557aed6fa8d33153"
+  },
+  "name": "1930's",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T17:29:10.332Z"
+  },
+  "created": {
+    "$date": "2024-01-20T17:29:10.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac0d75557aed6fa8d35257"
+  },
+  "name": "Prohobition",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T18:14:13.429Z"
+  },
+  "created": {
+    "$date": "2024-01-20T18:14:13.429Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac0d75557aed6fa8d3525a"
+  },
+  "name": "Roaring Twenties",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T18:14:13.438Z"
+  },
+  "created": {
+    "$date": "2024-01-20T18:14:13.438Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac0d75557aed6fa8d3525d"
+  },
+  "name": "The Jazz Age",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T18:14:13.445Z"
+  },
+  "created": {
+    "$date": "2024-01-20T18:14:13.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac17e5557aed6fa8d38083"
+  },
+  "name": "Springtime",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T18:58:45.466Z"
+  },
+  "created": {
+    "$date": "2024-01-20T18:58:45.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac17e5557aed6fa8d38086"
+  },
+  "name": "Strawberry Picking Season",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T18:58:45.477Z"
+  },
+  "created": {
+    "$date": "2024-01-20T18:58:45.477Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac17e5557aed6fa8d38089"
+  },
+  "name": "May-July",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T18:58:45.485Z"
+  },
+  "created": {
+    "$date": "2024-01-20T18:58:45.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac2d08557aed6fa8d3bbcb"
+  },
+  "name": "1940's",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-20T20:28:56.294Z"
+  },
+  "created": {
+    "$date": "2024-01-20T20:28:56.294Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aefd79557aed6fa8d5ca72"
+  },
+  "name": "1820's",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-22T23:42:49.104Z"
+  },
+  "created": {
+    "$date": "2024-01-22T23:42:49.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aefd79557aed6fa8d5ca75"
+  },
+  "name": "Post-colonial",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-22T23:42:49.118Z"
+  },
+  "created": {
+    "$date": "2024-01-22T23:42:49.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b34926557aed6fa8d822f2"
+  },
+  "name": "Midnight",
+  "description": "Twelve o'clock at night:",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-26T05:54:46.271Z"
+  },
+  "created": {
+    "$date": "2024-01-26T05:54:46.271Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b34926557aed6fa8d822f5"
+  },
+  "name": "Dizzy",
+  "description": "Having or involving a sensation of spinning around and losing one's balance.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-26T05:54:46.290Z"
+  },
+  "created": {
+    "$date": "2024-01-26T05:54:46.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bff9f7f87f59c84cc99a77"
+  },
+  "name": "Early 1800's",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-04T20:56:23.876Z"
+  },
+  "created": {
+    "$date": "2024-02-04T20:56:23.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c073c2f87f59c84cca44c9"
+  },
+  "name": "In a minute",
+  "description": "In a very short time : soon. ",
+  "image": "91f1255d-a9bc-4fe9-881a-8b51be67e4d0-in a mi",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-05T05:36:02.145Z"
+  },
+  "created": {
+    "$date": "2024-02-05T05:36:02.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c14e2ff87f59c84ccaa20a"
+  },
+  "name": "Test",
+  "image": "fcd2cb84-5012-4a1b-ace7-b929237cec45-jellyfi",
+  "active": false,
+  "updated": {
+    "$date": "2024-02-05T21:08:21.069Z"
+  },
+  "created": {
+    "$date": "2024-02-05T21:07:59.635Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c3f9f3f87f59c84ccdf519"
+  },
+  "name": "2540 CE",
+  "description": "AF 632",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-07T21:45:23.546Z"
+  },
+  "created": {
+    "$date": "2024-02-07T21:45:23.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8cc72f87f59c84cd085c9"
+  },
+  "name": "The 1980's",
+  "description": "Period of time from January 1, 1980-December 31, 1989. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-11T13:32:34.619Z"
+  },
+  "created": {
+    "$date": "2024-02-11T13:32:34.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ce9eedf87f59c84cd52c86"
+  },
+  "name": "1890's",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-15T23:31:57.682Z"
+  },
+  "created": {
+    "$date": "2024-02-15T23:31:57.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ce9eedf87f59c84cd52c89"
+  },
+  "name": "The Klondike Gold Rush",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-15T23:31:57.696Z"
+  },
+  "created": {
+    "$date": "2024-02-15T23:31:57.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d37c34f87f59c84cd80235"
+  },
+  "name": "Distant future",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T16:05:08.880Z"
+  },
+  "created": {
+    "$date": "2024-02-19T16:05:08.880Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d4dc98f87f59c84cdddb25"
+  },
+  "name": "1910",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T17:08:40.660Z"
+  },
+  "created": {
+    "$date": "2024-02-20T17:08:40.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d4e2dff87f59c84cde0532"
+  },
+  "name": " Interwar",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T17:35:27.410Z"
+  },
+  "created": {
+    "$date": "2024-02-20T17:35:27.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d5046af87f59c84cdefd9e"
+  },
+  "name": "Time of Christ",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T19:58:34.849Z"
+  },
+  "created": {
+    "$date": "2024-02-20T19:58:34.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d511d5f87f59c84cdf7dee"
+  },
+  "name": "1900's",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T20:55:49.899Z"
+  },
+  "created": {
+    "$date": "2024-02-20T20:55:49.899Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d52fc8f87f59c84ce06060"
+  },
+  "name": "1984",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T23:03:36.764Z"
+  },
+  "created": {
+    "$date": "2024-02-20T23:03:36.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d52fc8f87f59c84ce06063"
+  },
+  "name": "Dystopiian Future",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T23:03:36.842Z"
+  },
+  "created": {
+    "$date": "2024-02-20T23:03:36.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d5f904f87f59c84ce0ef05"
+  },
+  "name": "1800's",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T13:22:12.455Z"
+  },
+  "created": {
+    "$date": "2024-02-21T13:22:12.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d5f904f87f59c84ce0ef08"
+  },
+  "name": "1830's",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T13:22:12.467Z"
+  },
+  "created": {
+    "$date": "2024-02-21T13:22:12.467Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d5f904f87f59c84ce0ef0b"
+  },
+  "name": "1840's",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T13:22:12.474Z"
+  },
+  "created": {
+    "$date": "2024-02-21T13:22:12.474Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d5f904f87f59c84ce0ef0e"
+  },
+  "name": "1850's",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T13:22:12.481Z"
+  },
+  "created": {
+    "$date": "2024-02-21T13:22:12.481Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d5f904f87f59c84ce0ef11"
+  },
+  "name": "1860's",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T13:22:12.488Z"
+  },
+  "created": {
+    "$date": "2024-02-21T13:22:12.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d5f904f87f59c84ce0ef14"
+  },
+  "name": "1870's",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T13:22:12.494Z"
+  },
+  "created": {
+    "$date": "2024-02-21T13:22:12.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d65e68f87f59c84ce2047e"
+  },
+  "name": "1873",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T20:34:48.856Z"
+  },
+  "created": {
+    "$date": "2024-02-21T20:34:48.856Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d65e68f87f59c84ce20481"
+  },
+  "name": "Pre Civil War",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-21T20:34:48.871Z"
+  },
+  "created": {
+    "$date": "2024-02-21T20:34:48.871Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d7c556f87f59c84ce91a64"
+  },
+  "name": "Unspecified Age of Dinosaurs",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-22T22:06:14.006Z"
+  },
+  "created": {
+    "$date": "2024-02-22T22:06:14.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d8b6ecf87f59c84cece00a"
+  },
+  "name": "12th century BCE",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T15:17:00.893Z"
+  },
+  "created": {
+    "$date": "2024-02-23T15:17:00.893Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d8b6ecf87f59c84cece00d"
+  },
+  "name": "13th century BCE",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T15:17:00.902Z"
+  },
+  "created": {
+    "$date": "2024-02-23T15:17:00.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d91562f87f59c84cf0f250"
+  },
+  "name": "The Bourbon Restoration",
+  "description": "1815-1830",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T22:00:02.651Z"
+  },
+  "created": {
+    "$date": "2024-02-23T22:00:02.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d91562f87f59c84cf0f253"
+  },
+  "name": "The July Monarchy",
+  "description": "1830-1848",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T22:00:02.663Z"
+  },
+  "created": {
+    "$date": "2024-02-23T22:00:02.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d970e3f87f59c84cf12923"
+  },
+  "name": "1916",
+  "description": "Period of time from January 1, 2016 to December 31, 2016.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-24T04:30:27.150Z"
+  },
+  "created": {
+    "$date": "2024-02-24T04:30:27.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e54daaf87f59c84cf9760e"
+  },
+  "name": "Timeless ",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-04T04:27:22.676Z"
+  },
+  "created": {
+    "$date": "2024-03-04T04:27:22.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e5db2ff87f59c84cf9f0b9"
+  },
+  "name": "The 1970-1973",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-04T14:31:11.676Z"
+  },
+  "created": {
+    "$date": "2024-03-04T14:31:11.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e72c53f87f59c84cfa40ea"
+  },
+  "name": "1976",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-05T14:29:39.120Z"
+  },
+  "created": {
+    "$date": "2024-03-05T14:29:39.120Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ef675ba7947d5f1cb2041b"
+  },
+  "name": "1950's to 1980's",
+  "description": "The film takes place from when Forrest was a young boy (1950's) until the birth of his own son in the early 1980's.",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-11T20:19:39.668Z"
+  },
+  "created": {
+    "$date": "2024-03-11T20:19:39.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efac01a7947d5f1cb34010"
+  },
+  "name": "A Long Time Ago In a Galaxy Far, Far Away",
+  "image": "ebc08804-92b3-44ed-a641-292a5973b1c7-long ti",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-12T01:12:33.940Z"
+  },
+  "created": {
+    "$date": "2024-03-12T01:12:33.940Z"
+  },
+  "__v": 0
+}]

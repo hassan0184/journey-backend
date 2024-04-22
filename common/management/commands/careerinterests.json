@@ -1,0 +1,2398 @@
+[{
+  "_id": {
+    "$oid": "64fdf1d4376d0f27cd1a3852"
+  },
+  "name": "Game Design",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-10T16:41:56.325Z"
+  },
+  "created": {
+    "$date": "2023-09-10T16:41:56.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650e4a8c376d0f27cd1a47eb"
+  },
+  "name": "Creative Writing",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-23T02:16:44.795Z"
+  },
+  "created": {
+    "$date": "2023-09-23T02:16:44.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65122834376d0f27cd1a48d4"
+  },
+  "name": "Comic Collection",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-26T00:39:16.937Z"
+  },
+  "created": {
+    "$date": "2023-09-26T00:39:16.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651230ea376d0f27cd1a4a0f"
+  },
+  "name": "Mythological Studies",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-26T01:16:26.208Z"
+  },
+  "created": {
+    "$date": "2023-09-26T01:16:26.208Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65123cb1376d0f27cd1a4b11"
+  },
+  "name": "Animation",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-26T02:06:41.187Z"
+  },
+  "created": {
+    "$date": "2023-09-26T02:06:41.187Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651242b3376d0f27cd1a4c17"
+  },
+  "name": "History",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-26T02:32:19.573Z"
+  },
+  "created": {
+    "$date": "2023-09-26T02:32:19.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651242b3376d0f27cd1a4c19"
+  },
+  "name": "Architecture",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-26T02:32:19.581Z"
+  },
+  "created": {
+    "$date": "2023-09-26T02:32:19.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651242b3376d0f27cd1a4c1b"
+  },
+  "name": "Politics",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-26T02:32:19.585Z"
+  },
+  "created": {
+    "$date": "2023-09-26T02:32:19.585Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651242b3376d0f27cd1a4c1d"
+  },
+  "name": "City Planning",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-26T02:32:19.590Z"
+  },
+  "created": {
+    "$date": "2023-09-26T02:32:19.590Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651246a9376d0f27cd1a4cc4"
+  },
+  "name": "Animation History",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-26T02:49:13.379Z"
+  },
+  "created": {
+    "$date": "2023-09-26T02:49:13.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651246a9376d0f27cd1a4cc6"
+  },
+  "name": "Artistry",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-26T02:49:13.385Z"
+  },
+  "created": {
+    "$date": "2023-09-26T02:49:13.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516f80c5a597c994ffe9a1d"
+  },
+  "name": "Skateboarding",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-29T16:15:08.140Z"
+  },
+  "created": {
+    "$date": "2023-09-29T16:15:08.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fc0f5a597c994ffe9ac7"
+  },
+  "name": "Archaeology",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-29T16:32:15.448Z"
+  },
+  "created": {
+    "$date": "2023-09-29T16:32:15.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651705545a597c994ffe9cd9"
+  },
+  "name": "Anthropology",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-29T17:11:48.374Z"
+  },
+  "created": {
+    "$date": "2023-09-29T17:11:48.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651719e45a597c994ffea0c3"
+  },
+  "name": "Astronomy",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-29T18:39:32.332Z"
+  },
+  "created": {
+    "$date": "2023-09-29T18:39:32.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652484bc118e0600865b9bff"
+  },
+  "name": "TEST - REMOVE",
+  "description": "TEST",
+  "image": "7db5d5f0-972e-4534-8469-a97bcab8700e-S-FO10.",
+  "active": false,
+  "updated": {
+    "$date": "2023-10-09T22:55:07.501Z"
+  },
+  "created": {
+    "$date": "2023-10-09T22:54:52.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784ab20"
+  },
+  "name": "Physician",
+  "description": "Physicians and surgeons diagnose and treat injuries or illnesses and address health maintenance.",
+  "image": "51fe5a9a-2f1d-413c-8972-c6ab02f4285d-Doctor.",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:13:11.692Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aa82"
+  },
+  "name": "Physician",
+  "description": "Physicians and surgeons diagnose and treat injuries or illnesses and address health maintenance.",
+  "image": "51fe5a9a-2f1d-413c-8972-c6ab02f4285d-Doctor.",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-11T20:14:55.655Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784ab1c"
+  },
+  "name": "Marine Biologist",
+  "description": "Study animals, those both in captivity and in the wild, and how they interact with their ecosystems.",
+  "image": "5a1214af-f9f3-4fbe-884c-22d3e9d83256-Marine ",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:12:48.152Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.848Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784ab1e"
+  },
+  "name": "Musician",
+  "description": "Musicians and singers play instruments or sing for live audiences and in recording studios. They often perform in settings such as concert halls, churches, and clubs. ",
+  "image": "5983dd1c-6797-4b4d-be5d-444855e6cf6b-Musicia",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:12:55.312Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aa7e"
+  },
+  "name": "Marine Biologist",
+  "description": "Study animals, those both in captivity and in the wild, and how they interact with their ecosystems.",
+  "image": "5a1214af-f9f3-4fbe-884c-22d3e9d83256-Marine ",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-11T20:14:55.650Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654fe0bfa2461fb08784aa80"
+  },
+  "name": "Musician",
+  "description": "Musicians and singers play instruments or sing for live audiences and in recording studios. They often perform in settings such as concert halls, churches, and clubs. ",
+  "image": "5983dd1c-6797-4b4d-be5d-444855e6cf6b-Musicia",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-11T20:14:55.653Z"
+  },
+  "created": {
+    "$date": "2023-11-11T20:14:55.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65505ed1a2461fb08784c754"
+  },
+  "name": "Firefighter",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T05:12:49.703Z"
+  },
+  "created": {
+    "$date": "2023-11-12T05:12:49.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e17d"
+  },
+  "name": "Illustrator",
+  "description": "Illustrators create pictures for books, magazines, and other publications.",
+  "image": "89a6c095-625f-466a-9e28-3d4c7dfffaeb-Illustr",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:13:17.293Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655138a6a2461fb08784e0fd"
+  },
+  "name": "Illustrator",
+  "description": "Illustrators create pictures for books, magazines, and other publications.",
+  "image": "89a6c095-625f-466a-9e28-3d4c7dfffaeb-Illustr",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T20:42:14.329Z"
+  },
+  "created": {
+    "$date": "2023-11-12T20:42:14.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65514f5ba2461fb08784e9af"
+  },
+  "name": "Author",
+  "description": "Writers and authors develop written content for various types of media.",
+  "image": "4c955615-d6be-413b-8e61-2b5c906015ac-Author.",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-12T22:19:07.435Z"
+  },
+  "created": {
+    "$date": "2023-11-12T22:19:07.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65514f5ba2461fb08784ea48"
+  },
+  "name": "Author",
+  "description": "Writers and authors develop written content for various types of media.",
+  "image": "4c955615-d6be-413b-8e61-2b5c906015ac-Author.",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-13T18:13:22.858Z"
+  },
+  "created": {
+    "$date": "2023-11-12T22:19:07.635Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f8e6e572ed8a4effdf86f"
+  },
+  "name": "tesst",
+  "image": "9738bede-0dd9-4aa7-ab3a-fd7727f8bd7d-polyphi",
+  "active": false,
+  "updated": {
+    "$date": "2023-11-23T17:40:20.682Z"
+  },
+  "created": {
+    "$date": "2023-11-23T17:39:58.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6562b4f9572ed8a4effe46e7"
+  },
+  "name": "Life coach",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-26T03:01:13.339Z"
+  },
+  "created": {
+    "$date": "2023-11-26T03:01:13.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6562c15d572ed8a4effe5d66"
+  },
+  "name": "Matchmaker",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-26T03:54:05.889Z"
+  },
+  "created": {
+    "$date": "2023-11-26T03:54:05.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6562c15d572ed8a4effe5d68"
+  },
+  "name": "Relationship coach",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-26T03:54:05.905Z"
+  },
+  "created": {
+    "$date": "2023-11-26T03:54:05.905Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6562c15d572ed8a4effe5d6a"
+  },
+  "name": "Romance writer",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-26T03:54:05.910Z"
+  },
+  "created": {
+    "$date": "2023-11-26T03:54:05.910Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65641928572ed8a4effe7a43"
+  },
+  "name": "Athlete",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-27T04:20:56.969Z"
+  },
+  "created": {
+    "$date": "2023-11-27T04:20:56.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65641ef5572ed8a4effe902d"
+  },
+  "name": "Dance Choreographer",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-27T04:45:41.080Z"
+  },
+  "created": {
+    "$date": "2023-11-27T04:45:41.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566bddf572ed8a4ef024da6"
+  },
+  "name": "Social Activist",
+  "active": true,
+  "updated": {
+    "$date": "2023-11-29T04:28:15.268Z"
+  },
+  "created": {
+    "$date": "2023-11-29T04:28:15.268Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566bddf572ed8a4ef024da8"
+  },
+  "name": "Attorney",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-24T03:38:30.152Z"
+  },
+  "created": {
+    "$date": "2023-11-29T04:28:15.283Z"
+  },
+  "__v": 0,
+  "description": "One who is legally appointed to transact business on another's behalf."
+},
+{
+  "_id": {
+    "$oid": "6566d01a572ed8a4ef0261c5"
+  },
+  "name": "Romance novalist",
+  "active": false,
+  "updated": {
+    "$date": "2023-12-29T05:49:26.521Z"
+  },
+  "created": {
+    "$date": "2023-11-29T05:46:02.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fe8ec3ab67d9e5f164d99"
+  },
+  "name": "Executive Assistant",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T03:22:20.290Z"
+  },
+  "created": {
+    "$date": "2023-12-06T03:22:20.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fe8ec3ab67d9e5f164d9b"
+  },
+  "name": "Lawyer",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T03:22:20.300Z"
+  },
+  "created": {
+    "$date": "2023-12-06T03:22:20.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fe8ec3ab67d9e5f164d9d"
+  },
+  "name": "Personal Assistant",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-08T06:34:29.545Z"
+  },
+  "created": {
+    "$date": "2023-12-06T03:22:20.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fe8ec3ab67d9e5f164d9f"
+  },
+  "name": "Psychologist",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T03:22:20.310Z"
+  },
+  "created": {
+    "$date": "2023-12-06T03:22:20.310Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fe8ec3ab67d9e5f164da1"
+  },
+  "name": "Doctor",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T03:22:20.315Z"
+  },
+  "created": {
+    "$date": "2023-12-06T03:22:20.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fedaa3ab67d9e5f165a7d"
+  },
+  "name": "Entrepreneur",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T03:42:34.153Z"
+  },
+  "created": {
+    "$date": "2023-12-06T03:42:34.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fedaa3ab67d9e5f165a7f"
+  },
+  "name": "President",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T03:42:34.160Z"
+  },
+  "created": {
+    "$date": "2023-12-06T03:42:34.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ff0733ab67d9e5f165f6a"
+  },
+  "name": "Mental Health counselor",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T03:54:27.680Z"
+  },
+  "created": {
+    "$date": "2023-12-06T03:54:27.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ff0733ab67d9e5f165f6c"
+  },
+  "name": "Caseworker",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T03:54:27.685Z"
+  },
+  "created": {
+    "$date": "2023-12-06T03:54:27.685Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ff0733ab67d9e5f165f6e"
+  },
+  "name": "Therapist",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T03:54:27.689Z"
+  },
+  "created": {
+    "$date": "2023-12-06T03:54:27.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ff0733ab67d9e5f165f70"
+  },
+  "name": "Phychologist",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T03:54:27.694Z"
+  },
+  "created": {
+    "$date": "2023-12-06T03:54:27.694Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ff0733ab67d9e5f165f72"
+  },
+  "name": "Counselor",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T03:54:27.699Z"
+  },
+  "created": {
+    "$date": "2023-12-06T03:54:27.699Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ff0733ab67d9e5f165f74"
+  },
+  "name": "Nurse",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T03:54:27.704Z"
+  },
+  "created": {
+    "$date": "2023-12-06T03:54:27.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ff3163ab67d9e5f1663d7"
+  },
+  "name": "Teacher",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T04:05:42.062Z"
+  },
+  "created": {
+    "$date": "2023-12-06T04:05:42.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ff3163ab67d9e5f1663d9"
+  },
+  "name": "Hockey Player",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T04:05:42.074Z"
+  },
+  "created": {
+    "$date": "2023-12-06T04:05:42.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ff3163ab67d9e5f1663db"
+  },
+  "name": "Figure Skater",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T04:05:42.080Z"
+  },
+  "created": {
+    "$date": "2023-12-06T04:05:42.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ff3163ab67d9e5f1663dd"
+  },
+  "name": "Rock star",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T04:05:42.086Z"
+  },
+  "created": {
+    "$date": "2023-12-06T04:05:42.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ff3163ab67d9e5f1663df"
+  },
+  "name": "Swimmer",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T04:05:42.091Z"
+  },
+  "created": {
+    "$date": "2023-12-06T04:05:42.091Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ff3163ab67d9e5f1663e1"
+  },
+  "name": "Swim instructor",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T04:05:42.097Z"
+  },
+  "created": {
+    "$date": "2023-12-06T04:05:42.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ff3163ab67d9e5f1663e3"
+  },
+  "name": "Performer",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-06T04:05:42.102Z"
+  },
+  "created": {
+    "$date": "2023-12-06T04:05:42.102Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572ac2e3ab67d9e5f17676d"
+  },
+  "name": "Baseball Player",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-08T05:39:58.620Z"
+  },
+  "created": {
+    "$date": "2023-12-08T05:39:58.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572ac2e3ab67d9e5f17676f"
+  },
+  "name": "Massage Therapist ",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-08T05:39:58.632Z"
+  },
+  "created": {
+    "$date": "2023-12-08T05:39:58.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572ae093ab67d9e5f176bd0"
+  },
+  "name": "Recruiter",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-08T05:47:53.723Z"
+  },
+  "created": {
+    "$date": "2023-12-08T05:47:53.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657402bd3ab67d9e5f17c4d8"
+  },
+  "name": "Actor",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-09T06:01:33.603Z"
+  },
+  "created": {
+    "$date": "2023-12-09T06:01:33.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d4a0b6447ae6cc65611d4"
+  },
+  "name": "Horticulture",
+  "description": "The study and keeping of plants.",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-16T06:56:11.764Z"
+  },
+  "created": {
+    "$date": "2023-12-16T06:56:11.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658077d26447ae6cc6561d72"
+  },
+  "name": "Engineering",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-18T16:48:18.178Z"
+  },
+  "created": {
+    "$date": "2023-12-18T16:48:18.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658077d26447ae6cc6561d70"
+  },
+  "name": "Car Design",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-18T16:48:18.175Z"
+  },
+  "created": {
+    "$date": "2023-12-18T16:48:18.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a7606447ae6cc656f2c6"
+  },
+  "name": "Police Officer",
+  "description": "Members of the department of government concerned primarily with maintenance of public order, safety, and health and enforcement of laws and possessing executive, judicial, and legislative powers",
+  "image": "2ed4e1fd-400c-4382-840d-168a72c85802-Police ",
+  "active": false,
+  "updated": {
+    "$date": "2023-12-27T05:54:01.815Z"
+  },
+  "created": {
+    "$date": "2023-12-24T03:37:04.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658bbc5a6447ae6cc6577702"
+  },
+  "name": "Police Officer",
+  "description": "\t\nMembers of the department of government concerned primarily with maintenance of public order, safety, and health and enforcement of laws and possessing executive, judicial, and legislative powers",
+  "image": "012c4b09-106c-435a-b5aa-5fdefa8ecf92-police.",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-27T05:55:38.262Z"
+  },
+  "created": {
+    "$date": "2023-12-27T05:55:38.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658e5ded6447ae6cc657f876"
+  },
+  "name": "Romance novalist",
+  "description": "\nA romance novelist is an author who specializes in writing novels primarily focused on romantic relationships between characters.",
+  "image": "6cdc3b1c-1692-4b3e-af89-6daa8b17ac57-book wi",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-29T05:49:33.319Z"
+  },
+  "created": {
+    "$date": "2023-12-29T05:49:33.319Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6590cacf6447ae6cc6585f36"
+  },
+  "name": "Physicist",
+  "image": "da91270d-91f3-4d82-8412-1ae33ea12acb-image_2",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T01:58:39.110Z"
+  },
+  "created": {
+    "$date": "2023-12-31T01:58:39.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6590d0636447ae6cc65865f8"
+  },
+  "name": "Game Designer",
+  "image": "26f9654a-623e-4ace-9146-937fa82ae4e8-image_2",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T02:22:27.838Z"
+  },
+  "created": {
+    "$date": "2023-12-31T02:22:27.838Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6590d0636447ae6cc65865fa"
+  },
+  "name": "Creative Writer",
+  "image": "e3180c46-725f-4761-baa0-0a94f8f0fb57-image_2",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T02:22:27.841Z"
+  },
+  "created": {
+    "$date": "2023-12-31T02:22:27.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6590e7156447ae6cc6587b35"
+  },
+  "name": "Philosophy",
+  "image": "7c837ec2-5368-4499-a1d1-3d0387b8f8d1-image_2",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T03:59:17.406Z"
+  },
+  "created": {
+    "$date": "2023-12-31T03:59:17.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659106206447ae6cc658d0a2"
+  },
+  "name": "Personal Trainer",
+  "description": "A personal trainer is an expert in physical fitness and exercise. They combine that expertise with interpersonal and motivational skills to lead individuals and groups through exercise routines, while educating them on the most safe and effective ways to achieve and maintain personal fitness.",
+  "image": "2160bf8d-f730-4cd7-bd12-04318912c3f8-Persona",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T06:11:44.004Z"
+  },
+  "created": {
+    "$date": "2023-12-31T06:11:44.004Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659106206447ae6cc658d0a4"
+  },
+  "name": "Physical Therapist ",
+  "description": "A person qualified to treat disease, injury, or deformity by physical methods such as massage, heat treatment, and exercise rather than by drugs or surgery.",
+  "image": "ae629d8d-0f67-4c72-9b33-1c0d122a5837-PT.jpg",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T06:11:44.019Z"
+  },
+  "created": {
+    "$date": "2023-12-31T06:11:44.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65923d696447ae6cc659da6f"
+  },
+  "name": "Songwriter",
+  "description": "A person who writes popular songs or the music for them.",
+  "image": "3e3c47b9-57f9-4607-b614-cba37b8a0135-writing",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-01T04:19:53.180Z"
+  },
+  "created": {
+    "$date": "2024-01-01T04:19:53.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6594d40e6447ae6cc65a5c59"
+  },
+  "name": "Yoga Instructor",
+  "description": "A yoga instructor is a trained fitness professional who specializes in yoga practice.",
+  "image": "7eb445de-e37c-419d-821b-f8964d0a55cd-yoga.jp",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-03T03:27:10.200Z"
+  },
+  "created": {
+    "$date": "2024-01-03T03:27:10.200Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6598dae96447ae6cc65af94c"
+  },
+  "name": "Bus Driver",
+  "description": "A bus driver, bus operator, or bus captain is a person who drives buses for a living. ",
+  "image": "72306b03-df08-4227-938b-4b7fc4f85b1d-bus dri",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-06T04:45:29.004Z"
+  },
+  "created": {
+    "$date": "2024-01-06T04:45:29.004Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6598dae96447ae6cc65af94e"
+  },
+  "name": "Party Planner",
+  "description": "Someone whose job is to organize parties and social events for other people.",
+  "image": "f2019d23-bc1d-4c5e-ad72-3646f975b63e-event-p",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-06T04:45:29.012Z"
+  },
+  "created": {
+    "$date": "2024-01-06T04:45:29.012Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659990da6447ae6cc65b7620"
+  },
+  "name": "Jeweler ",
+  "description": "A jeweler is someone whose job involves making or selling necklaces, bracelets, and earrings.",
+  "image": "2ddb61c7-9fb7-47ef-83a9-c1daa454d242-jewelle",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-06T17:41:46.469Z"
+  },
+  "created": {
+    "$date": "2024-01-06T17:41:46.469Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659b8d3a6447ae6cc65c4d69"
+  },
+  "name": "Music Composition",
+  "image": "19950be7-2eaf-4199-9961-69bbc2922ea1-image_2",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-08T05:50:50.744Z"
+  },
+  "created": {
+    "$date": "2024-01-08T05:50:50.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659c03596447ae6cc65cf7b5"
+  },
+  "name": "Florist",
+  "description": "A person who sells or grows for sale flowers and ornamental plants.",
+  "image": "f3169af1-eacb-452c-9ddd-529adbeb2a80-Florist",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-08T14:14:49.761Z"
+  },
+  "created": {
+    "$date": "2024-01-08T14:14:49.761Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a1f389557aed6fa8cbdf90"
+  },
+  "name": "Artist ",
+  "description": "An artist is a person who creates art (such as painting, sculpture, music, or writing) using conscious skill and creative imagination. ",
+  "image": "ac1ee554-2632-4afb-883b-daa057f2a667-artist.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T02:20:57.519Z"
+  },
+  "created": {
+    "$date": "2024-01-13T02:20:57.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a1f389557aed6fa8cbdf92"
+  },
+  "name": " Esthetician",
+  "description": "An esthetician (also known as an aesthetician) is a state-licensed skin care professional who has been trained through apprenticeships or formal esthetics programs to perform treatments that promote skin health and beauty.",
+  "image": "46657f14-c67f-44f8-a984-f62cde0b67f6-estheti",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T02:20:57.530Z"
+  },
+  "created": {
+    "$date": "2024-01-13T02:20:57.530Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2cb6e557aed6fa8cc1cb4"
+  },
+  "name": "Chef",
+  "description": "Chefs and head cooks oversee the daily food preparation at restaurants and other places where food is served.",
+  "image": "d6b87aab-df57-4b21-8d15-ef433c072512-Chef.jp",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T17:42:06.394Z"
+  },
+  "created": {
+    "$date": "2024-01-13T17:42:06.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2cb6e557aed6fa8cc1cb6"
+  },
+  "name": "Magistrate",
+  "description": "Magistrates preside over civil and criminal court cases.",
+  "image": "67a29bec-9aa8-40cf-85e0-a953f5fb63e8-Magistr",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T17:42:06.397Z"
+  },
+  "created": {
+    "$date": "2024-01-13T17:42:06.397Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2d77c557aed6fa8cc1ed5"
+  },
+  "name": "Detective",
+  "description": "A detective's job is to identify, gather, and analyze evidence and facts surrounding various crimes… whether it’s a murder, kidnapping, arson or theft!",
+  "image": "9553db5e-8158-4db8-9127-b1eee727b481-Detecti",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T18:33:32.192Z"
+  },
+  "created": {
+    "$date": "2024-01-13T18:33:32.192Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a2ffd1557aed6fa8cc99f2"
+  },
+  "name": "Farmer",
+  "description": "A Farmer is an agricultural professional responsible for managing and overseeing various aspects of farm operations. The specific duties can vary depending on the type of farming, size of the farm, and the crops or livestock involved. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-13T21:25:37.800Z"
+  },
+  "created": {
+    "$date": "2024-01-13T21:25:37.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a4cd1a557aed6fa8cd795e"
+  },
+  "name": "Art Historian",
+  "description": "An expert in or student of the history and development of painting, sculpture, and the other visual arts",
+  "image": "35e8c972-edc1-47a5-b626-c03714fb8036-art his",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T06:13:46.130Z"
+  },
+  "created": {
+    "$date": "2024-01-15T06:13:46.130Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a4cd1a557aed6fa8cd7960"
+  },
+  "name": "Museum Curator",
+  "description": "A museum curator is a person who works in a museum and is responsible for curating collections, exhibits and other artifacts that will be displayed at the museum. These professionals play a large role in how the museum's visitors experience the materials they see. Museum curators manage the collections and artifacts as well as care for them to ensure they maintain their integrity and condition.",
+  "image": "6ceada02-b135-470f-90c6-44c3950bd003-museum ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T06:13:46.137Z"
+  },
+  "created": {
+    "$date": "2024-01-15T06:13:46.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a55ead557aed6fa8ce1b4e"
+  },
+  "name": "Business person",
+  "description": "A person who works in business or commerce, especially at an executive level",
+  "image": "50de5dc1-926b-47b1-8e45-ea0ab4d3b71a-busines",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T16:34:53.095Z"
+  },
+  "created": {
+    "$date": "2024-01-15T16:34:53.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a55ead557aed6fa8ce1b50"
+  },
+  "name": "Comedian",
+  "description": "A comedian is one who entertains through comedy, such as jokes and other forms of humor. ",
+  "image": "09bfac4a-c54b-42eb-8753-0a57635e4b5b-comedia",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T16:34:53.109Z"
+  },
+  "created": {
+    "$date": "2024-01-15T16:34:53.109Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a6023f557aed6fa8d1f4d7"
+  },
+  "name": "Horse Trainer",
+  "description": "A horse trainer is a professional who is responsible for the education, conditioning, and development of horses. They teach horses different disciplines, specific commands, and desired behavior. They employ a variety of techniques to establish a bond with the horses, gain their trust, and effectively communicate with them. Horse trainers are employed to subdue or train horses for use.",
+  "image": "1f363c16-b959-414e-af89-9eb50a0d9c78-horse t",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-16T04:12:47.581Z"
+  },
+  "created": {
+    "$date": "2024-01-16T04:12:47.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac7e4d557aed6fa8d49d1c"
+  },
+  "name": "Extreme Sports",
+  "image": "24aa3868-292f-41f4-aca5-959b54d0e302-image_2",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-21T02:15:41.939Z"
+  },
+  "created": {
+    "$date": "2024-01-21T02:15:41.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ad39a7557aed6fa8d4d7cb"
+  },
+  "name": "Coaching",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-21T15:35:03.520Z"
+  },
+  "created": {
+    "$date": "2024-01-21T15:35:03.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ad4d39557aed6fa8d4ef22"
+  },
+  "name": "Principal",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-21T16:58:33.685Z"
+  },
+  "created": {
+    "$date": "2024-01-21T16:58:33.685Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b01847557aed6fa8d629a4"
+  },
+  "name": "Reptile Caretaker",
+  "description": "Reptile caretakers may work in zoos, specialty stores, or animal sanctuaries. Responsibilities include feeding, watering, habitat setup and maintenance, socialization and health monitoring. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-23T19:49:27.464Z"
+  },
+  "created": {
+    "$date": "2024-01-23T19:49:27.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b1e5f7557aed6fa8d763b1"
+  },
+  "name": "Correctional officer",
+  "description": "A corrections officer (CO), also known as a correctional law enforcement officer or less formally as a prison guard, is a uniformed law enforcement official responsible for the custody, supervision, safety, and regulation of prisoners. They are responsible for the security of the facility and its property as well as other law enforcement functions.",
+  "image": "ee62f10c-a6e0-4231-8421-03480465c6d4-Correct",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-25T04:39:19.246Z"
+  },
+  "created": {
+    "$date": "2024-01-25T04:39:19.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b3506b557aed6fa8d86b51"
+  },
+  "name": "Fashion Stylist",
+  "description": "Stylists are professionals who curate outfits for various purposes in the fashion industry. They commonly work in retail, commercial or high fashion roles, in addition to consulting with private clients, depending on their particular interests and the opportunities available to them.",
+  "image": "f960482f-f18e-4e7a-81ec-cc51d8a37ebb-fashion",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-26T06:25:47.575Z"
+  },
+  "created": {
+    "$date": "2024-01-26T06:25:47.575Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b5e2c9557aed6fa8d99e67"
+  },
+  "name": "Waitstaff",
+  "description": "A person whose job is to serve customers at their tables in a restaurant.",
+  "image": "5a988987-98e3-47be-8546-ab783c0c2c01-waiter.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T05:14:49.678Z"
+  },
+  "created": {
+    "$date": "2024-01-28T05:14:49.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b5ecff557aed6fa8d9ec7c"
+  },
+  "name": "Media Studies",
+  "image": "37827597-e25e-46a1-8383-87433847a331-image_2",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T05:58:23.262Z"
+  },
+  "created": {
+    "$date": "2024-01-28T05:58:23.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b5f1d2557aed6fa8da29ca"
+  },
+  "name": "Science Fiction Writer",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T06:18:58.759Z"
+  },
+  "created": {
+    "$date": "2024-01-28T06:18:58.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b6ada4557aed6fa8db60f9"
+  },
+  "name": "Meteorologist",
+  "description": "Meteorologists study and analyze atmospheric phenomena to predict and understand weather patterns. They use various tools and technologies to collect data, create weather models, and communicate forecasts to the public. Meteorologists may work in different settings, including government agencies, research institutions, television stations, or private companies.",
+  "image": "3ed2d426-2191-42d3-b7c9-5eedb9f18f10-meteoro",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T19:40:20.779Z"
+  },
+  "created": {
+    "$date": "2024-01-28T19:40:20.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b6bca6557aed6fa8dbddd7"
+  },
+  "name": "Urban Planner",
+  "description": "Urban planners are responsible for developing and implementing plans and policies to guide the growth and development of cities and communities. They assess current conditions, identify future needs, and create strategies for land use, transportation, housing, and environmental sustainability.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T20:44:22.980Z"
+  },
+  "created": {
+    "$date": "2024-01-28T20:44:22.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b6bca6557aed6fa8dbddd9"
+  },
+  "name": "Transportation Planner",
+  "description": "ransportation planners focus on designing and managing transportation systems within urban areas. They analyze traffic patterns, assess public transportation needs, and develop plans for roadways, public transit, pedestrian, and bicycle infrastructure to improve mobility and accessibility.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T20:44:22.986Z"
+  },
+  "created": {
+    "$date": "2024-01-28T20:44:22.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b6bca6557aed6fa8dbdddb"
+  },
+  "name": "Community Organizer",
+  "description": "Community organizers work with residents, grassroots organizations, and community groups to advocate for sustainable development and equitable urban policies. They mobilize communities to participate in planning processes, voice their concerns, and advocate for solutions that prioritize the needs of local residents, especially those in underserved or marginalized communities.",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T20:44:22.991Z"
+  },
+  "created": {
+    "$date": "2024-01-28T20:44:22.991Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b6bca6557aed6fa8dbdddd"
+  },
+  "name": "Environmental Planner",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-28T20:44:22.995Z"
+  },
+  "created": {
+    "$date": "2024-01-28T20:44:22.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b72e62557aed6fa8dcd761"
+  },
+  "name": "Game development",
+  "description": "Game developers help to program video game structures and mechanics from concept to final product. ",
+  "image": "a05962d0-13bb-4ab0-950d-088784710176-game de",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-29T04:49:38.172Z"
+  },
+  "created": {
+    "$date": "2024-01-29T04:49:38.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b9d0d8f87f59c84cc6342d"
+  },
+  "name": "Postal Worker",
+  "description": "A postal worker is one who works for a post office, such as a mail carrier.",
+  "image": "71776720-edc3-4564-8df4-ea2d0d5c95db-postal ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-31T04:47:20.178Z"
+  },
+  "created": {
+    "$date": "2024-01-31T04:47:20.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb1599f87f59c84cc699bc"
+  },
+  "name": "Substance abuse counselor",
+  "description": "A substance abuse counselor is a trained healthcare professional specializing in the rehabilitation of individuals who suffer from substance addiction. They can support patients' recovery in a variety of ways, but often focus on changing patients' behavioral patterns and designing treatment plans that aid in clients' recovery.",
+  "image": "eb8884e0-12a8-4cc0-b5cf-4a66f2d7015e-substan",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-01T03:52:57.352Z"
+  },
+  "created": {
+    "$date": "2024-02-01T03:52:57.352Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c07e14f87f59c84cca76b9"
+  },
+  "name": "House cleaner",
+  "description": "A house cleaner is a professional who typically visits a client’s home less frequently to tackle deep-cleaning tasks and more labor-intensive cleaning. ",
+  "image": "d6335bce-cfda-444c-8539-1aef1c1bf90c-house c",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-05T06:20:04.231Z"
+  },
+  "created": {
+    "$date": "2024-02-05T06:20:04.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c07e14f87f59c84cca76bb"
+  },
+  "name": "Taxi driver",
+  "description": "A taxi driver operates a taxi or cab to transport passengers from one location to another, typically within a city or urban area.",
+  "image": "d2029b3e-d8b1-489b-aa20-55b211650c79-taxi dr",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-05T06:20:04.249Z"
+  },
+  "created": {
+    "$date": "2024-02-05T06:20:04.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c1b90df87f59c84ccbccfe"
+  },
+  "name": "Mover",
+  "description": "A mover transports furniture and belongings from one location to another. Movers ensure items are protected from damage and are placed in the correct location upon arrival. Movers are physically fit and responsible professionals who pack items efficiently, load and unload trucks and take accurate inventory. Movers work independently, for local moving companies or national franchises.",
+  "image": "b97110ac-55dc-4b4b-9ad9-32f29f1ba623-mover.j",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-06T04:43:57.933Z"
+  },
+  "created": {
+    "$date": "2024-02-06T04:43:57.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c5ac0df87f59c84ccf30dc"
+  },
+  "name": "Zookeeper",
+  "description": "A zookeeper, sometimes referred as animal keeper, is a person who manages zoo animals that are kept in captivity for conservation or to be displayed to the public. They are usually responsible for the feeding and daily care of the animals. ",
+  "image": "5772c224-4c50-420e-93ba-03299e2090d9-zookeep",
+  "active": false,
+  "updated": {
+    "$date": "2024-02-19T14:42:25.473Z"
+  },
+  "created": {
+    "$date": "2024-02-09T04:37:33.510Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c5c06ef87f59c84ccfe0f2"
+  },
+  "name": "Baker",
+  "description": "A smile is a facial expression formed primarily by flexing the muscles at the sides of the mouth.",
+  "image": "9ad7dfb0-a156-4a20-aaf2-8209a060a4d6-baker.j",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-09T06:04:30.260Z"
+  },
+  "created": {
+    "$date": "2024-02-09T06:04:30.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8d24cf87f59c84cd0b563"
+  },
+  "name": "Intelligence Officer",
+  "description": " Intelligence officers work for government agencies such as the CIA (Central Intelligence Agency), MI6 (Secret Intelligence Service), Mossad, or other national intelligence agencies. They collect and analyze information to provide insights on threats, risks, and opportunities to policymakers and decision-makers.",
+  "image": "4b1b5573-656f-4551-a0c6-f8850def7814-intelli",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-11T13:57:32.450Z"
+  },
+  "created": {
+    "$date": "2024-02-11T13:57:32.450Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c9ab33f87f59c84cd1a626"
+  },
+  "name": "Starship Engineer",
+  "description": "Starship Engineering is a Tech Skill in Starfield. Starship Engineering is a Tech Skill that enhances ship systems repair speed, damage mitigation, and efficiency, providing faster recovery from damage.",
+  "image": "35f6ab72-d508-4b60-b4de-81278e5bfff6-An-engi",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-12T05:22:59.775Z"
+  },
+  "created": {
+    "$date": "2024-02-12T05:22:59.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c9ab33f87f59c84cd1a628"
+  },
+  "name": "Surf instructor",
+  "description": "Surf instructor jobs involve teaching individuals of all ages and skill levels how to surf or improve their existing surfing techniques. You’ll be responsible for providing both theoretical and practical lessons, ensuring the safety of your students, and fostering a supportive and encouraging learning environment. This role requires strong communication skills, a thorough understanding of surfing techniques, and a passion for sharing your love for the ocean.",
+  "image": "9db0a8c3-e00b-433a-8afe-458e8d4788a3-surf in",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-12T05:22:59.790Z"
+  },
+  "created": {
+    "$date": "2024-02-12T05:22:59.790Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb02b7f87f59c84cd33983"
+  },
+  "name": "Magician",
+  "description": "A magician is a person who performs illusions, often involving sleight of hand or supernatural powers, for the purposes of entertainment, deception, or psychological manipulation. Magicians may also use their skills to perform other feats such as escaping from handcuffs or stage tricks involving levitation and disappearing acts.",
+  "image": "6e1efa02-d542-4780-9431-c9ebfaef0d38-magicia",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-13T05:48:39.771Z"
+  },
+  "created": {
+    "$date": "2024-02-13T05:48:39.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ceacdef87f59c84cd5beb0"
+  },
+  "name": "Photographer",
+  "description": "An unroofed area that is completely or mostly enclosed by the walls of a large building",
+  "image": "c0e511c3-a095-4d9a-a934-ce6772cec9e8-photogr",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-16T00:31:26.359Z"
+  },
+  "created": {
+    "$date": "2024-02-16T00:31:26.359Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d368dcf87f59c84cd755ef"
+  },
+  "name": "Zookeeper",
+  "description": "A zookeeper, sometimes referred as animal keeper, is a person who manages zoo animals that are kept in captivity for conservation or to be displayed to the public. They are usually responsible for the feeding and daily care of the animals.",
+  "image": "5067f15f-27c8-403a-bd20-1908697e0999-zookeep",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T14:42:36.809Z"
+  },
+  "created": {
+    "$date": "2024-02-19T14:42:36.809Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d3d193f87f59c84cdc2818"
+  },
+  "name": "Licensed Mental Health Counselor",
+  "description": "A licensed mental health counselor (LMHC) is a professional who provides therapeutic services to individuals, couples, families, and groups experiencing mental health challenges or emotional distress. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T22:09:23.203Z"
+  },
+  "created": {
+    "$date": "2024-02-19T22:09:23.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d3d193f87f59c84cdc281a"
+  },
+  "name": "Art Therapist",
+  "description": "Art therapists use creative techniques such as drawing, painting, and sculpting to help clients explore and express their emotions. Through artistic expression, clients can access and process complex emotions in a nonverbal way.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T22:09:23.211Z"
+  },
+  "created": {
+    "$date": "2024-02-19T22:09:23.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d3d193f87f59c84cdc281c"
+  },
+  "name": "School Counselor",
+  "description": "School counselors support students' social, emotional, and academic development. They help students identify and manage their emotions, navigate interpersonal relationships, and develop coping skills for dealing with stress and challenges.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T22:09:23.216Z"
+  },
+  "created": {
+    "$date": "2024-02-19T22:09:23.216Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d3e012f87f59c84cdce205"
+  },
+  "name": "Nature Educator",
+  "description": "Nature educators facilitate outdoor learning experiences that promote environmental awareness, outdoor skills, and emotional well-being. They may work in schools, nature centers, or outdoor education programs, leading nature walks, workshops, and experiential learning activities for children and families.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T23:11:14.494Z"
+  },
+  "created": {
+    "$date": "2024-02-19T23:11:14.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d3e012f87f59c84cdce207"
+  },
+  "name": "Family Dynamics Coach",
+  "description": "A professional who specializes in helping families improve communication, resolve conflicts, and strengthen relationships.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-19T23:11:14.503Z"
+  },
+  "created": {
+    "$date": "2024-02-19T23:11:14.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d51658f87f59c84cdfc339"
+  },
+  "name": "Animal Advocate",
+  "description": "Advocate for policies and initiatives that support humane stray cat management, such as TNR programs, funding for spay/neuter clinics, and anti-cruelty laws.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T21:15:04.321Z"
+  },
+  "created": {
+    "$date": "2024-02-20T21:15:04.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d51658f87f59c84cdfc33b"
+  },
+  "name": "Veterinarian",
+  "description": "Veterinarians and veterinary technicians provide medical care to animals, including stray cats. This career involves diagnosing and treating illnesses, performing surgeries, and promoting animal health and welfare.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T21:15:04.400Z"
+  },
+  "created": {
+    "$date": "2024-02-20T21:15:04.400Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d51658f87f59c84cdfc33d"
+  },
+  "name": "Animal Control Officer",
+  "description": "Animal control officers enforce animal-related laws and regulations, respond to calls about stray animals, and ensure the humane treatment of animals in the community.",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-20T21:15:04.435Z"
+  },
+  "created": {
+    "$date": "2024-02-20T21:15:04.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d81f59f87f59c84ce9fd72"
+  },
+  "name": "Costume Designer",
+  "description": "A costume designer is the individual in charge of designing the clothing elements worn by actors in a film or stage production. Costume Designers possess a similar skill set to that of traditional fashion designers but must also satisfy the unique demands of designing clothes for theatre or film.",
+  "image": "b9bf0592-53cf-4a85-bf9b-5516310588c0-costume",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T04:30:17.540Z"
+  },
+  "created": {
+    "$date": "2024-02-23T04:30:17.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d81f59f87f59c84ce9fd74"
+  },
+  "name": "Circus Performer",
+  "description": "This can include performance jobs, like juggler, acrobat, dancer, aerialist, ringmaster, clown or tightrope walker, as well as supporting roles.",
+  "image": "848b909f-c835-48aa-9737-e0ebe251674f-circus ",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-23T04:30:17.554Z"
+  },
+  "created": {
+    "$date": "2024-02-23T04:30:17.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dabf04f87f59c84cf21a29"
+  },
+  "name": "Military",
+  "description": "The branches of the US military includes : Army, Navy, Air Force, Marines, Space Force and Coast Guard. ",
+  "image": "1aa1ed90-6fe6-4271-b330-2509f4d1d321-miltary",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-25T04:16:04.545Z"
+  },
+  "created": {
+    "$date": "2024-02-25T04:16:04.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dad086f87f59c84cf2b1a1"
+  },
+  "name": "Ride Share Driver",
+  "description": "Ride Share companies allow you to set your own hours for work. When you become a driver for Ride share companies, then you get to be in charge of the schedule that you keep. It is up to you to determine where you want to drive, when you want to get behind the wheel, and how long you can earn money each day.",
+  "image": "8f61044e-83b5-4cb4-a6b6-9c153a6d30ba-Ridesha",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-25T05:30:46.332Z"
+  },
+  "created": {
+    "$date": "2024-02-25T05:30:46.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dad086f87f59c84cf2b1a3"
+  },
+  "name": "Casino Card Dealer",
+  "description": "These professionals are responsible for distributing winnings, supervising the game and operating gambling equipment. As a casino card dealer, you may also have to greet customers, explain the game rules and ensure everyone is treated fairly.",
+  "image": "8b3b6bc0-9716-4923-9009-bcf5abf23f6a-Casino ",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-25T05:30:46.348Z"
+  },
+  "created": {
+    "$date": "2024-02-25T05:30:46.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65db6f64f87f59c84cf460ad"
+  },
+  "name": "Vision rehabilitation therapist",
+  "description": "Teaches adaptive techniques for everyday tasks.",
+  "image": "77a89aa8-5cef-4bf0-87b4-fcc6cf2afc9f-HB-VIsi",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-25T16:48:36.360Z"
+  },
+  "created": {
+    "$date": "2024-02-25T16:48:36.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65db6f64f87f59c84cf460af"
+  },
+  "name": "Ophthalmologists",
+  "description": "Eye doctors who perform medical and surgical treatments for eye conditions. ",
+  "image": "4e13ce07-66eb-4588-aa07-b329e233e8e1-Ophthal",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-25T16:48:36.376Z"
+  },
+  "created": {
+    "$date": "2024-02-25T16:48:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dca504f87f59c84cf58fe9"
+  },
+  "name": "Phone operator",
+  "description": "Answers phones using appropriate etiquette in various industries. ",
+  "image": "b30d9b23-e16c-4df1-b019-82527a07afed-Telepho",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-26T14:49:40.920Z"
+  },
+  "created": {
+    "$date": "2024-02-26T14:49:40.920Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e16213f87f59c84cf80218"
+  },
+  "name": "Flight Attendant",
+  "description": "A flight attendant, traditionally known as a steward or stewardess ; or air host or hostess, is a member of the aircrew aboard commercial flights, many business jets and some government aircraft. Collectively called cabin crew, flight attendants are primarily responsible for passenger safety and comfort.",
+  "image": "5929659a-9ebb-4112-a18f-de42e9709c31-flight ",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-01T05:05:23.224Z"
+  },
+  "created": {
+    "$date": "2024-03-01T05:05:23.224Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e55980f87f59c84cf9beec"
+  },
+  "name": "Treasure Hunter",
+  "description": "A treasure hunter is someone with an inquisitive nature who uses their investigative talents to find lost, stolen, or forgotten treasure. It may be buried, sunken, hidden, part of a recovery mission, a historical find, or a prize as part of an elaborate hunt created by a person with means.",
+  "image": "393035bf-d2ec-4db1-8086-2a8eae55c9c7-treasur",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-04T05:17:52.972Z"
+  },
+  "created": {
+    "$date": "2024-03-04T05:17:52.972Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efb458a7947d5f1cb48dcb"
+  },
+  "name": "Pilot",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-12T01:48:08.058Z"
+  },
+  "created": {
+    "$date": "2024-03-12T01:48:08.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efb458a7947d5f1cb48dcd"
+  },
+  "name": "Soldier",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-12T01:48:08.071Z"
+  },
+  "created": {
+    "$date": "2024-03-12T01:48:08.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efb458a7947d5f1cb48dcf"
+  },
+  "name": "Politician",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-12T01:48:08.076Z"
+  },
+  "created": {
+    "$date": "2024-03-12T01:48:08.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efb458a7947d5f1cb48dd1"
+  },
+  "name": "Smuggler",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-12T01:48:08.080Z"
+  },
+  "created": {
+    "$date": "2024-03-12T01:48:08.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efb458a7947d5f1cb48dd3"
+  },
+  "name": "Special Effects Artist",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-12T01:48:08.085Z"
+  },
+  "created": {
+    "$date": "2024-03-12T01:48:08.085Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efb458a7947d5f1cb48dd5"
+  },
+  "name": "Sound Designer",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-12T01:48:08.089Z"
+  },
+  "created": {
+    "$date": "2024-03-12T01:48:08.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efb458a7947d5f1cb48dd7"
+  },
+  "name": "Make-up Artist",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-12T01:48:08.094Z"
+  },
+  "created": {
+    "$date": "2024-03-12T01:48:08.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efb458a7947d5f1cb48dd9"
+  },
+  "name": "Director",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-12T01:48:08.099Z"
+  },
+  "created": {
+    "$date": "2024-03-12T01:48:08.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efb458a7947d5f1cb48ddb"
+  },
+  "name": "Bar Owner",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-12T01:48:08.103Z"
+  },
+  "created": {
+    "$date": "2024-03-12T01:48:08.103Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efb458a7947d5f1cb48ddd"
+  },
+  "name": "Mentor",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-12T01:48:08.107Z"
+  },
+  "created": {
+    "$date": "2024-03-12T01:48:08.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efb458a7947d5f1cb48ddf"
+  },
+  "name": "Weapons Technician",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-12T01:48:08.112Z"
+  },
+  "created": {
+    "$date": "2024-03-12T01:48:08.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efb458a7947d5f1cb48de1"
+  },
+  "name": "General (Military)",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-12T01:48:08.117Z"
+  },
+  "created": {
+    "$date": "2024-03-12T01:48:08.117Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f23093a7947d5f1cba4423"
+  },
+  "name": "Music Instructor",
+  "description": "A music instructor is responsible for teaching students  how to play musical instruments, sing, or understand music theory.",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-13T23:02:43.792Z"
+  },
+  "created": {
+    "$date": "2024-03-13T23:02:43.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f277c4a7947d5f1cbba828"
+  },
+  "name": "Markering Coordinator",
+  "description": "Marketing coordinators assist the marketing team in developing campaign strategies. They report to the marketing director or manager to analyze marketing efforts and plan new ideas related to increasing toy sales and customer connections. They may be involved in market research to gain insight into consumer trends or create reports to help leaders understand the effectiveness of their initiatives. Marketing coordinators also coordinate with creative professionals to produce copy, videos or graphics for digital and print marketing campaigns.",
+  "image": "3e34e681-7435-4a94-b86a-46f4ee56fbe5-Marketi",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-14T04:06:28.071Z"
+  },
+  "created": {
+    "$date": "2024-03-14T04:06:28.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f6667aa7947d5f1cc25345"
+  },
+  "name": "Store Clerk/Store Associate",
+  "description": "A Store Clerk, or Store Associate, provides in-store assistance to customers browsing inventory or checking out items. Their duties include welcoming customers to the store, answering questions about products and using a cash register to process purchases.",
+  "image": "15ddd2a1-c5bb-4e4f-b549-691b134eeb70-store c",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-17T03:41:46.632Z"
+  },
+  "created": {
+    "$date": "2024-03-17T03:41:46.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f6667aa7947d5f1cc25347"
+  },
+  "name": "Race car driver",
+  "description": "A race car driver is an individual who competes in automobile racing events. These skilled professionals drive high-performance vehicles on racetracks, circuits, or off-road courses, aiming to achieve the fastest lap times or win races. ",
+  "image": "13e5841c-3290-4841-a046-fdd1840a6d4e-race ca",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-17T03:41:46.652Z"
+  },
+  "created": {
+    "$date": "2024-03-17T03:41:46.652Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fbae65a7947d5f1cc84ac6"
+  },
+  "name": "Bridal Sales Associate",
+  "description": "A bridal store associate is a retail professional who works in a bridal boutique or store. Their primary role is to assist brides and their entourage in finding the perfect wedding attire and accessories.",
+  "image": "e6683fea-6d2b-4779-b3d1-6ec97fe65d93-bridal.",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-21T03:49:57.372Z"
+  },
+  "created": {
+    "$date": "2024-03-21T03:49:57.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ff409aa7947d5f1ccb3239"
+  },
+  "name": "Camp Counselor",
+  "description": "A camp counselor is an individual responsible for overseeing and facilitating activities and programs at a summer camp or similar recreational facility. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-23T20:50:34.142Z"
+  },
+  "created": {
+    "$date": "2024-03-23T20:50:34.142Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ff409aa7947d5f1ccb323b"
+  },
+  "name": "Historian ",
+  "description": "A historian is a professional who studies and interprets the past through research, analysis, and critical inquiry.",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-23T20:50:34.157Z"
+  },
+  "created": {
+    "$date": "2024-03-23T20:50:34.157Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660856b4a7947d5f1ccc7fca"
+  },
+  "name": "Aquarium Educator",
+  "description": "Professionals who work in an aquarium and share information about the various species. ",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-30T18:15:16.406Z"
+  },
+  "created": {
+    "$date": "2024-03-30T18:15:16.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6608606da7947d5f1ccd5401"
+  },
+  "name": "Wildlife Educator",
+  "description": "Wildlife educators use storytelling and educational materials to teach children and adults about animals, habitats, and conservation.",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-30T18:56:45.645Z"
+  },
+  "created": {
+    "$date": "2024-03-30T18:56:45.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660d8990a7947d5f1cd17ba0"
+  },
+  "name": "Marine",
+  "description": "The Marines specialize in amphibious operations, which are attacks launched from the sea by naval forces. They control the shores. The US Marine Corps is one of the five branches of the military and is directed by The Department of Defense. Although it remains a section of the Navy, it has its own structure.",
+  "active": true,
+  "updated": {
+    "$date": "2024-04-03T16:53:36.360Z"
+  },
+  "created": {
+    "$date": "2024-04-03T16:53:36.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660d8990a7947d5f1cd17ba2"
+  },
+  "name": "Airmen ",
+  "description": "Airmen work to support all aspects of airpower, which includes five core functions: air superiority; global strike; rapid global mobility; intelligence, surveillance and reconnaissance; and command and control.",
+  "active": true,
+  "updated": {
+    "$date": "2024-04-03T16:53:36.372Z"
+  },
+  "created": {
+    "$date": "2024-04-03T16:53:36.372Z"
+  },
+  "__v": 0
+}]

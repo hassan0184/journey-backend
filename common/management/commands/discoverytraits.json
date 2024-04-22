@@ -1,0 +1,504 @@
+[{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd1909d7"
+  },
+  "name": "Bravery",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.495Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd1909dc"
+  },
+  "name": "Humility",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.503Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd1909e4"
+  },
+  "name": "Gratitude",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.518Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd1909e7"
+  },
+  "name": "Forgiveness",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.522Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.522Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd1909e9"
+  },
+  "name": "Honesty",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.523Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd1909ec"
+  },
+  "name": "Love of Learning",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.527Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd1909ee"
+  },
+  "name": "Appreciation of Beauty",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.528Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd1909f3"
+  },
+  "name": "Curiosity",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.532Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd1909f8"
+  },
+  "name": "Creativity",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.539Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd1909fd"
+  },
+  "name": "Prudence",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.545Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd190a04"
+  },
+  "name": "Fairness",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.559Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd190a08"
+  },
+  "name": "Perseverance",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.563Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.563Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd190a06"
+  },
+  "name": "Humor",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.560Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.560Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd190a0a"
+  },
+  "name": "Spirituality",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.566Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd190a0c"
+  },
+  "name": "Enthusiasm",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.568Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd190a0e"
+  },
+  "name": "Perspective",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.572Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.572Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd190a12"
+  },
+  "name": "Teamwork",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.576Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.576Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd190a10"
+  },
+  "name": "Self-Control",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.573Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd190a14"
+  },
+  "name": "Social Intelligence",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.577Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd190a16"
+  },
+  "name": "Optimism",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.580Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd190a18"
+  },
+  "name": "Leadership",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.581Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd190a1a"
+  },
+  "name": "Kindness",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.581Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd190a1c"
+  },
+  "name": "Love",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.625Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f26ba1376d0f27cd190a02"
+  },
+  "name": "Social Responsibility",
+  "active": true,
+  "updated": {
+    "$date": "2023-09-01T22:54:25.555Z"
+  },
+  "created": {
+    "$date": "2023-09-01T22:54:25.555Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6590ffa26447ae6cc658c619"
+  },
+  "name": "Fun",
+  "active": true,
+  "updated": {
+    "$date": "2023-12-31T05:44:02.887Z"
+  },
+  "created": {
+    "$date": "2023-12-31T05:44:02.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659221906447ae6cc6595aa8"
+  },
+  "name": "cool",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-01T02:21:04.968Z"
+  },
+  "created": {
+    "$date": "2024-01-01T02:21:04.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6592318b6447ae6cc6599767"
+  },
+  "name": "Talented",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-01T03:29:15.351Z"
+  },
+  "created": {
+    "$date": "2024-01-01T03:29:15.351Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65995dd26447ae6cc65b1c51"
+  },
+  "name": "Little",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-06T14:04:02.349Z"
+  },
+  "created": {
+    "$date": "2024-01-06T14:04:02.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65995dd26447ae6cc65b1c56"
+  },
+  "name": "Happy",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-06T14:04:02.381Z"
+  },
+  "created": {
+    "$date": "2024-01-06T14:04:02.381Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5384a557aed6fa8cd93c3"
+  },
+  "name": "Carefree",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T13:51:06.009Z"
+  },
+  "created": {
+    "$date": "2024-01-15T13:51:06.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a53a74557aed6fa8cd9981"
+  },
+  "name": "Smart",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T14:00:20.794Z"
+  },
+  "created": {
+    "$date": "2024-01-15T14:00:20.794Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a53d61557aed6fa8cda3d3"
+  },
+  "name": "Wealthy",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-15T14:12:49.309Z"
+  },
+  "created": {
+    "$date": "2024-01-15T14:12:49.309Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b33ed7557aed6fa8d7e121"
+  },
+  "name": "Loyal ",
+  "active": true,
+  "updated": {
+    "$date": "2024-01-26T05:10:47.465Z"
+  },
+  "created": {
+    "$date": "2024-01-26T05:10:47.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c5b557f87f59c84ccf80f7"
+  },
+  "name": "Tall",
+  "active": true,
+  "updated": {
+    "$date": "2024-02-09T05:17:11.344Z"
+  },
+  "created": {
+    "$date": "2024-02-09T05:17:11.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efa1b5a7947d5f1cb27e05"
+  },
+  "name": "Nervous",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-12T00:28:37.677Z"
+  },
+  "created": {
+    "$date": "2024-03-12T00:28:37.677Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efaae3a7947d5f1cb322b3"
+  },
+  "name": "Incompetent",
+  "active": true,
+  "updated": {
+    "$date": "2024-03-12T01:07:47.054Z"
+  },
+  "created": {
+    "$date": "2024-03-12T01:07:47.054Z"
+  },
+  "__v": 0
+}]
