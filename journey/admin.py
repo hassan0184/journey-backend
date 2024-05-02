@@ -183,3 +183,12 @@ class AlliesQuestsAdmin(admin.ModelAdmin):
     ordering = ("-created_at",)
     readonly_fields = ("created_at", "updated_at")
     exclude = ("created_by", "updated_by")
+
+
+@admin.register(UserChallengeQuests)
+class UserChallengeQuestsAdmin(admin.ModelAdmin):
+    list_display = ("id", "is_completed")
+
+@admin.register(UserChallengeQuestObstacles)
+class UserChallengeQuestObstaclesAdmin(admin.ModelAdmin):
+    list_display = ("id", "obstacle_progress")

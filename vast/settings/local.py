@@ -1,6 +1,7 @@
 from .base import *
 
-
+CORS_ALLOW_ALL_ORIGINS = True
+CORS_ALLOW_CREDENTIALS = True
 ALLOWED_HOSTS = ["*"]
 AWS_S3_CUSTOM_DOMAIN = ""
 
