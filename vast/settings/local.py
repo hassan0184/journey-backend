@@ -1,8 +1,10 @@
 from .base import *
 
-CORS_ALLOW_ALL_ORIGINS = True
-CORS_ALLOW_CREDENTIALS = True
-ALLOWED_HOSTS = ["*"]
+CORS_ALLOWED_ORIGINS = [
+    'http://127.0.0.0:8000',
+    'http://44.210.118.15:8000/',
+    'http://localhost:3000/',
+]
 AWS_S3_CUSTOM_DOMAIN = ""
 
 MEDIA_ROOT = os.path.join(BASE_DIR, "media")
