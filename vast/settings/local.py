@@ -2,7 +2,8 @@ from .base import *
 
 
 CORS_ALLOWED_ORIGINS = [
-    "*"
+    "http://localhost:3000",  
+    "http://52.205.87.82:8000/",
 ]
 
 
@@ -28,7 +29,9 @@ CORS_ALLOW_METHODS = [
 ] 
 
 ALLOWED_HOSTS = [
-    '*'
+    'localhost',
+    '127.0.0.1',
+    '52.205.87.82',
 ]
 
 AWS_S3_CUSTOM_DOMAIN = ""
@@ -42,4 +45,3 @@ MEDIA_URL = "/media/"
 SITE_HEADER = "VAST-LOCAL administration"
 SITE_TITLE = "VAST-LOCAL administration"
 DISABLE_OTP = True
-DEBUG=True
