@@ -3,7 +3,7 @@ from .base import *
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",  
-    "http://52.205.87.82:8000/",
+    "http://52.205.87.82:8000",
 ]
 
 
