@@ -45,3 +45,4 @@ MEDIA_URL = "/media/"
 SITE_HEADER = "VAST-LOCAL administration"
 SITE_TITLE = "VAST-LOCAL administration"
 DISABLE_OTP = True
+DEBUG=True
