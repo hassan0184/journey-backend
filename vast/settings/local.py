@@ -31,7 +31,7 @@ CORS_ALLOW_METHODS = [
 ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
-    '44.210.118.15',
+    '52.205.87.82',
 ]
 
 AWS_S3_CUSTOM_DOMAIN = ""
